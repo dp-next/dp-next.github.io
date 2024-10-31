@@ -1,1 +1,1 @@
-Sitemap: https://steno-aarhus.github.io/dp-next/sitemap.xml
+Sitemap: https://dp-next.github.io/sitemap.xml
