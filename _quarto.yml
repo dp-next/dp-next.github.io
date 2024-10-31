@@ -1,10 +1,10 @@
 project:
-  type: sdca-theme
+  type: website
 
 website:
   title: "DP-Next"
-  site-url: "https://steno-aarhus.github.io/dp-next/"
-  repo-url: "https://github.com/steno-aarhus/dp-next"
+  site-url: "https://dp-next.github.io/"
+  repo-url: "https://github.com/dp-next/dp-next.github.io"
   navbar:
     pinned: true
     left:
@@ -20,9 +20,7 @@ website:
         href: who-we-are.qmd
     tools:
       - icon: github
-        href: "https://github.com/steno-aarhus/"
-      - icon: twitter
-        href: "https://twitter.com/StenoAarhusRes"
+        href: "https://github.com/dp-next/"
   sidebar:
       - id: wp1
         title: "WP1"
@@ -36,7 +34,7 @@ website:
           - wp1/application.qmd
 
 format: 
-  sdca-theme-html
+  html
 
 bibliography: references.bib
 csl: vancouver.csl
