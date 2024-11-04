@@ -10,11 +10,11 @@ website:
     left:
       - index.qmd 
       - sidebar:wp1
-      - text: WP2
+      - text: WP2: Risk Prediction
         href: wp2.qmd 
-      - text: WP3
+      - text: WP3: Heterogeneity
         href: wp3.qmd 
-      - text: WP4
+      - text: WP4: Intervention Development
         href: wp4.qmd 
       - text: Who We Are
         href: who-we-are.qmd
@@ -23,7 +23,7 @@ website:
         href: "https://github.com/dp-next/"
   sidebar:
       - id: wp1
-        title: "WP1"
+        title: "WP1: Management and Collaboration"
         style: "floating"
         collapse-level: 2
         contents:

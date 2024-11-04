@@ -12,6 +12,16 @@ themes in prevention and prediction of diabetes and its complications in
 (inter)national cohorts and register-based studies. He will be the
 Principal Investigator of the DP-Next project.
 
+[Luke Johnston](https://orcid.org/0000-0003-4169-2616) is a team leader
+at SDCA on the [Seedcase Project](https://seedcase-project.org/), a
+NNF-funded software and training-based project that aims at improving
+research data engineering and management practices and knowledge. While
+he now largely develops software and training material, he has a PhD in
+Nutritional Sciences doing diabetes epidemiology, is a strong advocate
+for more openness and reproducibility in science, and works to improve
+operational and organizational practices on several larger projects
+across SDCA. He will be the work package leader for Work Package 1.
+
 [Stine Byberg](https://orcid.org/0000-0002-3626-3609) is an
 epidemiologist and Senior researcher at Steno Diabetes Center
 Copenhagen, and currently also Head of Research at Steno Diabetes Center
@@ -26,11 +36,10 @@ Odense. The has extensive experience in clinical research within type 2
 diabetes, obesity and type 1 diabetes. He will be the work package
 leader for Work Package 3.
 
-[Inger Katrine Dahl-Petersen](https://orcid.org/0000-0002-3157-8847) is
-a researcher/special consultant at Steno Diabetes Center Copenhagen. She
-is experienced in co-creating complex interventions and evaluation in
-the field of GDM and prevention of type 2 diabetes and has substantial
-experience in coordination of research projects. She will be the work
+[Jane Nautrup Østergaard](https://orcid.org/0000-0002-0627-1237) is
+program leader at Steno Diabetes Center Aarhus. She
+is experienced in the application of the Participatory System Dynamics Approach
+for the co-creation of complex interventions. She will be the work
 package leader for WP4.
 
 [Gunnar Toft](https://orcid.org/0000-0002-7542-6853) is senior
@@ -55,12 +64,3 @@ projects in the Faroe Islands. She will contribute to the project with
 her expertise within epidemiology and registry data in the Faroe
 Islands.
 
-[Luke Johnston](https://orcid.org/0000-0003-4169-2616) is a team leader
-at SDCA on the [Seedcase Project](https://seedcase-project.org/), a
-NNF-funded software and training-based project that aims at improving
-research data engineering and management practices and knowledge. While
-he now largely develops software and training material, he has a PhD in
-Nutritional Sciences doing diabetes epidemiology, is a strong advocate
-for more openness and reproducibility in science, and works to improve
-operational and organizational practices on several larger projects
-across SDCA. He will be the work package leader for Work Package 1.
