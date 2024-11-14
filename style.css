@@ -1,0 +1,11 @@
+.profile-picture {
+  display: inline-block;
+  border-radius: 50%;
+  object-fit: cover;
+  width: 300px;
+  height: 300px;
+}
+
+figcaption {
+  text-align: center;
+}
