@@ -9,13 +9,15 @@ website:
     pinned: true
     left:
       - index.qmd 
-      - sidebar:wp1
-      - text: WP2: Risk Prediction
-        href: wp2.qmd 
-      - text: WP3: Heterogeneity
-        href: wp3.qmd 
-      - text: WP4: Intervention Development
-        href: wp4.qmd 
+      - text: "Work packages"
+        menu: 
+        - sidebar:wp1
+        - text: "WP2: Risk Prediction"
+          href: wp2.qmd 
+        - text: "WP3: Heterogeneity"
+          href: wp3.qmd 
+        - text: "WP4: Intervention Development"
+          href: wp4.qmd 
       - text: Who We Are
         href: who-we-are.qmd
     tools:

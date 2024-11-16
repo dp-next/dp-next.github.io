@@ -1,10 +1,15 @@
 ---
 title: "Who We Are"
+css: style.css
 ---
 
 DP-Next will be carried out by a cross-disciplinary team of
 epidemiologists, clinicians, health scientists and data scientists
 across all seven Steno Diabetes Centres:
+
+<!-- Images alternate between left and right -->
+::: {layout-ncol="2" .column-body-outset}
+![Daniel R. Witte](/images/profiles/daniel-witte.jpg){.profile-picture fig-alt="Daniel Witte profile picture."}
 
 [Daniel Witte](https://orcid.org/0000-0002-0769-2922) is professor of
 Diabetes Epidemiology at Aarhus University and has worked across various
@@ -22,6 +27,10 @@ for more openness and reproducibility in science, and works to improve
 operational and organizational practices on several larger projects
 across SDCA. He will be the work package leader for Work Package 1.
 
+![Luke W. Johnston](https://avatars.githubusercontent.com/u/6662983?v=4){.profile-picture fig-alt="Luke Johnston's profile picture."}
+
+![Stine Byberg](/images/profiles/stine-byberg.jpg){.profile-picture fig-alt="Stine Byberg's profile picture."}
+
 [Stine Byberg](https://orcid.org/0000-0002-3626-3609) is an
 epidemiologist and Senior researcher at Steno Diabetes Center
 Copenhagen, and currently also Head of Research at Steno Diabetes Center
@@ -36,16 +45,24 @@ Odense. The has extensive experience in clinical research within type 2
 diabetes, obesity and type 1 diabetes. He will be the work package
 leader for Work Package 3.
 
+![Claus Bogh Juhl](/images/profiles/claus-juhl.png){.profile-picture fig-alt="Claus Juhl's profile picture."}
+
+![Jane Nautrup Østergaard](/images/profiles/jane-nautrup-ostergaard.jpg){.profile-picture fig-alt="Jane Nautrup Østergaard's profile picture."}
+
 [Jane Nautrup Østergaard](https://orcid.org/0000-0002-0627-1237) is
 program leader at Steno Diabetes Center Aarhus. She
 is experienced in the application of the Participatory System Dynamics Approach
 for the co-creation of complex interventions. She will be the work
-package leader for WP4.
+package leader for Work Package 4.
 
 [Gunnar Toft](https://orcid.org/0000-0002-7542-6853) is senior
 researcher at SDCA, with broad epidemiological experience and experience
 in coordination of international research projects. He will act as
 general coordinator of the DP-Next project.
+
+![Gunnar Toft](/images/profiles/gunnar-toft.jpg){.profile-picture fig-alt="Gunnar Toft's profile picture."}
+
+![Karoline Kragelund Nielsen](/images/profiles/karoline-kragelund-nielsen.jpg){.profile-picture fig-alt="Karoline Kragelund Nielsen's profile picture."}
 
 [Karoline Kragelund Nielsen](https://orcid.org/0000-0002-4058-0615) is a
 senior researcher and heads the reproductive & family health group at
@@ -63,4 +80,7 @@ epidemiological experience and experience in conducting research
 projects in the Faroe Islands. She will contribute to the project with
 her expertise within epidemiology and registry data in the Faroe
 Islands.
+
+![Maria Skaalum Petersen](/images/profiles/maria-skaalum-petersen.jpg){.profile-picture fig-alt="Maria Skaalum Petersen's profile picture."}
+:::
 
