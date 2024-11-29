@@ -82,5 +82,14 @@ her expertise within epidemiology and registry data in the Faroe
 Islands.
 
 ![Maria Skaalum Petersen](/images/profiles/maria-skaalum-petersen.jpg){.profile-picture fig-alt="Maria Skaalum Petersen's profile picture."}
+
+![Nicklas Højgaard-Hessellund Rasmussen](/images/profiles/nicklas-højgaard-hessellund-rasmussen.jpg){.profile-picture fig-alt="Nicklas Højgaard-Hessellund Rasmussen's profile picture."}
+
+[Nicklas Højgaard-Hessellund Rasmussen](https://orcid.org/0000-0002-3880-3058),
+is a Senior Researcher and Associate Professor at Steno Diabetes Center North Jutland. 
+He brings extensive expertise in research on the prevention of diabetic complications, 
+including atypical manifestations. His work focuses on epidemiology and intervention
+research, with much of it funded by the Danish Diabetes and Endocrine Academy (DDEA). 
+Within the DP-Next project, his contributions center on Work Package 3 (WP3).
 :::
 
