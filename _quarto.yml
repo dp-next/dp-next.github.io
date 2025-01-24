@@ -11,7 +11,7 @@ website:
       - index.qmd 
       - text: "Work packages"
         menu: 
-        - sidebar:wp1
+        - wp1/index.qmd
         - text: "WP2: Risk Prediction"
           href: wp2.qmd 
         - text: "WP3: Heterogeneity"
@@ -23,17 +23,6 @@ website:
     tools:
       - icon: github
         href: "https://github.com/dp-next/"
-  sidebar:
-      - id: wp1
-        title: "WP1: Management and Collaboration"
-        style: "floating"
-        collapse-level: 2
-        contents:
-          - wp1/index.qmd
-          - wp1/introduction.qmd
-          - wp1/strategy.qmd
-          - wp1/roadmap.qmd
-          - wp1/application.qmd
 
 format: 
   html
