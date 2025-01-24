@@ -1,6 +1,6 @@
 ---
-title: "Abstract"
-description: "Doing 'better research in less time' by following modern collaboration, open, and planning practices."
+title: "WP1: Better research in less time"
+description: "Doing 'better research in less time' by following ensuring reproducibility, being open, and using modern collaborative, operational, and project management practices."
 ---
 
 Science, while generating cutting-edge knowledge, lags behind most
