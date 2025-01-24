@@ -3,6 +3,11 @@ title: "WP1: Better research in less time"
 description: "Doing 'better research in less time' by following ensuring reproducibility, being open, and using modern collaborative, operational, and project management practices."
 ---
 
+::: callout-important
+More detailed documentation on this particular work package can be
+found on the webpage [here](https://dp-next.github.io/wp1-ros/).
+:::
+
 Science, while generating cutting-edge knowledge, lags behind most
 industry settings when it comes to practical, operational aspects. For
 instance, while much of research done now relies heavily on software and
