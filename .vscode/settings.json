@@ -1,6 +1,6 @@
 {
     "files.autoSave": "onFocusChange",
-    "editor.wordWrap": "off",
+    "editor.wordWrap": "on",
     "editor.formatOnSave": true,
     "git.autofetch": false,
     "quarto.visualEditor.markdownWrap": "column",
@@ -20,8 +20,8 @@
     ],
     "conventional-branch.format": "{Type}/{Branch}",
     "files.insertFinalNewline": true,
-    "cSpell.enableFiletypes": [
-        "quarto"
-    ],
+    "cSpell.enabledFileTypes": {
+        "quarto": true
+    },
     "cSpell.language": "en,en-GB",
 }
