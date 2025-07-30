@@ -1,16 +1,21 @@
-name: Build and deploy website
+name: Build website
 
 on:
   push:
-    branches: main
+    branches:
+      - main
 
-# you need these permissions to publish to GitHub pages
-permissions:
-    contents: write
-    pages: write
+# To force read only on all permissions at workflow level.
+permissions: read-all
 
 jobs:
-  build-deploy-docs:
-    uses: dp-next/.github/.github/workflows/reusable-build-website.yml@main
+  build-website:
+    uses: seedcase-project/.github/.github/workflows/reusable-build-docs.yml@main
+    # Only need these for this job.
+    permissions:
+      contents: write
+      pages: write
+    with:
+      hosting-provider: gh-pages
     secrets:
       github-token: ${{ secrets.GITHUB_TOKEN }}
