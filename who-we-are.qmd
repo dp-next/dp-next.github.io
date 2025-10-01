@@ -8,14 +8,16 @@ epidemiologists, clinicians, health scientists and data scientists
 across all seven Steno Diabetes Centres:
 
 <!-- Images alternate between left and right -->
-::: {layout-ncol="2" .column-body-outset}
-![Daniel R. Witte](/images/profiles/daniel-witte.jpg){.profile-picture fig-alt="Daniel Witte profile picture."}
+
+::: {.column-body-outset layout-ncol="2"}
+![Daniel R. Witte](/images/profiles/daniel-witte.jpg){.profile-picture
+fig-alt="Daniel Witte profile picture."}
 
 [Daniel Witte](https://orcid.org/0000-0002-0769-2922) is professor of
 Diabetes Epidemiology at Aarhus University and has worked across various
 themes in prevention and prediction of diabetes and its complications in
-(inter)national cohorts and register-based studies. He will be the
-Principal Investigator of the DP-Next project.
+(inter)national cohorts and register-based studies. He is the Principal
+Investigator of the DP-Next project.
 
 [Luke Johnston](https://orcid.org/0000-0003-4169-2616) is a team leader
 at SDCA on the [Seedcase Project](https://seedcase-project.org/), a
@@ -25,81 +27,96 @@ he now largely develops software and training material, he has a PhD in
 Nutritional Sciences doing diabetes epidemiology, is a strong advocate
 for more openness and reproducibility in science, and works to improve
 operational and organizational practices on several larger projects
-across SDCA. He will be the work package leader for Work Package 1.
+across SDCA. He is the work package leader for Work Package 1.
 
-![Luke W. Johnston](https://avatars.githubusercontent.com/u/6662983?v=4){.profile-picture fig-alt="Luke Johnston's profile picture."}
+![Luke W.
+Johnston](https://avatars.githubusercontent.com/u/6662983?v=4){.profile-picture
+fig-alt="Luke Johnston's profile picture."}
 
-![Stine Byberg](/images/profiles/stine-byberg.jpg){.profile-picture fig-alt="Stine Byberg's profile picture."}
+![Stine Byberg](/images/profiles/stine-byberg.jpg){.profile-picture
+fig-alt="Stine Byberg's profile picture."}
 
 [Stine Byberg](https://orcid.org/0000-0002-3626-3609) is an
 epidemiologist and Senior researcher at Steno Diabetes Center
 Copenhagen, and currently also Head of Research at Steno Diabetes Center
 Greenland. Stine has extensive experience in both conducting and
 supervising students in prediction models using register-based data.
-Stine will be the work package leader for Work Package 2.
+Stine is the work package leader for Work Package 2.
 
 [Claus Bogh Juhl](https://orcid.org/0000-0002-4285-5459) is clinical
 professor at University Hospital of Southern Denmark, Esbjerg and
 program leader of Clinical Interventions at Steno Diabetes Center
 Odense. The has extensive experience in clinical research within type 2
-diabetes, obesity and type 1 diabetes. He will be the work package
-leader for Work Package 3.
+diabetes, obesity and type 1 diabetes. He is the work package leader for
+Work Package 3.
 
-![Claus Bogh Juhl](/images/profiles/claus-juhl.png){.profile-picture fig-alt="Claus Juhl's profile picture."}
+![Claus Bogh Juhl](/images/profiles/claus-juhl.png){.profile-picture
+fig-alt="Claus Juhl's profile picture."}
 
-![Jane Nautrup Østergaard](/images/profiles/jane-nautrup-ostergaard.jpg){.profile-picture fig-alt="Jane Nautrup Østergaard's profile picture."}
+![Jane Nautrup
+Østergaard](/images/profiles/jane-nautrup-ostergaard.jpg){.profile-picture
+fig-alt="Jane Nautrup Østergaard's profile picture."}
 
 [Jane Nautrup Østergaard](https://orcid.org/0000-0002-0627-1237) is
-program leader at Steno Diabetes Center Aarhus. She
-is experienced in the application of the Participatory System Dynamics Approach
-for the co-creation of complex interventions. She will be the work
-package leader for Work Package 4.
+program leader at Steno Diabetes Center Aarhus. She is experienced in
+the application of the Participatory System Dynamics Approach for the
+co-creation of complex interventions. She is the work package leader for
+Work Package 4.
 
 [Gunnar Toft](https://orcid.org/0000-0002-7542-6853) is senior
 researcher at SDCA, with broad epidemiological experience and experience
-in coordination of international research projects. He will act as
-general coordinator of the DP-Next project.
+in coordination of international research projects. He acts as general
+coordinator of the DP-Next project.
 
-![Gunnar Toft](/images/profiles/gunnar-toft.jpg){.profile-picture fig-alt="Gunnar Toft's profile picture."}
+![Gunnar Toft](/images/profiles/gunnar-toft.jpg){.profile-picture
+fig-alt="Gunnar Toft's profile picture."}
 
-![Karoline Kragelund Nielsen](/images/profiles/karoline-kragelund-nielsen.jpg){.profile-picture fig-alt="Karoline Kragelund Nielsen's profile picture."}
+![Karoline Kragelund
+Nielsen](/images/profiles/karoline-kragelund-nielsen.jpg){.profile-picture
+fig-alt="Karoline Kragelund Nielsen's profile picture."}
 
 [Karoline Kragelund Nielsen](https://orcid.org/0000-0002-4058-0615) is a
 senior researcher and heads the reproductive & family health group at
 Steno Diabetes Center Copenhagen. She has vast experience with research
 related to GDM, prevention of type 2 diabetes and health systems
 research, including intervention, epidemiological and qualitative
-research. She will contribute to the project with her expertise within
-GDM, epidemiology and intervention research.
+research. She contributes to the project with her expertise within GDM,
+epidemiology and intervention research.
 
 [Maria Skaalum Petersen](https://orcid.org/0000-0001-9404-8440),
 professor in health science, is Head of Research at SDCF together with
 Dr. Johannesen, endocrinologist. She is also head of the Department of
 Research at the National Hospital of the Faroe Islands. She has a broad
 epidemiological experience and experience in conducting research
-projects in the Faroe Islands. She will contribute to the project with
-her expertise within epidemiology and registry data in the Faroe
-Islands.
+projects in the Faroe Islands. She contributes to the project with her
+expertise within epidemiology and registry data in the Faroe Islands.
 
-![Maria Skaalum Petersen](/images/profiles/maria-skaalum-petersen.jpg){.profile-picture fig-alt="Maria Skaalum Petersen's profile picture."}
+![Maria Skaalum
+Petersen](/images/profiles/maria-skaalum-petersen.jpg){.profile-picture
+fig-alt="Maria Skaalum Petersen's profile picture."}
 
-![Nicklas Højgaard-Hessellund Rasmussen](/images/profiles/nicklas-højgaard-hessellund-rasmussen.jpg){.profile-picture fig-alt="Nicklas Højgaard-Hessellund Rasmussen's profile picture."}
+![Nicklas Højgaard-Hessellund
+Rasmussen](/images/profiles/nicklas-højgaard-hessellund-rasmussen.jpg){.profile-picture
+fig-alt="Nicklas Højgaard-Hessellund Rasmussen's profile picture."}
 
-[Nicklas Højgaard-Hessellund Rasmussen](https://orcid.org/0000-0002-3880-3058),
-is a Senior Researcher and Associate Professor at Steno Diabetes Center North Jutland. 
-He brings extensive expertise in research on the prevention of diabetic complications, 
-including atypical manifestations. His work focuses on epidemiology and intervention
-research, with much of it funded by the Danish Diabetes and Endocrine Academy (DDEA). 
-Within the DP-Next project, his contributions center on Work Package 3 (WP3).
+[Nicklas Højgaard-Hessellund
+Rasmussen](https://orcid.org/0000-0002-3880-3058), is a Senior
+Researcher and Associate Professor at Steno Diabetes Center North
+Jutland. He brings extensive expertise in research on the prevention of
+diabetic complications, including atypical manifestations. His work
+focuses on epidemiology and intervention research, with much of it
+funded by the Danish Diabetes and Endocrine Academy (DDEA). Within the
+DP-Next project, his contributions center on Work Package 3 (WP3).
 
-[Johan Røikjer](https://orcid.org/0000-0002-4578-1328), is a Senior Researcher 
-at Steno Diabetes Center North Denmark, Aalborg University Hospital, 
-and an Associate Professor at Aalborg University. Johan Røikjer brings extensive 
-expertise in clinical research focusing on late diabetes complications with a 
-special interest in early detection and prevention of diabetic peripheral neuropathy, 
-diabetic foot complications and neuropathic pain. Within the DP-Next project, his 
+[Johan Røikjer](https://orcid.org/0000-0002-4578-1328), is a Senior
+Researcher at Steno Diabetes Center North Denmark, Aalborg University
+Hospital, and an Associate Professor at Aalborg University. Johan
+Røikjer brings extensive expertise in clinical research focusing on late
+diabetes complications with a special interest in early detection and
+prevention of diabetic peripheral neuropathy, diabetic foot
+complications and neuropathic pain. Within the DP-Next project, his
 contributions center on Work Package 3 (WP3).
 
-![Johan Røikjer](/images/profiles/johan-roeikjer.jpg){.profile-picture fig-alt="Johan Røikjer's profile picture."}
+![Johan Røikjer](/images/profiles/johan-roeikjer.jpg){.profile-picture
+fig-alt="Johan Røikjer's profile picture."}
 :::
-
