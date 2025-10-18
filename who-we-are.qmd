@@ -119,4 +119,18 @@ contributions center on Work Package 3 (WP3).
 
 ![Johan Røikjer](/images/profiles/johan-roeikjer.jpg){.profile-picture
 fig-alt="Johan Røikjer's profile picture."}
+
+![Herborg Líggjasardóttir
+Johannesen](/images/profiles/herborg-johannesen.png){.profile-picture
+fig-alt="Herborg Líggjasardóttir Johannesen's profile picture."}
+
+[Herborg Líggjasardóttir
+Johannesen](https://orcid.org/0000-0002-9048-3303), is an
+endocrinologist, Head of Function at Steno Diabetes Center Faroe Islands
+and consultant at the Department of Medicine, National Hospital of the
+Faroe Islands. She has research experience in endocrinology and
+epidemiology, focusing on thyroid diseases, diabetes, and endocrine
+health in the North Atlantic region. She contributes to DP-Next Work
+Packages 2 (WP2) and 3 (WP3) with clinical and research expertise in
+endocrine disorders in remote regions.
 :::
