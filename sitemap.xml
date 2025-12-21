@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dp-next.github.io/wp3.html</loc>
-    <lastmod>2025-05-16T11:54:56.225Z</lastmod>
-  </url>
-  <url>
     <loc>https://dp-next.github.io/wp1/index.html</loc>
-    <lastmod>2025-05-16T11:54:56.225Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dp-next.github.io/who-we-are.html</loc>
-    <lastmod>2025-05-16T11:54:56.224Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dp-next.github.io/wp4.html</loc>
-    <lastmod>2025-05-16T11:54:56.225Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dp-next.github.io/index.html</loc>
-    <lastmod>2025-05-16T11:54:56.223Z</lastmod>
+    <lastmod>2025-12-21T19:11:54.163Z</lastmod>
   </url>
   <url>
     <loc>https://dp-next.github.io/wp2.html</loc>
-    <lastmod>2025-05-16T11:54:56.225Z</lastmod>
+    <lastmod>2025-12-21T19:11:54.163Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dp-next.github.io/index.html</loc>
+    <lastmod>2025-12-21T19:11:54.160Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dp-next.github.io/who-we-are.html</loc>
+    <lastmod>2025-12-21T19:11:54.162Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dp-next.github.io/wp4.html</loc>
+    <lastmod>2025-12-21T19:11:54.163Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dp-next.github.io/wp3.html</loc>
+    <lastmod>2025-12-21T19:11:54.163Z</lastmod>
   </url>
 </urlset>
