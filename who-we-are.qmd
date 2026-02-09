@@ -3,7 +3,7 @@ title: "Who We Are"
 css: style.css
 ---
 
-DP-Next will be carried out by a cross-disciplinary team of
+DP-Nexxt will be carried out by a cross-disciplinary team of
 epidemiologists, clinicians, health scientists and data scientists
 across all seven Steno Diabetes Centres:
 
