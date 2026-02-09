@@ -8,7 +8,7 @@ More detailed documentation on this particular work package can be
 found on the webpage [here](https://dp-next.github.io/wp1-ros/).
 :::
 
-Science, test, while generating cutting-edge knowledge, lags behind most
+Science, while generating cutting-edge knowledge, lags behind most
 industry settings when it comes to practical, operational aspects that 
 aim to increase efficiency and effectiveness of the research lifecycle. For
 instance, while much of research done now relies heavily on software and
