@@ -8,9 +8,9 @@ about:
     image-shape: rounded
     links:
       - text: "For deltager"
-        href: "1homepage/deltager.qmd"
+        href: 1homepage/deltager.qmd
       - text: "For forsker"
-        href: "2overview/index.qmd"
+        href: 2overview/index.qmd
       - text: "Om personerne bag projektet"
-        href: "4who_we_are/who-we-are.html"
+        href: 4who_we_are/who-we-are.qmd
 ---
