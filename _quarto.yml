@@ -8,18 +8,18 @@ website:
   navbar:
     pinned: true
     left:
-      - index.qmd 
+      - 2overview/index.qmd 
       - text: "Work packages"
         menu: 
-        - wp1/index.qmd
+        - 3wp/wp1/index.qmd
         - text: "WP2: Risk Prediction"
-          href: wp2.qmd 
+          href: 3wp/wp2/wp2.qmd 
         - text: "WP3: Heterogeneity"
-          href: wp3.qmd 
+          href: 3wp/wp3/wp3.qmd 
         - text: "WP4: Intervention Development"
-          href: wp4.qmd 
+          href: 3wp/wp4/wp4.qmd 
       - text: Who We Are
-        href: who-we-are.qmd
+        href: 4who_we_are/who-we-are.qmd
     tools:
       - icon: github
         href: "https://github.com/dp-next/"
