@@ -133,4 +133,16 @@ epidemiology, focusing on thyroid diseases, diabetes, and endocrine
 health in the North Atlantic region. She contributes to DP-Next Work
 Packages 2 (WP2) and 3 (WP3) with clinical and research expertise in
 endocrine disorders in remote regions.
+
+
+![David Vadsholt](/images/profiles/david_vadsholt.jpg){.profile-picture
+fig-alt="David Vadsholt's profile picture."}
+
+[David Vadsholt](https://orcid.org/0000-0002-9048-3303), is a
+PhD-student at steno diabetes center north with a background that bridges
+both clinical practice and epidemiological research. Within the DP-Next
+project, he contributes to Work Package 3 (WP3).  
+
+
+
 :::
