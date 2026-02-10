@@ -1,0 +1,16 @@
+---
+title: "DP-Next: Sustainable Type 2 Diabetes Prevention"
+image: images/dpnextlogo.jpg
+title-block-banner: false
+about:
+    template: jolla
+    image-width: 35em
+    image-shape: rounded
+    links:
+      - text: "For deltager"
+        href: "1homepage/deltager.qmd"
+      - text: "For forsker"
+        href: "2overview/index.qmd"
+      - text: "Om personerne bag projektet"
+        href: "4who_we_are/who-we-are.html"
+---
