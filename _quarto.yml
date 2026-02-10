@@ -8,14 +8,11 @@ website:
   navbar:
     pinned: true
     left:
-      - 2overview/index.qmd 
-      - text: "Work packages"
-        menu: 
-        - 3wp/wp1/index.qmd
-        - text: "WP2: Risk Prediction"
-          href: 3wp/wp2/wp2.qmd 
-        - text: "WP3: Heterogeneity"
-          href: 3wp/wp3/wp3.qmd 
+      - 1homepage/index.qmd
+      - text: "Deltager"
+        href: 1homepage/deltager/index.qmd
+      - text: "Forsker"
+        href: 1homepage/forsker/index.qmd
         - text: "WP4: Intervention Development"
           href: 3wp/wp4/wp4.qmd 
       - text: Who We Are
