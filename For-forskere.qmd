@@ -1,0 +1,7 @@
+---
+title: "For forskere"
+format: html
+editor: visual
+---
+
+På denne side kopiere jeg tekst fra denne nuværende. Det vil være virkelig fedt, hvis jeg det kan blive den helt samme hjemmeside som før agtigt, så det står på engelsk og fungerer med underoverskrifter også

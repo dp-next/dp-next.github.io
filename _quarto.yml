@@ -3,34 +3,63 @@ project:
 
 website:
   title: "DP-Next"
-  site-url: "https://dp-next.github.io/"
-  repo-url: "https://github.com/dp-next/dp-next.github.io"
+  favicon: images/DP-Next-logo-mini.png
+  search:
+    type: textbox
   navbar:
     pinned: true
+    logo: images/DP-Next-logo-mini.png
     left:
-      - index.qmd 
+      - text: "Menu"
+        menu:
+          - text: "Forside"
+            href: index.qmd
+          - text: "For deltagere i studiet"
+            href: For-deltagere-i-studiet.qmd
+          - text: "For forskere"
+            href: overview.qmd
+          - text: "Om projektet"
+            href: Om-projektet.qmd
+      - text: "Overview"
+        href: overview.qmd
       - text: "Work packages"
-        menu: 
-        - wp1/index.qmd
-        - text: "WP2: Risk Prediction"
-          href: wp2.qmd 
-        - text: "WP3: Heterogeneity"
-          href: wp3.qmd 
-        - text: "WP4: Intervention Development"
-          href: wp4.qmd 
-      - text: Who We Are
+        menu:
+          - text: "WP1: Better research in less time"
+            href: wp1/index.qmd
+          - text: "WP2: Risk Prediction"
+            href: wp2.qmd
+          - text: "WP3: Heterogeneity"
+            href: wp3.qmd
+          - text: "WP4: Intervention Development"
+            href: wp4.qmd
+      - text: "Who We Are"
         href: who-we-are.qmd
-    tools:
-      - icon: github
-        href: "https://github.com/dp-next/"
-
-format: 
-  html
+    search: true
 
 bibliography: references.bib
 csl: vancouver.csl
 
-editor: 
-  markdown:
-    wrap: 72
-    canonical: true
+language:
+  search-box-placeholder: "Søg"
+  search-no-results-text: "Ingen resultater"
+  search-clear-button-title: "Ryd"
+  search-detached-cancel-button-title: "Annuller"
+
+format:
+  html:
+    css: style.css
+    include-after-body:
+      text: |
+        <script>
+        document.addEventListener('DOMContentLoaded', function() {
+          const currentPath = window.location.pathname;
+          const isResearcherPage = currentPath.includes('overview') || 
+                                   currentPath.includes('wp') || 
+                                   currentPath.includes('who-we-are');
+          if (isResearcherPage) {
+            document.body.classList.add('researcher-page');
+          } else {
+            document.body.classList.add('danish-page');
+          }
+        });
+        </script>
