@@ -16,7 +16,7 @@ En yderlig udfordring er, at mange af de personer, der er i størst risiko for a
 
 ## Hvad er nyt?
 
-De seneste årtier har skabt mange nye muligheder for bedre at kunne forebygge diabetes, men de bliver stadig ikke udnyttet fuldt ud:
+De seneste årtier har skabt mange nye muligheder for bedre at kunne forebygge type-2 diabetes, men de bliver stadig ikke udnyttet fuldt ud:
 
 -   **Brug af data:** Store sundhedsregistre og kunstig intelligens (AI) kan hjælpe med at finde frem til de personer, der har størst risiko, før de bliver syge.
 
