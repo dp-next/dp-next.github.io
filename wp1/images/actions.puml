@@ -1,7 +1,7 @@
 @startuml actions
 
-state "Central knowledge repository" as ckr { 
-  ckr : As GitHub repository and websites 
+state "Central knowledge repository" as ckr {
+  ckr : As GitHub repository and websites
   state "Study docs" as sd
   sd : - Study protocol
   sd : - Data management plan
@@ -13,7 +13,7 @@ state "Central knowledge repository" as ckr {
   od : - Operating procedures
   od : - Collaboration agreements
   od : - Workflows when working\n  with registers
-  
+
   state "Internal sharing" as share
   share : - Lessons learned
   share : - Challenges and barriers
@@ -23,7 +23,7 @@ state "Central knowledge repository" as ckr {
 state "Data engineering" as de {
   state "Data collection,\ngeneration" as dc
   dc : - From WP3 and WP4
-  
+
   state "Registers ingestion" as ri
   ri : - Original structure of Denmark\n  Statistics registers
   ri : - For WP2
