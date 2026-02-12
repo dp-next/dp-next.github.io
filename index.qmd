@@ -1,16 +1,43 @@
 ---
 title: "DP-Next: Sustainable Type 2 Diabetes Prevention"
-image: images/dpnextlogo.jpg
-title-block-banner: false
-about:
-    template: jolla
-    image-width: 35em
-    image-shape: rounded
-    links:
-      - text: "For deltager"
-        href: "1homepage/deltager.html"
-      - text: "For forsker"
-        href: "2overview/index.html"
-      - text: "Om personerne bag projektet"
-        href: "4who_we_are/who-we-are.html"
+css: style.css
 ---
+
+::: {.home-shell}
+::: {.home-hero}
+![DP-Next logo](/images/dpnextlogo.jpg){.home-logo fig-alt="DP-Next logo"}
+
+# DP-Next: Sustainable Type 2 Diabetes Prevention {.home-title}
+
+DP-Next samler klinisk viden, registerforskning og tværfagligt samarbejde for at styrke forebyggelsen af type 2-diabetes.
+:::
+
+::: {.home-paths}
+::: {.home-path-card}
+```{=html}
+<span class="home-path-label">JEG ER</span>
+<h2>Deltager</h2>
+<p>Læs om projektet i et let tilgængeligt format og se, hvordan du kan følge med.</p>
+<a class="home-card-link" href="1homepage/deltager.html">Gå til deltagerside</a>
+```
+:::
+
+::: {.home-path-card}
+```{=html}
+<span class="home-path-label">JEG ER</span>
+<h2>Forsker</h2>
+<p>Gå til den faglige oversigt med work packages, metoder og projektets forskningsramme.</p>
+<a class="home-card-link" href="2overview/index.html">Gå til forskerside</a>
+```
+:::
+
+::: {.home-path-card}
+```{=html}
+<span class="home-path-label">JEG ER</span>
+<h2>Interesseret</h2>
+<p>Mød personerne bag DP-Next og se, hvordan teamet er organiseret på tværs af work packages.</p>
+<a class="home-card-link" href="4who_we_are/who-we-are.html">Mød teamet</a>
+```
+:::
+:::
+:::

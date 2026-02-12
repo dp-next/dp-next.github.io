@@ -2,6 +2,117 @@ body, .main-container, .content {
   background: #fff !important;
 }
 
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap");
+
+body {
+  font-family: "Space Grotesk", "Segoe UI", sans-serif;
+}
+
+.home-shell {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1.2rem 0 2rem;
+}
+
+.home-hero {
+  position: relative;
+  text-align: center;
+  padding: 2rem 1.5rem 2.5rem;
+  border-radius: 20px;
+  background:
+    radial-gradient(circle at top right, rgba(68, 134, 192, 0.2), transparent 45%),
+    linear-gradient(140deg, #f8fbff 0%, #edf4fb 60%, #e9f1fa 100%);
+  border: 1px solid #d6e4f3;
+}
+
+.home-logo {
+  width: min(280px, 70vw);
+  height: auto;
+  border-radius: 14px;
+  box-shadow: 0 14px 28px rgba(13, 47, 81, 0.15);
+  margin-bottom: 1rem;
+}
+
+.home-title {
+  margin: 0;
+  font-size: clamp(1.7rem, 4vw, 2.8rem);
+  line-height: 1.08;
+  color: #0d2f51;
+}
+
+.home-hero p {
+  margin: 0.9rem auto 0;
+  max-width: 760px;
+  font-size: 1.03rem;
+  color: #1e2c3b;
+}
+
+.home-paths {
+  margin-top: 1.4rem;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.home-path-card {
+  color: #12263a;
+  background: #ffffff;
+  border: 1px solid #d9e4f0;
+  border-radius: 16px;
+  padding: 1.25rem;
+  box-shadow: 0 8px 18px rgba(19, 44, 68, 0.08);
+  transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease;
+}
+
+.home-path-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 26px rgba(17, 46, 76, 0.14);
+  border-color: #a8c4e0;
+}
+
+.home-path-label {
+  display: inline;
+  font-size: 0.73rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #40688f;
+  margin-bottom: 0;
+}
+
+.home-path-card h2 {
+  margin: 0.35rem 0 0.45rem;
+  font-size: 1.45rem;
+  line-height: 1.15;
+}
+
+.home-path-card p {
+  margin: 0 0 0.8rem;
+  font-size: 0.96rem;
+  line-height: 1.45;
+}
+
+.home-card-link {
+  display: inline-block;
+  margin-top: 0.35rem;
+  padding: 0.45rem 0.7rem;
+  border-radius: 10px;
+  border: 1px solid #b7cde3;
+  text-decoration: none;
+  font-weight: 600;
+  color: #154b7d;
+  background: #f4f9ff;
+}
+
+.home-card-link:hover {
+  background: #eaf4ff;
+}
+
+@media (max-width: 960px) {
+  .home-paths {
+    grid-template-columns: 1fr;
+  }
+}
+
 .profile-picture {
   display: inline-block;
   border-radius: 50%;
