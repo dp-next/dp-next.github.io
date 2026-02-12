@@ -1,0 +1,14 @@
+---
+title: "Who We Are"
+css: /4who_we_are/style.css
+---
+
+# Who We Are
+
+DP-Next is carried out by a cross-disciplinary team of epidemiologists,
+clinicians, health scientists, and data scientists across all seven Steno
+Diabetes Centres.
+
+[Read the Danish team page](/4who_we_are/who-we-are.html)
+
+[Open English homepage](/en/index.html)

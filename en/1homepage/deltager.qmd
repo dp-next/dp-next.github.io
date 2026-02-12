@@ -1,0 +1,11 @@
+---
+title: "Participant"
+css: /style.css
+---
+
+# Participant Information
+
+This page will contain participant-facing information about DP-Next in English.
+
+For now, you can view the current Danish participant page:
+[Open Danish participant page](/1homepage/deltager.html)

@@ -9,6 +9,12 @@ website:
   navbar:
     pinned: true
     left:
+      - text: "Language"
+        menu:
+          - text: "🇩🇰 Dansk"
+            href: index.qmd
+          - text: "🇬🇧 English"
+            href: en/index.qmd
       - text: "Deltager"
         href: 1homepage/deltager.qmd
       - text: "Forsker"
@@ -31,8 +37,9 @@ website:
       - icon: github
         href: "https://github.com/dp-next/"
 
-format: 
-  html
+format:
+  html:
+    include-after-body: language-switch.html
 
 bibliography: references.bib
 csl: vancouver.csl

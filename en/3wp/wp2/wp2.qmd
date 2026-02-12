@@ -1,0 +1,10 @@
+---
+title: "WP2"
+css: /style.css
+---
+
+# WP2
+
+English WP2 page (in progress).
+
+Current Danish page: [Open WP2](/3wp/wp2/wp2.html)
