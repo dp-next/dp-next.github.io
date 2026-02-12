@@ -4,7 +4,7 @@ page-layout: full
 ---
 
 :::: hero-container
-![](images/DP-Next-logo.jpg){width="500px"}
+![](images/DP-Next-logo.jpg){width="40%"}
 
 ::: nav-links
 [For deltagere i studiet](For-deltagere-i-studiet.qmd) [For forskere](overview.qmd) [Om projektet](Om-projektet.qmd)

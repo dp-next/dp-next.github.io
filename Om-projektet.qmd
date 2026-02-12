@@ -32,7 +32,7 @@ Vi vil bruge de nye teknologier og indsiger til at udvikle strategier, der kan f
 
 Vi vil arbejde imod dette mål på tværs af alle syv Steno Diabetes Centre:
 
-![](map-steno-centers.jpg){width="600px"}
+![](images/map-steno-centers.jpg){width="600px"}
 
 Vi arbejder mod vores mål gennem fire hovedindsatser (Work Packages) på tværs af alle syv Steno Diabetes Centre:
 
