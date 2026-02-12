@@ -1,0 +1,25 @@
+---
+title: "Luke W. Johnston"
+css: ../style.css
+---
+
+[Back to Who We Are](../who-we-are.html)
+
+::: {.person-profile}
+![Luke W. Johnston](https://avatars.githubusercontent.com/u/6662983?v=4){.person-profile-image fig-alt="Luke W. Johnston profile picture."}
+
+## Role
+Team Leader
+
+## Affiliation
+Steno Diabetes Center Copenhagen
+
+## Work Packages
+WP1
+
+## ORCID
+[0000-0003-4169-2616](https://orcid.org/0000-0003-4169-2616)
+
+## Description
+Luke W. Johnston is Team Leader at Steno Diabetes Center Copenhagen. Within DP-Next, Luke W. Johnston is affiliated with WP1.
+:::

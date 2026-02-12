@@ -11,7 +11,9 @@ const profileClass = isLead ? "leader-card" : "member-card";
   >
 
   <div class="person-name">
-    <%= person.name %>
+    <a class="person-name-link" href="/4who_we_are/people/<%= person.slug %>.html">
+      <%= person.name %>
+    </a>
   </div>
 
   <% if (person.role) { %>
@@ -40,5 +42,9 @@ const profileClass = isLead ? "leader-card" : "member-card";
       Work packages: <%= person.wps.join(", ") %>
     </div>
   <% } %>
+
+  <a class="person-profile-link" href="/4who_we_are/people/<%= person.slug %>.html">
+    View full profile
+  </a>
 
 </div>

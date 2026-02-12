@@ -1,0 +1,25 @@
+---
+title: "Nicklas Højgaard-Hessellund Rasmussen"
+css: ../style.css
+---
+
+[Back to Who We Are](../who-we-are.html)
+
+::: {.person-profile}
+![Nicklas Højgaard-Hessellund Rasmussen](/images/profiles/nicklas-højgaard-hessellund-rasmussen.jpg){.person-profile-image fig-alt="Nicklas Højgaard-Hessellund Rasmussen profile picture."}
+
+## Role
+Senior Researcher
+
+## Affiliation
+Steno Diabetes Center North Jutland
+
+## Work Packages
+WP3
+
+## ORCID
+[0000-0002-3880-3058](https://orcid.org/0000-0002-3880-3058)
+
+## Description
+Nicklas Højgaard-Hessellund Rasmussen is Senior Researcher at Steno Diabetes Center North Jutland. Within DP-Next, Nicklas Højgaard-Hessellund Rasmussen is affiliated with WP3.
+:::
