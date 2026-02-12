@@ -9,3 +9,90 @@
 figcaption {
   text-align: center;
 }
+
+.hero-container {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  margin-top: -15vh;
+  gap: 0.5rem;            /* Mindre gap: 1rem → 0.5rem */
+}
+
+.hero-container img {
+  width: 25vw;
+  height: auto;
+  margin-bottom: 0rem;
+}
+
+.nav-links {
+  display: flex;
+  gap: 20px;              /* Bevaret! */
+  margin-top: 0;          /* Fjernet 25px margin */
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #2c5f7d;
+  font-size: 0.9em;       /* Mindre: 1em → 0.9em */
+  padding: 9px 16px;      /* Mindre: 10px 18px → 9px 16px */
+  border: 1px solid #d0d0d0;
+  border-radius: 4px;
+  background-color: #fafafa;
+  transition: background-color 0.2s;
+}
+
+.nav-links a:hover {
+  background-color: #e8f5e9;
+}
+
+/* Logo i navbar */
+.navbar-brand img {
+  height: 40px;
+  margin-right: 10px;
+}
+
+/* Søgeikon helt til højre */
+.aa-DetachedSearchButton {
+  margin-left: auto !important;
+  order: 999 !important;
+}
+
+.navbar-collapse {
+  display: flex !important;
+  justify-content: space-between !important;
+}
+
+/* Skjul forsker-menu som standard (før JavaScript kører) */
+.navbar-nav .nav-item:nth-child(2),
+.navbar-nav .nav-item:nth-child(3),
+.navbar-nav .nav-item:nth-child(4) {
+  display: none !important;
+}
+
+/* Vis dansk menu som standard */
+.navbar-nav .nav-item:nth-child(1) {
+  display: block !important;
+}
+
+/* Når JavaScript tilføjer klasser, overstyr */
+body.researcher-page .navbar-nav .nav-item:nth-child(2),
+body.researcher-page .navbar-nav .nav-item:nth-child(3),
+body.researcher-page .navbar-nav .nav-item:nth-child(4) {
+  display: block !important;
+}
+
+body.researcher-page .navbar-nav .nav-item:nth-child(1) {
+  display: none !important;
+}
+
+body.danish-page .navbar-nav .nav-item:nth-child(2),
+body.danish-page .navbar-nav .nav-item:nth-child(3),
+body.danish-page .navbar-nav .nav-item:nth-child(4) {
+  display: none !important;
+}

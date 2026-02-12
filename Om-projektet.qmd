@@ -1,0 +1,45 @@
+---
+title: "Om projektet"
+format: html
+editor: visual
+---
+
+## Hvad er DP-Next?
+
+DP-Next er et projekt, der har til formål at udvikle langsigtet og effektive strategier til forebyggelse af type 2-diabetes i Danmark, Grønland og på Færøerne. Projektet er finansieret af [Novo Nordisk Fonden](https://novonordiskfonden.dk/en/) og startede officielt d. 1. september 2025. Projektets fulde navn er: Bæredygtig forebyggelse af type 2-diabetes i det 21. århundrede. Vi kalder det DP-Next, fordi vi gerne vil udvikle den næste generation af forebyggelsesstrategier for type-2 diabetes.
+
+## Hvorfor DP-Next?
+
+I mere end 20 år har man vidst, at det i princippet er muligt at forebygge type 2-diabetes ved hjælp af intensive livsstilsprogrammer. Udbredelsen af programmerne har dog ikke haft den ønskede effekt, da programmerne har været for ressourcekrævende og deltagerne sjældent har kunnet fastholde den nye adfærd over tid.
+
+En yderlig udfordring er, at mange af de personer, der er i størst risiko for at udvikle type-2 diabetes, sjældent deltager i de nuværende sundhedstilbud. Med andre ord findes der endnu ikke forebyggelsesprogrammer, som har vist gode langvarige effekter for størstedelen af den danske befolkning.
+
+## Hvad er nyt?
+
+De seneste årtier har skabt mange nye muligheder for bedre at kunne forebygge type-2 diabetes, men de bliver stadig ikke udnyttet fuldt ud:
+
+-   **Brug af data:** Store sundhedsregistre og kunstig intelligens (AI) kan hjælpe med at finde frem til de personer, der har størst risiko, før de bliver syge.
+
+-   **Forståelse for forskellighed**: Ny viden viser, at risikoen for diabetes varierer meget fra person til person. Vi ved nu, at "one-size-fits-all" løsninger ikke virker for alle.
+
+-   **Moderne teknologi**: Avanceret teknologi til at måle blodsukker, søvn og aktivitet, kombineret med smartphones og apps, giver os nye måder at vedligholde sunde vaner på.
+
+-   **Psykologisk indsigt:** Vi bruger vores viden om menneskelig adfærd til at skabe løsninger, der er motiverende at deltage i og lettere at passe ind i en almindelig hverdag.
+
+## Hvad gør DP-Next?
+
+Vi vil bruge de nye teknologier og indsiger til at udvikle strategier, der kan forebygge type 2-diabetes mere effektivt på længere sigt i Danmark, Grønland og på Færøerne.
+
+Vi vil arbejde imod dette mål på tværs af alle syv Steno Diabetes Centre:
+
+![](images/map-steno-centers.jpg){width="600px"}
+
+Vi arbejder mod vores mål gennem fire hovedindsatser (Work Packages) på tværs af alle syv Steno Diabetes Centre:
+
+• **WP1: Stærkt samarbejde.** Vi sikrer, at ledelse, viden og erfaringer deles tæt på tværs af hele Rigsfællesskabet, fra Grønland til Færøerne og Danmark.
+
+• **WP2: Målrettet opsporing.** Vi udvikler intelligente modeller baseret på registerdata, der kan forudsige risikoen for diabetes i hele befolkningen.
+
+• **WP3: Undersøger forskellige former for prediabetes.** Vi undersøger 1.000 personer for at finde ud af, hvorfor nogle udvikler type 2-diabetes, andre forbliver prædiabetikere, og nogle vender tilbage til normalt blodsukker. Vi kigger på både kroppen, livsstil og vaner.
+
+• **WP4: Løsninger skabt med borgerne og lokale aktører.** Vi udvikler nye forebyggelsestilbud i tæt samarbejde med borgere, familier, sundhedsprofessionelle, lokale organisationer og beslutningstagere (co-creation) for at sikre, at løsningerne er realistiske, bæredygtige og brugbare i hverdagen.
