@@ -10,11 +10,11 @@ WP3.1 will investigate to which degree detailed biological data (e.g. genetics, 
 
 ## WP 3.2 Deep Phenotyping of HbA1c defined pre-diabetes
 
-### Hypothesis: 
+### Hypothesis:
 Among individuals with routinely identified prediabetes based on HbA1c, deep phenotyping with non-invasive methods will identify subgroups at the highest risk of progression to T2D and subgroups likely to maintain prediabetes or achieve remission; beyond the predictive ability of age, sex, HbA1c and BMI.
 
-### Background: 
-Although elevated blood glucose precedes T2D onset by over a decade[@Tabak2009], many people with slightly elevated HbA1c do not progress to diabetes[@Vistisen2019]. Depending on the criteria for prediabetes, 10-40% develop T2D within 1-5 years[@Hong2016; @Larsson2000; @Tabak2012] and 17-45% revert to normoglycaemia[@Vistisen2019], pointing to significant heterogeneity in diabetes risk among individuals with prediabetes[@Hulman2017; @Hulman2018; @Hulman2018a]. A relatively recent cluster-driven diabetes subclassification delineated two subgroups with relatively young age of diabetes onset and absence of marked obesity and low insulin secretion[@Ahlqvist2018], which map to genetic, metabolic and phenotypic characteristics already present in pre-diabetes. Notably, a recent study identified elevated liver fat and diminished beta-cell function as the most predictive factors for progressing to T2D in people with pre-diabetes[@Wagner2021], highlighting the need to extend precision approaches for diabetes prevention beyond genetic predisposition and insulin resistance. 
+### Background:
+Although elevated blood glucose precedes T2D onset by over a decade[@Tabak2009], many people with slightly elevated HbA1c do not progress to diabetes[@Vistisen2019]. Depending on the criteria for prediabetes, 10-40% develop T2D within 1-5 years[@Hong2016; @Larsson2000; @Tabak2012] and 17-45% revert to normoglycaemia[@Vistisen2019], pointing to significant heterogeneity in diabetes risk among individuals with prediabetes[@Hulman2017; @Hulman2018; @Hulman2018a]. A relatively recent cluster-driven diabetes subclassification delineated two subgroups with relatively young age of diabetes onset and absence of marked obesity and low insulin secretion[@Ahlqvist2018], which map to genetic, metabolic and phenotypic characteristics already present in pre-diabetes. Notably, a recent study identified elevated liver fat and diminished beta-cell function as the most predictive factors for progressing to T2D in people with pre-diabetes[@Wagner2021], highlighting the need to extend precision approaches for diabetes prevention beyond genetic predisposition and insulin resistance.
 The current vision for precision prevention integrates data from genetic, biological (multi-omic), health behavioural and psycho-social components; however, few cohorts have these data in a contemporary population defined in a clinical context.
 
 ### Strategic Vision:

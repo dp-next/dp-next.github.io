@@ -5,10 +5,10 @@ title: "Work Package 2: Risk Prediction"
 The vision for WP2 is to develop an operational risk model that gives an individual diabetes risk prediction for the entire population of Denmark, Greenland and the Faroe Islands.  We will achieve this by designing a risk prediction algorithm based exclusively on existing register-based data. WP2 will have a duration of 3 years (Years 1 to 3 of the project) and includes partners from all 7 Steno Centers.
 
 ## Protocol
-The most up-to-date version of the full [WP2 analysis protocol](https://doi.org/10.5281/zenodo.15410789)[@Gerds2025] is published online on Zenodo. 
+The most up-to-date version of the full [WP2 analysis protocol](https://doi.org/10.5281/zenodo.15410789)[@Gerds2025] is published online on Zenodo.
 
 ## Methods
-The risk model will be developed using Danish nationwide register data in the DST environment (Figure 1). 
+The risk model will be developed using Danish nationwide register data in the DST environment (Figure 1).
 
 ![Registers and Diabetes Risk Indicators to be used in Work Package 2.](images/DP-Next_Registers.png){#fig-registers-used-in-DPNext}
 
@@ -28,5 +28,3 @@ Several smaller or larger models can be developed based on data accessibility an
 Risk groups identified in WP2 will inform the focus and structure of WP4 and will be used as a benchmark to examine the additional benefit of deep phenotyping in WP3.
 
 ## References
-
-

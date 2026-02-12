@@ -10,4 +10,3 @@ extend-exclude = [
 [default.extend-words]
 Claus = "Claus"
 claus = "claus"
-
