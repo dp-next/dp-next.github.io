@@ -1,0 +1,39 @@
+<%
+/*
+Input:
+people = array from people.json
+*/
+
+const workPackages = ["WP1", "WP2", "WP3", "WP4"];
+
+function getWPData(wp) {
+
+  const wpPeople = people.filter(p =>
+    p.wps && p.wps.includes(wp)
+  );
+
+  return {
+    leader: wpPeople.find(p => p.isLead),
+    members: wpPeople.filter(p => !p.isLead)
+  };
+}
+%>
+
+
+<div class="wp-grid">
+
+  <% workPackages.forEach(function(wp) {
+
+    const { leader, members } = getWPData(wp);
+
+  %>
+
+    <%- include("wp-column", {
+      wpName: wp,
+      leader: leader,
+      members: members
+    }) %>
+
+  <% }) %>
+
+</div>

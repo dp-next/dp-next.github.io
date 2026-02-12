@@ -133,4 +133,14 @@ epidemiology, focusing on thyroid diseases, diabetes, and endocrine
 health in the North Atlantic region. She contributes to DP-Next Work
 Packages 2 (WP2) and 3 (WP3) with clinical and research expertise in
 endocrine disorders in remote regions.
+
 :::
+
+
+<!-- Generated from data/people.json by render-people.js -->
+
+```{=html}
+{{< include wp-grid.html >}}
+```
+
+

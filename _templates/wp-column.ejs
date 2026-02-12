@@ -1,0 +1,33 @@
+<div class="wp-column">
+
+  <div class="wp-title">
+    <h3><%= wpName %></h3>
+  </div>
+
+  <% if (leader) { %>
+
+    <div class="wp-leader">
+
+      <%- include("person-card", {
+        person: leader,
+        isLead: true
+      }) %>
+
+    </div>
+
+  <% } %>
+
+  <div class="wp-members">
+
+    <% members.forEach(function(person) { %>
+
+      <%- include("person-card", {
+        person: person,
+        isLead: false
+      }) %>
+
+    <% }) %>
+
+  </div>
+
+</div>
