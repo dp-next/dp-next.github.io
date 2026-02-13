@@ -30,9 +30,6 @@ jobs:
       - name: Render DA/base site
         run: quarto render
 
-      - name: Render EN site
-        run: quarto render --config _quarto-en.yml --no-clean
-
       - name: Upload preview artifact
         uses: actions/upload-artifact@v4
         with:
