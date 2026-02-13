@@ -10,12 +10,12 @@ develop sustainable prevention strategies for type 2 diabetes.
 
 ## Project navigation
 
-- [WP1](/en/3wp/wp1/index.html)
-- [WP2](/en/3wp/wp2/wp2.html)
-- [WP3](/en/3wp/wp3/wp3.html)
-- [WP4](/en/3wp/wp4/wp4.html)
-- [Who We Are](/en/4who_we_are/who-we-are.html)
+- [WP1](/en/4wp/wp1/index.html)
+- [WP2](/en/4wp/wp2/wp2.html)
+- [WP3](/en/4wp/wp3/wp3.html)
+- [WP4](/en/4wp/wp4/wp4.html)
+- [Who We Are](/en/5whoweare/who-we-are.html)
 
 ## Need the Danish version?
 
-[Open Danish overview](/da/2overview/index.html)
+[Open Danish overview](/da/3researcher/index.html)

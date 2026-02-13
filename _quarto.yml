@@ -16,43 +16,43 @@ website:
           - text: "English"
             href: /en/1homepage/index.html
       - text: "Deltager"
-        href: da/1homepage/deltager.qmd
+        href: da/2participant/deltager.qmd
       - text: "Participant"
-        href: en/1homepage/deltager.qmd
+        href: en/2participant/deltager.qmd
       - text: "Forsker"
-        href: da/2overview/index.qmd
+        href: da/3researcher/index.qmd
       - text: "Researcher"
-        href: en/2overview/index.qmd
+        href: en/3researcher/index.qmd
       - text: "Work Packages"
         menu:
           - text: "WP1"
-            href: da/3wp/wp1/index.qmd
+            href: da/4wp/wp1/index.qmd
           - text: "WP1"
-            href: en/3wp/wp1/index.qmd
+            href: en/4wp/wp1/index.qmd
           - text: "WP2"
-            href: da/3wp/wp2/wp2.qmd
+            href: da/4wp/wp2/wp2.qmd
           - text: "WP2"
-            href: en/3wp/wp2/wp2.qmd
+            href: en/4wp/wp2/wp2.qmd
           - text: "WP3"
-            href: da/3wp/wp3/wp3.qmd
+            href: da/4wp/wp3/wp3.qmd
           - text: "WP3"
-            href: en/3wp/wp3/wp3.qmd
+            href: en/4wp/wp3/wp3.qmd
           - text: "WP4: Intervention Development"
-            href: da/3wp/wp4/wp4.qmd
+            href: da/4wp/wp4/wp4.qmd
           - text: "WP4: Intervention Development"
-            href: en/3wp/wp4/wp4.qmd
+            href: en/4wp/wp4/wp4.qmd
       - text: "Om Os"
-        href: da/4who_we_are/who-we-are.qmd
+        href: da/5whoweare/who-we-are.qmd
       - text: "Who We Are"
-        href: en/4who_we_are/who-we-are.qmd
+        href: en/5whoweare/who-we-are.qmd
       - text: "Publications"
-        href: da/5publications/publications.qmd
+        href: da/6publications/publications.qmd
       - text: "Publications"
-        href: en/5publications/publications.qmd
+        href: en/6publications/publications.qmd
       - text: "Support"
-        href: da/6support/support.qmd
+        href: da/7support/support.qmd
       - text: "Support"
-        href: en/6support/support.qmd
+        href: en/7support/support.qmd
     tools:
       - icon: github
         href: "https://github.com/dp-next/"

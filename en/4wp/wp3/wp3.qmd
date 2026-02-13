@@ -9,9 +9,9 @@ WP3 focuses on applied research activities related to prevention and complicatio
 
 ## Related sections
 
-- [Research Overview](/en/2overview/index.html)
-- [Who We Are](/en/4who_we_are/who-we-are.html)
+- [Research Overview](/en/3researcher/index.html)
+- [Who We Are](/en/5whoweare/who-we-are.html)
 
 ## Need the Danish version?
 
-[Open Danish WP3 page](/da/3wp/wp3/wp3.html)
+[Open Danish WP3 page](/da/4wp/wp3/wp3.html)

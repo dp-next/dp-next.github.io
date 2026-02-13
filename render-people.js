@@ -6,10 +6,10 @@ const peoplePath = path.join(__dirname, 'data', 'people.json');
 const templatePath = path.join(__dirname, '_templates', 'wp-grid.ejs');
 const templatesDir = path.join(__dirname, '_templates');
 
-const enOutputPath = path.join(__dirname, 'en', '4who_we_are', 'wp-grid.html');
-const daOutputPath = path.join(__dirname, 'da', '4who_we_are', 'wp-grid.html');
-const enPeoplePagesDir = path.join(__dirname, 'en', '4who_we_are', 'people');
-const daPeoplePagesDir = path.join(__dirname, 'da', '4who_we_are', 'people');
+const enOutputPath = path.join(__dirname, 'en', '5whoweare', 'wp-grid.html');
+const daOutputPath = path.join(__dirname, 'da', '5whoweare', 'wp-grid.html');
+const enPeoplePagesDir = path.join(__dirname, 'en', '5whoweare', 'people');
+const daPeoplePagesDir = path.join(__dirname, 'da', '5whoweare', 'people');
 
 function slugify(value) {
   return String(value)
@@ -91,8 +91,8 @@ function clearQmdFiles(dir) {
 const people = withSlugs(JSON.parse(fs.readFileSync(peoplePath, 'utf8')));
 const template = fs.readFileSync(templatePath, 'utf8');
 const baseHtml = ejs.render(template, { people }, { views: [templatesDir] });
-const enHtml = baseHtml.replaceAll('/4who_we_are/people/', '/en/4who_we_are/people/');
-const daHtml = baseHtml.replaceAll('/4who_we_are/people/', '/da/4who_we_are/people/');
+const enHtml = baseHtml.replaceAll('/4who_we_are/people/', '/en/5whoweare/people/');
+const daHtml = baseHtml.replaceAll('/4who_we_are/people/', '/da/5whoweare/people/');
 
 ensureDir(path.dirname(enOutputPath));
 ensureDir(path.dirname(daOutputPath));

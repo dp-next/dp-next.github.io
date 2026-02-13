@@ -9,9 +9,9 @@ WP4 focuses on intervention development and implementation perspectives.
 
 ## Related sections
 
-- [Research Overview](/en/2overview/index.html)
-- [Who We Are](/en/4who_we_are/who-we-are.html)
+- [Research Overview](/en/3researcher/index.html)
+- [Who We Are](/en/5whoweare/who-we-are.html)
 
 ## Need the Danish version?
 
-[Open Danish WP4 page](/da/3wp/wp4/wp4.html)
+[Open Danish WP4 page](/da/4wp/wp4/wp4.html)

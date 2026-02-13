@@ -19,7 +19,7 @@ for at styrke forebyggelsen af type 2-diabetes.
 <span class="home-path-label">JEG ER</span>
 <h2>Deltager</h2>
 <p>Laes om projektet i et let tilgaengeligt format og se, hvordan du kan foelge med.</p>
-<a class="home-card-link" href="/da/1homepage/deltager.html">Gaa til deltagerside</a>
+<a class="home-card-link" href="/da/2participant/deltager.html">Gaa til deltagerside</a>
 ```
 :::
 
@@ -28,7 +28,7 @@ for at styrke forebyggelsen af type 2-diabetes.
 <span class="home-path-label">JEG ER</span>
 <h2>Forsker</h2>
 <p>Gaa til den faglige oversigt med work packages, metoder og projektets forskningsramme.</p>
-<a class="home-card-link" href="/da/2overview/index.html">Gaa til forskerside</a>
+<a class="home-card-link" href="/da/3researcher/index.html">Gaa til forskerside</a>
 ```
 :::
 
@@ -37,7 +37,7 @@ for at styrke forebyggelsen af type 2-diabetes.
 <span class="home-path-label">JEG ER</span>
 <h2>Interesseret</h2>
 <p>Moed personerne bag DP-Next og se, hvordan teamet er organiseret paa tvaers af work packages.</p>
-<a class="home-card-link" href="/da/4who_we_are/who-we-are.html">Moed teamet</a>
+<a class="home-card-link" href="/da/5whoweare/who-we-are.html">Moed teamet</a>
 ```
 :::
 :::

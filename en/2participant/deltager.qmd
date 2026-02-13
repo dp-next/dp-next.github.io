@@ -16,4 +16,4 @@ diabetes through collaboration across all seven Steno Diabetes Centres.
 
 ## Need the Danish version?
 
-[Open Danish participant page](/da/1homepage/deltager.html)
+[Open Danish participant page](/da/2participant/deltager.html)

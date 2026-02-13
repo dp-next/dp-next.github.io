@@ -19,7 +19,7 @@ cross-disciplinary collaboration to strengthen prevention of type 2 diabetes.
 <span class="home-path-label">I AM</span>
 <h2>Participant</h2>
 <p>Read about the project in an accessible format and see how you can stay informed.</p>
-<a class="home-card-link" href="/en/1homepage/deltager.html">Go to participant page</a>
+<a class="home-card-link" href="/en/2participant/deltager.html">Go to participant page</a>
 ```
 :::
 
@@ -28,7 +28,7 @@ cross-disciplinary collaboration to strengthen prevention of type 2 diabetes.
 <span class="home-path-label">I AM</span>
 <h2>Researcher</h2>
 <p>Go to the scientific overview with work packages, methods, and project framework.</p>
-<a class="home-card-link" href="/en/2overview/index.html">Go to researcher page</a>
+<a class="home-card-link" href="/en/3researcher/index.html">Go to researcher page</a>
 ```
 :::
 
@@ -37,7 +37,7 @@ cross-disciplinary collaboration to strengthen prevention of type 2 diabetes.
 <span class="home-path-label">I AM</span>
 <h2>Interested</h2>
 <p>Meet the people behind DP-Next and see how the team is organized across work packages.</p>
-<a class="home-card-link" href="/en/4who_we_are/who-we-are.html">Meet the team</a>
+<a class="home-card-link" href="/en/5whoweare/who-we-are.html">Meet the team</a>
 ```
 :::
 :::
