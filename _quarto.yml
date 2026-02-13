@@ -6,8 +6,11 @@ website:
   title: "DP-Next"
   site-url: "https://dp-next.github.io/"
   repo-url: "https://github.com/dp-next/dp-next.github.io"
+  search:
+    type: textbox
   navbar:
     pinned: true
+    search: true
     left:
       - text: "Oversigt"
         href: index.qmd
@@ -27,6 +30,12 @@ website:
     tools:
       - icon: github
         href: "https://github.com/dp-next/"
+
+language:
+  search-box-placeholder: "Søg"
+  search-no-results-text: "Ingen resultater"
+  search-clear-button-title: "Ryd"
+  search-detached-cancel-button-title: "Annuller"
 
 format:
   html:
