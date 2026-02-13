@@ -1,16 +1,27 @@
 project:
   type: website
-  output-dir: ../_site
-  pre-render: node ../_templates/render-people.js
+  output-dir: _site
+  pre-render: node _templates/render-people.js
+  render:
+    - en/1homepage/index.qmd
+    - en/2participant/deltager.qmd
+    - en/3researcher/index.qmd
+    - en/4wp/wp1/index.qmd
+    - en/4wp/wp2/wp2.qmd
+    - en/4wp/wp3/wp3.qmd
+    - en/4wp/wp4/wp4.qmd
+    - en/5whoweare/who-we-are.qmd
+    - en/6publications/publications.qmd
+    - en/7support/support.qmd
   resources:
-    - ../images/**
-    - ../settings/**
-    - ../language-switch.html
-    - ../data/**
+    - images/**
+    - settings/**
+    - language-switch.html
+    - data/**
 
 website:
   title: "DP-Next"
-  site-url: "https://dp-next.github.io/da/"
+  site-url: "https://dp-next.github.io/en/"
   repo-url: "https://github.com/dp-next/dp-next.github.io"
   navbar:
     pinned: true
@@ -21,42 +32,24 @@ website:
             href: /da/1homepage/index.qmd
           - text: "English"
             href: /en/1homepage/index.qmd
-      - text: "Deltager"
-        href: /da/2participant/deltager.qmd
       - text: "Participant"
         href: /en/2participant/deltager.qmd
-      - text: "Forsker"
-        href: /da/3researcher/index.qmd
       - text: "Researcher"
         href: /en/3researcher/index.qmd
       - text: "Work Packages"
         menu:
           - text: "WP1"
-            href: /da/4wp/wp1/index.qmd
-          - text: "WP1"
             href: /en/4wp/wp1/index.qmd
-          - text: "WP2"
-            href: /da/4wp/wp2/wp2.qmd
           - text: "WP2"
             href: /en/4wp/wp2/wp2.qmd
           - text: "WP3"
-            href: /da/4wp/wp3/wp3.qmd
-          - text: "WP3"
             href: /en/4wp/wp3/wp3.qmd
           - text: "WP4: Intervention Development"
-            href: /da/4wp/wp4/wp4.qmd
-          - text: "WP4: Intervention Development"
             href: /en/4wp/wp4/wp4.qmd
-      - text: "Om Os"
-        href: /da/5whoweare/who-we-are.qmd
       - text: "Who We Are"
         href: /en/5whoweare/who-we-are.qmd
       - text: "Publications"
-        href: /da/6publications/publications.qmd
-      - text: "Publications"
         href: /en/6publications/publications.qmd
-      - text: "Support"
-        href: /da/7support/support.qmd
       - text: "Support"
         href: /en/7support/support.qmd
     tools:
@@ -65,11 +58,11 @@ website:
 
 format:
   html:
-    include-after-body: ../language-switch.html
+    include-after-body: language-switch.html
     css: /settings/style.css
 
-bibliography: ../settings/references.bib
-csl: ../settings/vancouver.csl
+bibliography: settings/references.bib
+csl: settings/vancouver.csl
 
 editor:
   markdown:

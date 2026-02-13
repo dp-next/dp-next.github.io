@@ -1,12 +1,12 @@
 project:
   type: website
-  output-dir: ../_site
-  pre-render: node ../_templates/render-people.js
+  output-dir: _site
+  pre-render: node _templates/render-people.js
   resources:
-    - ../images/**
-    - ../settings/**
-    - ../language-switch.html
-    - ../data/**
+    - images/**
+    - settings/**
+    - language-switch.html
+    - data/**
 
 website:
   title: "DP-Next"
@@ -65,11 +65,11 @@ website:
 
 format:
   html:
-    include-after-body: ../language-switch.html
+    include-after-body: language-switch.html
     css: /settings/style.css
 
-bibliography: ../settings/references.bib
-csl: ../settings/vancouver.csl
+bibliography: settings/references.bib
+csl: settings/vancouver.csl
 
 editor:
   markdown:
