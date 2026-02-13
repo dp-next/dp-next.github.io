@@ -1,20 +1,22 @@
 ---
-title: "DP-Next: Sustainable Type 2 Diabetes Prevention"
+title: ""
 css: ../style.css
 ---
 
-::: {.home-shell}
-::: {.home-hero}
-![DP-Next logo](/images/dpnextlogo.jpg){.home-logo fig-alt="DP-Next logo"}
+:::::::: home-shell
+::: home-hero
+![DP-Next logo](/images/dpnextlogo.jpg){.home-logo
+fig-alt="DP-Next logo"}
 
 # DP-Next: Sustainable Type 2 Diabetes Prevention {.home-title}
 
 DP-Next brings together clinical knowledge, registry-based research, and
-cross-disciplinary collaboration to strengthen prevention of type 2 diabetes.
+cross-disciplinary collaboration to strengthen prevention of type 2
+diabetes.
 :::
 
-::: {.home-paths}
-::: {.home-path-card}
+:::::: home-paths
+::: home-path-card
 ```{=html}
 <span class="home-path-label">I AM</span>
 <h2>Participant</h2>
@@ -23,7 +25,7 @@ cross-disciplinary collaboration to strengthen prevention of type 2 diabetes.
 ```
 :::
 
-::: {.home-path-card}
+::: home-path-card
 ```{=html}
 <span class="home-path-label">I AM</span>
 <h2>Researcher</h2>
@@ -32,7 +34,7 @@ cross-disciplinary collaboration to strengthen prevention of type 2 diabetes.
 ```
 :::
 
-::: {.home-path-card}
+::: home-path-card
 ```{=html}
 <span class="home-path-label">I AM</span>
 <h2>Interested</h2>
@@ -40,5 +42,5 @@ cross-disciplinary collaboration to strengthen prevention of type 2 diabetes.
 <a class="home-card-link" href="/en/4who_we_are/who-we-are.html">Meet the team</a>
 ```
 :::
-:::
-:::
+::::::
+::::::::
