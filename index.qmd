@@ -1,20 +1,21 @@
 ---
-title: "DP-Next: Sustainable Type 2 Diabetes Prevention"
+title: ""
 css: style.css
 ---
 
-::: {.home-shell}
-::: {.home-hero}
-![DP-Next logo](/images/dpnextlogo.jpg){.home-logo fig-alt="DP-Next logo"}
+:::::::: home-shell
+::: home-hero
+![DP-Next logo](/images/dpnextlogo.jpg){.home-logo
+fig-alt="DP-Next logo"}
 
 # DP-Next: Sustainable Type 2 Diabetes Prevention {.home-title}
 
-DP-Next samler klinisk viden, registerforskning og tværfagligt samarbejde
-for at styrke forebyggelsen af type 2-diabetes.
+DP-Next samler klinisk viden, registerforskning og tværfagligt
+samarbejde for at styrke forebyggelsen af type 2-diabetes.
 :::
 
-::: {.home-paths}
-::: {.home-path-card}
+:::::: home-paths
+::: home-path-card
 ```{=html}
 <span class="home-path-label">JEG ER</span>
 <h2>Deltager</h2>
@@ -23,7 +24,7 @@ for at styrke forebyggelsen af type 2-diabetes.
 ```
 :::
 
-::: {.home-path-card}
+::: home-path-card
 ```{=html}
 <span class="home-path-label">JEG ER</span>
 <h2>Forsker</h2>
@@ -32,7 +33,7 @@ for at styrke forebyggelsen af type 2-diabetes.
 ```
 :::
 
-::: {.home-path-card}
+::: home-path-card
 ```{=html}
 <span class="home-path-label">JEG ER</span>
 <h2>Interesseret</h2>
@@ -40,5 +41,5 @@ for at styrke forebyggelsen af type 2-diabetes.
 <a class="home-card-link" href="4who_we_are/who-we-are.html">Mød teamet</a>
 ```
 :::
-:::
-:::
+::::::
+::::::::
