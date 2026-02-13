@@ -1,5 +1,6 @@
 project:
   type: website
+  pre-render: node render-people.js
 
 website:
   title: "DP-Next"
@@ -8,29 +9,33 @@ website:
   navbar:
     pinned: true
     left:
-      - index.qmd
-      - text: "Work packages"
+      - text: "Oversigt"
+        href: index.qmd
+      - text: "Deltager"
+        href: 1homepage/deltager.qmd
+      - text: "Forsker"
+        href: 2overview/index.qmd
+      - text: "Om Os"
+        href: 4who_we_are/who-we-are.qmd
+    right:
+      - text: "Language"
         menu:
-        - wp1/index.qmd
-        - text: "WP2: Risk Prediction"
-          href: wp2.qmd
-        - text: "WP3: Heterogeneity"
-          href: wp3.qmd
-        - text: "WP4: Intervention Development"
-          href: wp4.qmd
-      - text: Who We Are
-        href: who-we-are.qmd
+          - text: "🇩🇰 Dansk"
+            href: index.qmd
+          - text: "🇬🇧 English"
+            href: en/index.qmd
     tools:
       - icon: github
         href: "https://github.com/dp-next/"
 
 format:
-  html
+  html:
+    include-after-body: navbar-switcher.html
 
 bibliography: references.bib
 csl: vancouver.csl
 
-editor:
+editor: 
   markdown:
     wrap: 72
     canonical: true

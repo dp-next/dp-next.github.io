@@ -1,0 +1,56 @@
+@startuml organization
+
+state "External academic\nreview board" as external
+
+state "Management" as mgt {
+    state "Management\ncommittee (WP1)" as mc
+    mc: - PI: Daniel Witte (A)
+    mc: - People: 7 (one rep\n  from each center)
+
+    state "Research ops\ncommittee (WP1)" as roc
+    roc : - Lead: Luke W. Johnston (A)
+    roc : - People: 8 (1 tech lead\n  from each center,\n  1 coordinator)
+}
+
+state "Individual WPs" as wps {
+    state "WP1: Management and\ncollaboration outputs" as wp1
+    wp1 : - Lead: Luke W. Johnston (A)
+    wp1 : - People: 4 (3 part-time tech\n  leads, 1 coordinator)
+    wp1 : - Centers: All
+
+    state "WP2: Risk\nprediction" as wp2
+    wp2 : - Lead: Stine Byberg (C)
+    wp2 : - People: 3 (postdoc, PhD\n  student, and TAP)
+    wp2 : - Centers: All
+
+    state "WP3: Heterogeneity" as wp3
+    wp3 : - Lead: Claus Juhl (O)
+    wp3 : - People: 3 (postdoc, PhD\n  student, and TAP)
+    wp3 : - Centers: O, A, G
+
+    state "WP4: Intervention\ndevelopment" as wp4
+    wp4 : - Lead: Anne-Louise\n  Bjerregaard (S)
+    wp4 : - People: 3 (postdoc, PhD\n  student, and TAP)
+    wp4 : - Centers: N, A, O, C, S
+}
+
+state "External collaborations" as collabs {
+  state "Seedcase Project" as seedcase
+  seedcase : - NNF-funded data\n  infrastructure software and\n  training project
+  seedcase : - Center: A
+}
+
+
+mgt -left[dashed]> external
+roc -> mc
+
+wp1 -[hidden]> wp2
+wp2 -[hidden]> wp3
+wp3 -[hidden]> wp4
+
+wps -up-> mgt
+seedcase -up-> roc
+seedcase -up-> wp1
+seedcase -up-> wp3
+
+@enduml

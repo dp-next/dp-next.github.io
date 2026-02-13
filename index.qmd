@@ -1,117 +1,44 @@
 ---
-title: "Overview"
+title: "DP-Next: Sustainable Type 2 Diabetes Prevention"
+css: style.css
 ---
 
-## What is DP-Next?
+::: {.home-shell}
+::: {.home-hero}
+![DP-Next logo](/images/dpnextlogo.jpg){.home-logo fig-alt="DP-Next logo"}
 
-DP-Next is a project aimed at developing a sustainably effective
-strategy for prevention of Type 2 Diabetes in Denmark, Greenland and the
-Faroe Islands. The project has been funded by a Steno National
-Collaborative Grant from the [Novo Nordisk
-Foundation](https://novonordiskfonden.dk/en/) and officially started on
-the 1st of September 2025. The full name of the project is: Sustainable
-Type 2 Diabetes Prevention for the 21st Century. We call it DP-Next
-because we intend to develop the next generation of Diabetes Prevention
-strategies.
+# DP-Next: Sustainable Type 2 Diabetes Prevention {.home-title}
 
-## Why is a new strategy for diabetes prevention necessary?
+DP-Next samler klinisk viden, registerforskning og tværfagligt samarbejde
+for at styrke forebyggelsen af type 2-diabetes.
+:::
 
-We have known for over two decades that it is possible *-in principle-*
-to prevent Type 2 Diabetes in people at very high risk by encouraging
-them to participate in a very intensive lifestyle modification program.
+::: {.home-paths}
+::: {.home-path-card}
+```{=html}
+<span class="home-path-label">JEG ER</span>
+<h2>Deltager</h2>
+<p>Læs om projektet i et let tilgængeligt format og se, hvordan du kan følge med.</p>
+<a class="home-card-link" href="1homepage/deltager.html">Gå til deltagerside</a>
+```
+:::
 
-<details>
+::: {.home-path-card}
+```{=html}
+<span class="home-path-label">JEG ER</span>
+<h2>Forsker</h2>
+<p>Gå til den faglige oversigt med work packages, metoder og projektets forskningsramme.</p>
+<a class="home-card-link" href="2overview/index.html">Gå til forskerside</a>
+```
+:::
 
-<summary>The original Diabetes Prevention Studies were conducted around
-the turn of the century.</summary>
-
-<ul>
-
-<li>The <a href="https://doi.org/10.1056/nejmoa012512">Diabetes
-Prevention Program</a> (USA)</li>
-
-<li>The <a href="https://doi.org/10.1056/nejm200105033441801">Diabetes
-Prevention Study</a> (Finland)</li>
-
-<li>The <a href="https://doi.org/10.2337/diacare.20.4.537">Da Qing
-Study</a> (China)</li>
-
-</ul>
-
-</details>
-
-Unfortunately, subsequent efforts to translate the benefits from these
-efficacy trials into sustainable day to day practice have largely
-failed. The first main issue is that the resources and intensity of the
-trial interventions are not practically achievable at large scale.
-Studies that have applied less intensive lifestyle interventions have
-generally shown only temporary impacts on weight, but no long-term
-impact on diabetes incidence. The second main issue is that the
-particular subgroup of pre-diabetes recruited into the trials (IGT) is
-the group at highest diabetes risk, but is rarely identified in daily
-practice especially since HbA1c has replaced the oral glucose tolerance
-test (OGTT) as the main diagnostic tool in Europe and the US since 2014.
-A third issue is that the proportion of people who respond to an
-invitation to participate in health-related programs has fallen
-substantially. Unfortunately the people with the highest risk profile
-are generally the least likely to respond.
-
-In other words:
-
--   The population with high diabetes risk today is much more
-    heterogeneous compared to the participants in the original
-    prevention trials
--   The intensity of intervention applied in the efficacy trials is not
-    pragmatically or sustainably achievable
--   Participation in health initiatives is low and selected
-
-### What has changed since?
-
-The past decades have brought a lot of new opportunities for diabetes
-prevention, which are currently often underutilised:
-
--   Extensive, linkable health registers with population-wide coverage
--   Advanced statistical and machine learning methods
--   Deeper insight into psychosocial barriers for sustainable health
-    behaviour change
--   Stronger experience with methods for development of complex
-    interventions
--   Expanding evidence for substantial heterogeneity in (pre)diabetes
-    and diabetes risk
--   Advanced technology for real time measurements (CGM, sleep, physical
-    activity)
--   Widespread adoption of communication via smartphones and use of apps
-
-## What will DP-Next do?
-
-We aim to use these developments to design and deliver a sustainably
-effective strategy for prevention of T2D in Denmark, Greenland and the
-Faroe Islands.
-
-We will work towards this aim in four Work Packages (WP) across all
-seven Steno Diabetes Centres:
-
-![There are 5 Steno Diabetes Centers in Denmark, one in Greenland and
-one on the Faroe
-Islands.](images/map-steno-centers.jpg){#fig-map-steno-centers}
-
--   WP1 (Management and Collaboration) will manage the project and
-    foster deep collaboration between all partners.
--   WP2 (Risk Prediction) will develop an exclusively register-based
-    diabetes risk prediction model for the entire Danish, Greenlandic
-    and Faroese populations, applying advanced statistical and machine
-    learning approaches on a wide set of risk indicators. It will map
-    out meaningful subgroups and validate internally and in external
-    populations.
--   WP3 (Heterogeneity) will map out heterogeneity in T2D risk in a new
-    deeply phenotyped cohort of 1000 participants with HbA1c-based
-    pre-diabetes with a core protocol focused on regional fat
-    distribution, hepatic steatosis, beta cell function and insulin
-    resistance plus the creation of an extensive biobank and the
-    ambition for an extended protocol.
--   WP4 (Intervention Development) will develop an intervention for
-    sustainable primary diabetes prevention based on co-creation, a
-    "Participatory System Dynamics Approach" and the "Complex
-    Interventions" framework and evaluate the pragmatic feasibility of
-    intervention components in specific risk subgroups in real life
-    practical settings.
+::: {.home-path-card}
+```{=html}
+<span class="home-path-label">JEG ER</span>
+<h2>Interesseret</h2>
+<p>Mød personerne bag DP-Next og se, hvordan teamet er organiseret på tværs af work packages.</p>
+<a class="home-card-link" href="4who_we_are/who-we-are.html">Mød teamet</a>
+```
+:::
+:::
+:::

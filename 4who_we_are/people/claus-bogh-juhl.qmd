@@ -1,0 +1,25 @@
+---
+title: "Claus Bogh Juhl"
+css: ../style.css
+---
+
+[Back to Who We Are](../who-we-are.html)
+
+::: {.person-profile}
+![Claus Bogh Juhl](/images/profiles/claus-juhl.png){.person-profile-image fig-alt="Claus Bogh Juhl profile picture."}
+
+## Role
+Clinical Professor
+
+## Affiliation
+Unit of Clinical Interventions, Steno Diabetes Center Odense
+
+## Work Packages
+WP3
+
+## ORCID
+[0000-0002-4285-5459](https://orcid.org/0000-0002-4285-5459)
+
+## Description
+Claus Bogh Juhl is Clinical Professor at Unit of Clinical Interventions, Steno Diabetes Center Odense. Within DP-Next, Claus Bogh Juhl is affiliated with WP3.
+:::

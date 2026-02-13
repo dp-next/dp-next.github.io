@@ -1,0 +1,46 @@
+%%{init: {
+  'theme': 'neutral', 
+  'gantt': {
+    'barHeight': 25,
+    'leftPadding': 100
+  }
+}}%%
+gantt
+  title Tasks (T), Milestones (M), and Deliverables (D) for WP1
+  dateFormat  YYYY-MM-DD
+  axisFormat %Y
+  tickInterval 1year
+  todayMarker off
+  %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
+
+  section Ongoing<br>activities
+  T4. Iterate and refine collaboration: imp_collab, 2025-01-01, 5y
+  T5. Develop project website: imp_proj_web, after collab_agree, 2030-01-01
+  T9. Develop research ops website: imp_reops_web, after consensus, 2030-01-01
+  T10. Maintain data infrastructure: imp_seedcase, after seedcase, 2030-01-01
+
+  section General<br>setup
+  T1. Establish working groups: wg, 2025-01-01, 2M
+  T2.  Decide on collaboration approaches: collab_agree, after wg, 10M
+  T3. Identify collaboration barriers: barriers, after wg, 10M
+  M1. Setup project website: milestone, web_proj, after barriers, 1M
+  D1. Collaboration workflow consensus report: milestone, consensus, after web_proj, 1M
+  M3. Webpage for research ops: milestone, web_reops, after web_proj, 1M
+
+  section WP2-linked<br>activities
+  T6. Setup collaboration workflow: collab_wp2, after web_proj, 6M
+  D1. R package infrastructure template: milestone, template_rpkg, 2026-06-01, 1M
+
+  section WP3-linked<br>activities
+  T7. Setup data engineering pipeline: de_wp3, after web_proj, 6M
+  D2. Data engineering pipeline report: milestone, der_wp3, after de_wp3, 1M
+  D3. Data Management Plan template: milestone, template_dmp, 2027-01-01, 1M 
+  M4. Setup data infrastructure: milestone, seedcase, 2027-01-01, 1M
+
+  section WP4-linked<br>activities
+  M2. Setup knowledge repo: milestone, kr_wp4, after collab_agree, 1M
+  T8. Build knowledge dissemination pipeline: kmp_wp4, after kr_wp4, 6M  
+
+
+
+

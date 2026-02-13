@@ -32,6 +32,7 @@ check-commits:
 # Build the website using Quarto
 build-website:
   quarto render
+  quarto render --profile en --no-clean
 
 # Re-build the README file
 build-readme:

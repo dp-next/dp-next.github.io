@@ -1,0 +1,25 @@
+---
+title: "Stine Byberg"
+css: ../style.css
+---
+
+[Back to Who We Are](../who-we-are.html)
+
+::: {.person-profile}
+![Stine Byberg](/images/profiles/stine-byberg.jpg){.person-profile-image fig-alt="Stine Byberg profile picture."}
+
+## Role
+Senior Researcher
+
+## Affiliation
+Steno Diabetes Center Copenhagen
+
+## Work Packages
+WP2
+
+## ORCID
+[0000-0002-3626-3609](https://orcid.org/0000-0002-3626-3609)
+
+## Description
+Stine Byberg is Senior Researcher at Steno Diabetes Center Copenhagen. Within DP-Next, Stine Byberg is affiliated with WP2.
+:::

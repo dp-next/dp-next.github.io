@@ -1,0 +1,45 @@
+---
+title: "Who We Are"
+css: style.css
+---
+
+::: {.wwa-page}
+DP-Next is carried out by a cross-disciplinary team of epidemiologists,
+clinicians, health scientists and data scientists across all seven Steno
+Diabetes Centres.
+
+```{=html}
+<section class="wwa-hero" aria-labelledby="pi-heading">
+  <img
+    src="/images/profiles/daniel-witte.jpg"
+    alt="Daniel R. Witte profile picture"
+    class="wwa-hero-image"
+  >
+  <div class="wwa-hero-content">
+    <p class="wwa-kicker">Principal Investigator</p>
+    <h2 id="pi-heading">Daniel R. Witte</h2>
+    <p>
+      Daniel R. Witte is professor of Diabetes Epidemiology at Aarhus University and has worked across
+      prevention and prediction of diabetes and its complications in (inter)national cohorts and
+      register-based studies.
+    </p>
+    <p>
+      <a href="https://orcid.org/0000-0002-0769-2922" target="_blank" rel="noopener noreferrer">
+        ORCID: 0000-0002-0769-2922
+      </a>
+    </p>
+  </div>
+</section>
+```
+
+## Work package affiliation overview
+
+
+<!-- Generated from data/people.json by render-people.js -->
+
+```{=html}
+{{< include wp-grid.html >}}
+```
+:::
+
+

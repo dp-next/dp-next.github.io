@@ -1,0 +1,73 @@
+<script>
+(() => {
+  const toPath = (href) => {
+    try {
+      return new URL(href, window.location.origin).pathname;
+    } catch {
+      return href;
+    }
+  };
+
+  const isEnglishPath = (pathname) =>
+    pathname === "/en" || pathname === "/en/" || pathname.startsWith("/en/");
+
+  const getLanguagePaths = (pathname) => {
+    if (isEnglishPath(pathname)) {
+      const daPath = pathname.replace(/^\/en/, "") || "/index.html";
+      return { daPath, enPath: pathname };
+    }
+    const normalized = pathname === "/" ? "/index.html" : pathname;
+    return { daPath: normalized, enPath: `/en${normalized}` };
+  };
+
+  const { daPath, enPath } = getLanguagePaths(window.location.pathname);
+  const isEn = isEnglishPath(window.location.pathname);
+
+  document.querySelectorAll("a.dropdown-item").forEach((link) => {
+    const txt = (link.textContent || "").toLowerCase();
+    if (txt.includes("dansk")) {
+      link.setAttribute("href", daPath);
+    }
+    if (txt.includes("english")) {
+      link.setAttribute("href", enPath);
+    }
+  });
+
+  const danishLabels = new Set(["deltager", "forsker", "oversigt", "om os"]);
+  const englishLabels = new Set(["participant", "researcher", "overview", "who we are"]);
+
+  const shouldKeepLink = (link) => {
+    const text = (link.textContent || "").trim().toLowerCase();
+    const href = toPath(link.getAttribute("href") || "");
+
+    if (text === "language") return true;
+    if (text === "work packages") return true;
+    if (text.includes("dansk") || text.includes("english")) return true;
+
+    if (text.startsWith("wp")) {
+      return isEn ? href.includes("/en/") : !href.includes("/en/");
+    }
+
+    if (isEn) {
+      if (danishLabels.has(text)) return false;
+      if (englishLabels.has(text)) return true;
+    } else {
+      if (englishLabels.has(text)) return false;
+      if (danishLabels.has(text)) return true;
+    }
+    return true;
+  };
+
+  document.querySelectorAll(".navbar a.nav-link, .navbar a.dropdown-item").forEach((link) => {
+    if (!shouldKeepLink(link)) {
+      const li = link.closest("li");
+      if (li) li.remove();
+    }
+  });
+
+  const brand = document.querySelector("a.navbar-brand");
+  if (brand) {
+    brand.setAttribute("href", isEnglishPath(window.location.pathname) ? "/en/index.html" : "/index.html");
+  }
+})();
+</script>

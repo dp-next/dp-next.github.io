@@ -1,0 +1,88 @@
+@startuml actions
+
+state "Central knowledge repository" as ckr { 
+  ckr : As GitHub repository and websites 
+  state "Study docs" as sd
+  sd : - Study protocol
+  sd : - Data management plan
+  sd : - Analysis plan
+  sd : - Repository for code
+
+  state "Operations docs" as od
+  od : - Documented decisions
+  od : - Operating procedures
+  od : - Collaboration agreements
+  od : - Workflows when working\n  with registers
+  
+  state "Internal sharing" as share
+  share : - Lessons learned
+  share : - Challenges and barriers
+  share : - Benefits and improvements
+}
+
+state "Data engineering" as de {
+  state "Data collection,\ngeneration" as dc
+  dc : - From WP3 and WP4
+  
+  state "Registers ingestion" as ri
+  ri : - Original structure of Denmark\n  Statistics registers
+  ri : - For WP2
+
+  state "Data engineering pipelines" as dep
+  dep : - Automated data operations\n  pipeline (from raw to analyzable)
+  dep : - Rapid internal sharing\n  of data outputs
+
+  state "Data resource" as dr
+  dr : - Adhere to FAIR data principles
+  dr : - Follow data structure standards
+  dr : - Use modern data technologies
+}
+
+state "Data science" as ds {
+  state "Reproducible analysis pipelines" as rap
+  rap : - Rapid, automated internal sharing\n  of research outputs
+  rap : - Running frequent code reviews
+
+  state "Reuse and packaging of code" as pkg
+  pkg : - Convert WP2 prediction into software
+}
+
+state "Project management" as pm
+pm : - Central task tracking board\n  (Kanban-style boards)
+pm : - Iterative and incremental\n  methods (software agile-inspired)
+pm : - Central communication channel\n  (Slack/Teams/Discord)
+
+state "Education and upskilling" as edu
+edu : - Basic practices in data\n  engineering
+edu : - Reproducible research within\n  server environments (Denmark\n  Statistics)
+edu : - Iterative project development\n  practices
+
+
+state "Collaborations" as collab
+collab : - NNF-funded Seedcase Project\n  (software and training)
+collab : - SDCA training expertise\n  (e.g. DDEA R courses instructors)
+
+ckr -[hidden]> de
+de -> ds
+
+sd -[hidden]-> share
+od -[hidden]-> share
+
+pm --> de
+pm --> ds
+dc --> dep
+dc -[hidden]> ri
+ri --> dep
+dep --> dr
+
+collab -> pm
+collab --> ckr
+collab --> de
+
+edu -left> pm
+edu --> de
+edu --> ds
+
+rap --> pkg
+
+@enduml

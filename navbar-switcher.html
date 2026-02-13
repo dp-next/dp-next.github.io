@@ -1,0 +1,119 @@
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const path = window.location.pathname;
+  const navbar = document.querySelector('.navbar-collapse');
+  
+  if (!navbar) return;
+  
+  // Check if we're on English pages
+  const isEnglish = path.includes('/en/');
+  
+  // Check if we're on researcher/overview pages
+  const isResearcher = path.includes('/2overview/');
+  
+  // Define navbar configurations
+  const navbarConfigs = {
+    // Danish home pages
+    danishHome: `
+      <ul class="navbar-nav navbar-nav-scroll me-auto">
+        <li class="nav-item"><a class="nav-link" href="/oversigt.html">Oversigt</a></li>
+        <li class="nav-item"><a class="nav-link" href="/1homepage/deltager.html">Deltager</a></li>
+        <li class="nav-item"><a class="nav-link" href="/2overview/index.html">Forsker</a></li>
+        <li class="nav-item"><a class="nav-link" href="/4who_we_are/who-we-are.html">Om Os</a></li>
+      </ul>
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Language</a>
+          <ul class="dropdown-menu dropdown-menu-end">
+            <li><a class="dropdown-item" href="/index.html">🇩🇰 Dansk</a></li>
+            <li><a class="dropdown-item" href="/en/index.html">🇬🇧 English</a></li>
+          </ul>
+        </li>
+      </ul>
+    `,
+    
+    // Danish researcher pages
+    danishResearcher: `
+      <ul class="navbar-nav navbar-nav-scroll me-auto">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Work Packages</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="/3wp/wp1/index.html">WP1</a></li>
+            <li><a class="dropdown-item" href="/3wp/wp2/wp2.html">WP2</a></li>
+            <li><a class="dropdown-item" href="/3wp/wp3/wp3.html">WP3</a></li>
+            <li><a class="dropdown-item" href="/3wp/wp4/wp4.html">WP4: Intervention Development</a></li>
+          </ul>
+        </li>
+      </ul>
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Language</a>
+          <ul class="dropdown-menu dropdown-menu-end">
+            <li><a class="dropdown-item" href="/index.html">🇩🇰 Dansk</a></li>
+            <li><a class="dropdown-item" href="/en/index.html">🇬🇧 English</a></li>
+          </ul>
+        </li>
+      </ul>
+    `,
+    
+    // English home pages
+    englishHome: `
+      <ul class="navbar-nav navbar-nav-scroll me-auto">
+        <li class="nav-item"><a class="nav-link" href="/en/index.html">Overview</a></li>
+        <li class="nav-item"><a class="nav-link" href="/en/1homepage/deltager.html">Participant</a></li>
+        <li class="nav-item"><a class="nav-link" href="/2overview/index.html">Researcher</a></li>
+        <li class="nav-item"><a class="nav-link" href="/4who_we_are/who-we-are.html">About Us</a></li>
+      </ul>
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Language</a>
+          <ul class="dropdown-menu dropdown-menu-end">
+            <li><a class="dropdown-item" href="/index.html">🇩🇰 Dansk</a></li>
+            <li><a class="dropdown-item" href="/en/index.html">🇬🇧 English</a></li>
+          </ul>
+        </li>
+      </ul>
+    `,
+    
+    // English researcher pages
+    englishResearcher: `
+      <ul class="navbar-nav navbar-nav-scroll me-auto">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Work Packages</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="/3wp/wp1/index.html">WP1</a></li>
+            <li><a class="dropdown-item" href="/3wp/wp2/wp2.html">WP2</a></li>
+            <li><a class="dropdown-item" href="/3wp/wp3/wp3.html">WP3</a></li>
+            <li><a class="dropdown-item" href="/3wp/wp4/wp4.html">WP4: Intervention Development</a></li>
+          </ul>
+        </li>
+      </ul>
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Language</a>
+          <ul class="dropdown-menu dropdown-menu-end">
+            <li><a class="dropdown-item" href="/index.html">🇩🇰 Dansk</a></li>
+            <li><a class="dropdown-item" href="/en/index.html">🇬🇧 English</a></li>
+          </ul>
+        </li>
+      </ul>
+    `
+  };
+  
+  // Determine which navbar to show
+  let navbarHTML;
+  
+  if (isEnglish && isResearcher) {
+    navbarHTML = navbarConfigs.englishResearcher;
+  } else if (isEnglish) {
+    navbarHTML = navbarConfigs.englishHome;
+  } else if (isResearcher) {
+    navbarHTML = navbarConfigs.danishResearcher;
+  } else {
+    navbarHTML = navbarConfigs.danishHome;
+  }
+  
+  // Replace navbar content
+  navbar.innerHTML = navbarHTML;
+});
+</script>

@@ -1,0 +1,132 @@
+---
+title: "WP1: Better research in less time"
+description: "Doing 'better research in less time' by following ensuring reproducibility, being open, and using modern collaborative, operational, and project management practices."
+---
+
+::: callout-important
+More detailed documentation on this particular work package can be
+found on the webpage [here](https://dp-next.github.io/wp1-ros/).
+:::
+
+Science, while generating cutting-edge knowledge, lags behind most
+industry settings when it comes to practical, operational aspects that 
+aim to increase efficiency and effectiveness of the research lifecycle. For
+instance, while much of research done now relies heavily on software and
+computational work, funding agencies rarely fund software and data
+engineering projects, nor do many research groups hire these highly
+skilled technical personnel. So, the aim of Work Package 1 is to
+establish these skills and needs as a core component of this project and
+to help do "better research in less time".
+
+Our basic strategies will be to establish working groups, including a
+group dedicated to "research operations" to fulfil this core aim, as
+well as developing and implementing common practices and tools that
+maximise collaboration and that follow some guiding principles. All
+groups will include a "tech lead" who has technical knowledge and skills
+and who will also be part of the research operations group, to help
+coordinate WP groups with these practices. We aim to onboard and train
+the tech leads in these practices by embedding them in some work done at
+SDCA, where these practices have been developing and refining over the
+last several years. The most relevant practices and skills that this WP1
+aims to provide are in software and data engineering, iterative project
+management, collaborative workflows and tools,
+
+Pertinent to these practices is understanding and assessing risk and
+challenges. The two biggest challenges we face with this WP1 are:
+
+1.  The need for highly technical personnel who have sufficient
+    fundamental expertise to understand and apply these practices, which
+    we hope to minimise through the training and onboarding of the tech
+    leads.
+2.  the IT systems across centers that often don’t work well together,
+    which we hope to reduce the impact of by having a dedicated research
+    operations group.
+
+While this WP1 forms the foundation to all other WPs and in many ways
+aims to support their success, the activities of WP1 are an increasingly
+needed aspect of research globally. In this regard, we aim to produce
+tangible and usable deliverables that are independent and valuable on
+their own.
+
+## Applications
+
+The below content was used for the first and second rounds of applications.
+
+### First round
+
+-   **Characters**: 644
+
+WP1 answers the increasing need for openness, transparency, and
+reproducibility in research, will deliver the day-to-day project and
+operations management of all the WPs and will facilitate close
+collaboration and joint expertise development across all Steno Centres.
+
+Effective coordination and management of complex projects such as
+DP-Next requires modern and innovative approaches to project and
+operational management. We will employ tools developed and tested at
+SDCA in the past years [@Johnston2022; @DARTER; @ukbaid; @seedcase;
+@sdca-github] to offer a practical framework for sharing knowledge and
+technical skills across centres, aiming to deliver "better research done
+in less time" [@Lowndes2017].
+
+### Second round
+
+-   **Characters**: 2200 / 1800 characters
+
+Science, while pursuing cutting edge knowledge, lags behind industry in
+standard operational, organisational, and technological practices,
+tools, and methods. From this, the core visions of WP1 are to do better
+research in less time [@Lowndes2017] and expand the capacity of modern
+technical engineering-based skills in research groups across Steno and
+Denmark. By applying modern operational, engineering, and project
+management practices, we will optimize work done across the WPs. Through
+formal and informal upskilling sessions, we will develop data
+engineering and modern collaborative skills and knowledge in researchers
+from across the Steno Centers.
+
+At SDCA, we have been developing and applying these practices in
+multiple projects [@Johnston2022; @DARTER; @ukbaid; @seedcase;
+@sdca-github], which highlight tangible examples of WP1's activities.
+The general strategy for WP1 is to: 1) develop and agree on some basic
+principles for collaboration between centers and WPs that adhere to open
+scientific practices and modern collaborative methods; 2) investigate
+potential barriers to effective cross-Steno collaboration; 3) decide on
+a set of common tools and standards to use across centers for WP.
+Specific actions and tasks are found in @fig-gantt-wp1 and @fig-actions.
+
+Aside from the traditional management group overseeing the project, we
+will also have a research operations group that will simplify,
+streamline, and automate the collaboration and coordination of
+activities and products between WPs and centers as well as provide a
+space for learning these technical skills. See @fig-organization and the
+collaboration section below for more details, as well as @fig-gantt for
+the general project timeline.
+
+A major component of WP1 is also upskilling activities, in collaboration
+with the NNF-funded software and training-based Seedcase Project
+[@seedcase]. Training will focus on skills not often taught to
+researchers, such as data engineering, modern collaborative practices,
+and iterative project management methods.
+
+More detail on this WP can be found on the DP-Next website
+(https://steno-aarhus.github.io/dp-next/wp1/), such as the roadmap,
+potential challenges, and strategy.
+
+```{mermaid}
+%%| file: images/gantt.mmd
+%%| label: fig-gantt
+%%| fig-cap: "General Gantt chart for all of DP-Next."
+```
+
+```{mermaid}
+%%| file: images/gantt-wp1.mmd
+%%| label: fig-gantt-wp1 
+%%| fig-cap: "Gantt chart for Work Package 1"
+```
+
+![Groups and people working on
+DP-Next.](images/organization.svg){#fig-organization}
+
+![Actions and task for WP1.](images/actions.svg){#fig-actions}
+
+## References

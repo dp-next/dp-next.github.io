@@ -1,0 +1,25 @@
+---
+title: "Karoline Kragelund Nielsen"
+css: ../style.css
+---
+
+[Back to Who We Are](../who-we-are.html)
+
+::: {.person-profile}
+![Karoline Kragelund Nielsen](/images/profiles/karoline-kragelund-nielsen.jpg){.person-profile-image fig-alt="Karoline Kragelund Nielsen profile picture."}
+
+## Role
+Senior Researcher
+
+## Affiliation
+Steno Diabetes Center Copenhagen
+
+## Work Packages
+WP2
+
+## ORCID
+[0000-0002-4058-0615](https://orcid.org/0000-0002-4058-0615)
+
+## Description
+Karoline Kragelund Nielsen is Senior Researcher at Steno Diabetes Center Copenhagen. Within DP-Next, Karoline Kragelund Nielsen is affiliated with WP2.
+:::
