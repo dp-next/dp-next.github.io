@@ -5,6 +5,13 @@ css: /style.css
 
 # WP4: Intervention Development
 
-English WP4 page (in progress).
+WP4 focuses on intervention development and implementation perspectives.
 
-Current Danish page: [Open WP4](/3wp/wp4/wp4.html)
+## Related sections
+
+- [Research Overview](/en/2overview/index.html)
+- [Who We Are](/en/4who_we_are/who-we-are.html)
+
+## Need the Danish version?
+
+[Open Danish WP4 page](/da/3wp/wp4/wp4.html)

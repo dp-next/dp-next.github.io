@@ -2,12 +2,14 @@ const fs = require('fs');
 const ejs = require('ejs');
 const path = require('path');
 
-// Paths
 const peoplePath = path.join(__dirname, 'data', 'people.json');
 const templatePath = path.join(__dirname, '_templates', 'wp-grid.ejs');
-const outputPath = path.join(__dirname, '4who_we_are', 'wp-grid.html');
 const templatesDir = path.join(__dirname, '_templates');
-const peoplePagesDir = path.join(__dirname, '4who_we_are', 'people');
+
+const enOutputPath = path.join(__dirname, 'en', '4who_we_are', 'wp-grid.html');
+const daOutputPath = path.join(__dirname, 'da', '4who_we_are', 'wp-grid.html');
+const enPeoplePagesDir = path.join(__dirname, 'en', '4who_we_are', 'people');
+const daPeoplePagesDir = path.join(__dirname, 'da', '4who_we_are', 'people');
 
 function slugify(value) {
   return String(value)
@@ -72,29 +74,41 @@ ${description}
 `;
 }
 
-// Read data and template
-const people = withSlugs(JSON.parse(fs.readFileSync(peoplePath, 'utf8')));
-const template = fs.readFileSync(templatePath, 'utf8');
-
-// Render HTML with views option for includes
-const html = ejs.render(template, { people }, { views: [templatesDir] });
-
-// Write output
-fs.writeFileSync(outputPath, html);
-
-if (!fs.existsSync(peoplePagesDir)) {
-  fs.mkdirSync(peoplePagesDir, { recursive: true });
-}
-
-for (const entry of fs.readdirSync(peoplePagesDir)) {
-  if (entry.endsWith('.qmd')) {
-    fs.unlinkSync(path.join(peoplePagesDir, entry));
+function ensureDir(dir) {
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
   }
 }
 
-for (const person of people) {
-  const personFile = path.join(peoplePagesDir, `${person.slug}.qmd`);
-  fs.writeFileSync(personFile, renderPersonPage(person));
+function clearQmdFiles(dir) {
+  for (const entry of fs.readdirSync(dir)) {
+    if (entry.endsWith('.qmd')) {
+      fs.unlinkSync(path.join(dir, entry));
+    }
+  }
 }
 
-console.log('Rendered wp-grid.html and person profile pages.');
+const people = withSlugs(JSON.parse(fs.readFileSync(peoplePath, 'utf8')));
+const template = fs.readFileSync(templatePath, 'utf8');
+const baseHtml = ejs.render(template, { people }, { views: [templatesDir] });
+const enHtml = baseHtml.replaceAll('/4who_we_are/people/', '/en/4who_we_are/people/');
+const daHtml = baseHtml.replaceAll('/4who_we_are/people/', '/da/4who_we_are/people/');
+
+ensureDir(path.dirname(enOutputPath));
+ensureDir(path.dirname(daOutputPath));
+ensureDir(enPeoplePagesDir);
+ensureDir(daPeoplePagesDir);
+
+fs.writeFileSync(enOutputPath, enHtml);
+fs.writeFileSync(daOutputPath, daHtml);
+
+clearQmdFiles(enPeoplePagesDir);
+clearQmdFiles(daPeoplePagesDir);
+
+for (const person of people) {
+  const content = renderPersonPage(person);
+  fs.writeFileSync(path.join(enPeoplePagesDir, `${person.slug}.qmd`), content);
+  fs.writeFileSync(path.join(daPeoplePagesDir, `${person.slug}.qmd`), content);
+}
+
+console.log('Rendered language-scoped wp-grid and person profile pages.');

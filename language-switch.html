@@ -11,13 +11,23 @@
   const isEnglishPath = (pathname) =>
     pathname === "/en" || pathname === "/en/" || pathname.startsWith("/en/");
 
+  const isDanishPath = (pathname) =>
+    pathname === "/da" || pathname === "/da/" || pathname.startsWith("/da/");
+
   const getLanguagePaths = (pathname) => {
     if (isEnglishPath(pathname)) {
-      const daPath = pathname.replace(/^\/en/, "") || "/index.html";
+      let daPath = pathname.replace(/^\/en/, "/da");
+      if (daPath === "/da") daPath = "/da/1homepage/index.html";
       return { daPath, enPath: pathname };
     }
-    const normalized = pathname === "/" ? "/index.html" : pathname;
-    return { daPath: normalized, enPath: `/en${normalized}` };
+
+    if (isDanishPath(pathname)) {
+      let enPath = pathname.replace(/^\/da/, "/en");
+      if (enPath === "/en") enPath = "/en/1homepage/index.html";
+      return { daPath: pathname, enPath };
+    }
+
+    return { daPath: "/da/1homepage/index.html", enPath: "/en/1homepage/index.html" };
   };
 
   const { daPath, enPath } = getLanguagePaths(window.location.pathname);
@@ -33,8 +43,9 @@
     }
   });
 
-  const danishLabels = new Set(["deltager", "forsker", "oversigt", "om os"]);
-  const englishLabels = new Set(["participant", "researcher", "overview", "who we are"]);
+  const danishLabels = new Set(["deltager", "forsker", "om os"]);
+  const englishLabels = new Set(["participant", "researcher", "who we are"]);
+  const sharedLabels = new Set(["publications", "support"]);
 
   const shouldKeepLink = (link) => {
     const text = (link.textContent || "").trim().toLowerCase();
@@ -45,7 +56,11 @@
     if (text.includes("dansk") || text.includes("english")) return true;
 
     if (text.startsWith("wp")) {
-      return isEn ? href.includes("/en/") : !href.includes("/en/");
+      return isEn ? href.includes("/en/") : href.includes("/da/");
+    }
+
+    if (sharedLabels.has(text)) {
+      return isEn ? href.includes("/en/") : href.includes("/da/");
     }
 
     if (isEn) {
@@ -65,9 +80,21 @@
     }
   });
 
+  const seenTopLevel = new Set();
+  document.querySelectorAll(".navbar .navbar-nav > .nav-item > .nav-link").forEach((link) => {
+    const key = (link.textContent || "").trim().toLowerCase();
+    if (!key) return;
+    if (seenTopLevel.has(key)) {
+      const li = link.closest(".nav-item");
+      if (li) li.remove();
+      return;
+    }
+    seenTopLevel.add(key);
+  });
+
   const brand = document.querySelector("a.navbar-brand");
   if (brand) {
-    brand.setAttribute("href", isEnglishPath(window.location.pathname) ? "/en/index.html" : "/index.html");
+    brand.setAttribute("href", isEnglishPath(window.location.pathname) ? "/en/1homepage/index.html" : "/da/1homepage/index.html");
   }
 })();
 </script>

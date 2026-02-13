@@ -4,35 +4,55 @@ project:
 
 website:
   title: "DP-Next"
-  site-url: "https://dp-next.github.io/"
+  site-url: "https://dp-next.github.io/da/"
   repo-url: "https://github.com/dp-next/dp-next.github.io"
   navbar:
     pinned: true
     left:
       - text: "Language"
         menu:
-          - text: "🇩🇰 Dansk"
-            href: index.qmd
-          - text: "🇬🇧 English"
-            href: en/index.qmd
+          - text: "Dansk"
+            href: /da/1homepage/index.html
+          - text: "English"
+            href: /en/1homepage/index.html
       - text: "Deltager"
-        href: 1homepage/deltager.qmd
+        href: da/1homepage/deltager.qmd
+      - text: "Participant"
+        href: en/1homepage/deltager.qmd
       - text: "Forsker"
-        href: 2overview/index.qmd
-      - text: "Oversigt"
-        href: 2overview/index.qmd
+        href: da/2overview/index.qmd
+      - text: "Researcher"
+        href: en/2overview/index.qmd
       - text: "Work Packages"
         menu:
           - text: "WP1"
-            href: 3wp/wp1/index.qmd
+            href: da/3wp/wp1/index.qmd
+          - text: "WP1"
+            href: en/3wp/wp1/index.qmd
           - text: "WP2"
-            href: 3wp/wp2/wp2.qmd
+            href: da/3wp/wp2/wp2.qmd
+          - text: "WP2"
+            href: en/3wp/wp2/wp2.qmd
           - text: "WP3"
-            href: 3wp/wp3/wp3.qmd
+            href: da/3wp/wp3/wp3.qmd
+          - text: "WP3"
+            href: en/3wp/wp3/wp3.qmd
           - text: "WP4: Intervention Development"
-            href: 3wp/wp4/wp4.qmd
+            href: da/3wp/wp4/wp4.qmd
+          - text: "WP4: Intervention Development"
+            href: en/3wp/wp4/wp4.qmd
       - text: "Om Os"
-        href: 4who_we_are/who-we-are.qmd
+        href: da/4who_we_are/who-we-are.qmd
+      - text: "Who We Are"
+        href: en/4who_we_are/who-we-are.qmd
+      - text: "Publications"
+        href: da/5publications/publications.qmd
+      - text: "Publications"
+        href: en/5publications/publications.qmd
+      - text: "Support"
+        href: da/6support/support.qmd
+      - text: "Support"
+        href: en/6support/support.qmd
     tools:
       - icon: github
         href: "https://github.com/dp-next/"
@@ -44,8 +64,7 @@ format:
 bibliography: references.bib
 csl: vancouver.csl
 
-editor: 
+editor:
   markdown:
     wrap: 72
     canonical: true
-

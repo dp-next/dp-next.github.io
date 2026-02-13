@@ -5,6 +5,13 @@ css: /style.css
 
 # WP3
 
-English WP3 page (in progress).
+WP3 focuses on applied research activities related to prevention and complications.
 
-Current Danish page: [Open WP3](/3wp/wp3/wp3.html)
+## Related sections
+
+- [Research Overview](/en/2overview/index.html)
+- [Who We Are](/en/4who_we_are/who-we-are.html)
+
+## Need the Danish version?
+
+[Open Danish WP3 page](/da/3wp/wp3/wp3.html)

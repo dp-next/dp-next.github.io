@@ -5,7 +5,17 @@ css: /style.css
 
 # Research Overview
 
-This page will contain the full English overview of the project.
+DP-Next combines epidemiology, clinical science, and data science to
+develop sustainable prevention strategies for type 2 diabetes.
 
-For now, you can view the current Danish overview page:
-[Open Danish overview](/2overview/index.html)
+## Project navigation
+
+- [WP1](/en/3wp/wp1/index.html)
+- [WP2](/en/3wp/wp2/wp2.html)
+- [WP3](/en/3wp/wp3/wp3.html)
+- [WP4](/en/3wp/wp4/wp4.html)
+- [Who We Are](/en/4who_we_are/who-we-are.html)
+
+## Need the Danish version?
+
+[Open Danish overview](/da/2overview/index.html)

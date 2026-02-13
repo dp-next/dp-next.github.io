@@ -5,6 +5,13 @@ css: /style.css
 
 # WP1
 
-English WP1 page (in progress).
+WP1 focuses on foundational project setup and cross-package coordination.
 
-Current Danish page: [Open WP1](/3wp/wp1/index.html)
+## Related sections
+
+- [Research Overview](/en/2overview/index.html)
+- [Who We Are](/en/4who_we_are/who-we-are.html)
+
+## Need the Danish version?
+
+[Open Danish WP1 page](/da/3wp/wp1/index.html)

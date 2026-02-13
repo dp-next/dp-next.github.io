@@ -3,9 +3,17 @@ title: "Participant"
 css: /style.css
 ---
 
-# Participant Information
+# For Participants
 
-This page will contain participant-facing information about DP-Next in English.
+DP-Next is designed to strengthen sustainable prevention of type 2
+diabetes through collaboration across all seven Steno Diabetes Centres.
 
-For now, you can view the current Danish participant page:
-[Open Danish participant page](/1homepage/deltager.html)
+## What you can find here
+
+- Information about the project goals and timeline
+- Participant-relevant updates and communication
+- How the work packages support prevention in practice
+
+## Need the Danish version?
+
+[Open Danish participant page](/da/1homepage/deltager.html)

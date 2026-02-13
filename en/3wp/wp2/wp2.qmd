@@ -5,6 +5,13 @@ css: /style.css
 
 # WP2
 
-English WP2 page (in progress).
+WP2 addresses development and evaluation activities supporting prevention pathways.
 
-Current Danish page: [Open WP2](/3wp/wp2/wp2.html)
+## Related sections
+
+- [Research Overview](/en/2overview/index.html)
+- [Who We Are](/en/4who_we_are/who-we-are.html)
+
+## Need the Danish version?
+
+[Open Danish WP2 page](/da/3wp/wp2/wp2.html)

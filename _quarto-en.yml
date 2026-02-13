@@ -2,7 +2,7 @@ project:
   type: website
   pre-render: node render-people.js
   render:
-    - en/index.qmd
+    - en/1homepage/index.qmd
     - en/1homepage/deltager.qmd
     - en/2overview/index.qmd
     - en/3wp/wp1/index.qmd
@@ -10,6 +10,8 @@ project:
     - en/3wp/wp3/wp3.qmd
     - en/3wp/wp4/wp4.qmd
     - en/4who_we_are/who-we-are.qmd
+    - en/5publications/publications.qmd
+    - en/6support/support.qmd
 
 website:
   title: "DP-Next"
@@ -20,15 +22,13 @@ website:
     left:
       - text: "Language"
         menu:
-          - text: "🇩🇰 Dansk"
-            href: /index.html
-          - text: "🇬🇧 English"
-            href: /en/index.html
+          - text: "Dansk"
+            href: /da/1homepage/index.html
+          - text: "English"
+            href: /en/1homepage/index.html
       - text: "Participant"
         href: en/1homepage/deltager.qmd
       - text: "Researcher"
-        href: en/2overview/index.qmd
-      - text: "Overview"
         href: en/2overview/index.qmd
       - text: "Work Packages"
         menu:
@@ -42,6 +42,10 @@ website:
             href: en/3wp/wp4/wp4.qmd
       - text: "Who We Are"
         href: en/4who_we_are/who-we-are.qmd
+      - text: "Publications"
+        href: en/5publications/publications.qmd
+      - text: "Support"
+        href: en/6support/support.qmd
     tools:
       - icon: github
         href: "https://github.com/dp-next/"

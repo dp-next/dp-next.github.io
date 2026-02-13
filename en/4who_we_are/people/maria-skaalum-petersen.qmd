@@ -1,0 +1,25 @@
+---
+title: "Maria Skaalum Petersen"
+css: ../style.css
+---
+
+[Back to Who We Are](../who-we-are.html)
+
+::: {.person-profile}
+![Maria Skaalum Petersen](/images/profiles/maria-skaalum-petersen.jpg){.person-profile-image fig-alt="Maria Skaalum Petersen profile picture."}
+
+## Role
+Professor in Health Science
+
+## Affiliation
+Steno Diabetes Center Faroe Islands
+
+## Work Packages
+WP2
+
+## ORCID
+[0000-0001-9404-8440](https://orcid.org/0000-0001-9404-8440)
+
+## Description
+Maria Skaalum Petersen is Professor in Health Science at Steno Diabetes Center Faroe Islands. Within DP-Next, Maria Skaalum Petersen is affiliated with WP2.
+:::

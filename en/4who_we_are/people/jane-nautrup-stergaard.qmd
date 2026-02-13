@@ -1,0 +1,25 @@
+---
+title: "Jane Nautrup Østergaard"
+css: ../style.css
+---
+
+[Back to Who We Are](../who-we-are.html)
+
+::: {.person-profile}
+![Jane Nautrup Østergaard](/images/profiles/jane-nautrup-ostergaard.jpg){.person-profile-image fig-alt="Jane Nautrup Østergaard profile picture."}
+
+## Role
+Program Leader
+
+## Affiliation
+Steno Diabetes Center Aarhus
+
+## Work Packages
+WP4
+
+## ORCID
+[0000-0002-0627-1237](https://orcid.org/0000-0002-0627-1237)
+
+## Description
+Jane Nautrup Østergaard is Program Leader at Steno Diabetes Center Aarhus. Within DP-Next, Jane Nautrup Østergaard is affiliated with WP4.
+:::
