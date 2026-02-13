@@ -113,20 +113,20 @@ More detail on this WP can be found on the DP-Next website
 potential challenges, and strategy.
 
 ```{mermaid}
-%%| file: ../../../../images/wp1/gantt.mmd
+%%| file: /images/wp1/gantt.mmd
 %%| label: fig-gantt
 %%| fig-cap: "General Gantt chart for all of DP-Next."
 ```
 
 ```{mermaid}
-%%| file: ../../../../images/wp1/gantt-wp1.mmd
+%%| file: /images/wp1/gantt-wp1.mmd
 %%| label: fig-gantt-wp1 
 %%| fig-cap: "Gantt chart for Work Package 1"
 ```
 
 ![Groups and people working on
-DP-Next.](../../../../images/wp1/organization.svg){#fig-organization}
+DP-Next.]( /images/wp1/organization.svg){#fig-organization}
 
-![Actions and task for WP1.](../../../../images/wp1/actions.svg){#fig-actions}
+![Actions and task for WP1.](/images/wp1/actions.svg){#fig-actions}
 
 ## References
