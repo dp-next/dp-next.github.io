@@ -2,14 +2,14 @@ const fs = require('fs');
 const ejs = require('ejs');
 const path = require('path');
 
-const peoplePath = path.join(__dirname, 'data', 'people.json');
-const templatePath = path.join(__dirname, '_templates', 'wp-grid.ejs');
-const templatesDir = path.join(__dirname, '_templates');
+const peoplePath = path.join(__dirname, '..', 'data', 'people.json');
+const templatePath = path.join(__dirname, 'wp-grid.ejs');
+const templatesDir = __dirname;
 
-const enOutputPath = path.join(__dirname, 'en', '5whoweare', 'wp-grid.html');
-const daOutputPath = path.join(__dirname, 'da', '5whoweare', 'wp-grid.html');
-const enPeoplePagesDir = path.join(__dirname, 'en', '5whoweare', 'people');
-const daPeoplePagesDir = path.join(__dirname, 'da', '5whoweare', 'people');
+const enOutputPath = path.join(__dirname, '..', 'en', '5whoweare', 'wp-grid.html');
+const daOutputPath = path.join(__dirname, '..', 'da', '5whoweare', 'wp-grid.html');
+const enPeoplePagesDir = path.join(__dirname, '..', 'en', '5whoweare', 'people');
+const daPeoplePagesDir = path.join(__dirname, '..', 'da', '5whoweare', 'people');
 
 function slugify(value) {
   return String(value)
@@ -48,7 +48,7 @@ function renderPersonPage(person) {
 
   return `---
 title: "${escapeYaml(person.name)}"
-css: ../style.css
+css: /settings/style.css
 ---
 
 [Back to Who We Are](../who-we-are.html)

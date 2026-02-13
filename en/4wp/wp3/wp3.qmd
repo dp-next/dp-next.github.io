@@ -1,6 +1,6 @@
 ---
 title: "WP3"
-css: /style.css
+css: /settings/style.css
 ---
 
 # WP3

@@ -1,6 +1,6 @@
 ---
 title: "Participant"
-css: /style.css
+css: /settings/style.css
 ---
 
 # For Participants

@@ -1,6 +1,6 @@
 ---
 title: "Stine Byberg"
-css: ../style.css
+css: /settings/style.css
 ---
 
 [Back to Who We Are](../who-we-are.html)

@@ -1,6 +1,6 @@
 ---
 title: "Research Overview"
-css: /style.css
+css: /settings/style.css
 ---
 
 # Research Overview

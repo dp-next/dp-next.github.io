@@ -1,6 +1,6 @@
 ---
 title: "WP4: Intervention Development"
-css: /style.css
+css: /settings/style.css
 ---
 
 # WP4: Intervention Development

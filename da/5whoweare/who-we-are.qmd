@@ -1,6 +1,6 @@
 ---
 title: "Who We Are"
-css: style.css
+css: /settings/style.css
 ---
 
 ::: {.wwa-page}

@@ -1,6 +1,6 @@
 ---
 title: "Nicklas Højgaard-Hessellund Rasmussen"
-css: ../style.css
+css: /settings/style.css
 ---
 
 [Back to Who We Are](../who-we-are.html)
