@@ -95,21 +95,21 @@ seven Steno Diabetes Centres:
 one on the Faroe
 Islands.](images/map-steno-centers.jpg){#fig-map-steno-centers}
 
--   WP1 (Management and Collaboration) will manage the project and
+-   [WP1 (Management and Collaboration)](/da/4wp/wp1/index.html) will manage the project and
     foster deep collaboration between all partners.
--   WP2 (Risk Prediction) will develop an exclusively register-based
+-   [WP2 (Risk Prediction)](/da/4wp/wp2/wp2.html) will develop an exclusively register-based
     diabetes risk prediction model for the entire Danish, Greenlandic
     and Faroese populations, applying advanced statistical and machine
     learning approaches on a wide set of risk indicators. It will map
     out meaningful subgroups and validate internally and in external
     populations.
--   WP3 (Heterogeneity) will map out heterogeneity in T2D risk in a new
+-   [WP3 (Heterogeneity)](/da/4wp/wp3/wp3.html) will map out heterogeneity in T2D risk in a new
     deeply phenotyped cohort of 1000 participants with HbA1c-based
     pre-diabetes with a core protocol focused on regional fat
     distribution, hepatic steatosis, beta cell function and insulin
     resistance plus the creation of an extensive biobank and the
     ambition for an extended protocol.
--   WP4 (Intervention Development) will develop an intervention for
+-   [WP4 (Intervention Development)](/da/4wp/wp4/wp4.html) will develop an intervention for
     sustainable primary diabetes prevention based on co-creation, a
     "Participatory System Dynamics Approach" and the "Complex
     Interventions" framework and evaluate the pragmatic feasibility of
