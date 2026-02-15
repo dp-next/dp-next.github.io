@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - hjemmeside_startside
+  pull_request:
 
 permissions:
   contents: read
@@ -15,6 +16,11 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -29,6 +35,12 @@ jobs:
 
       - name: Render DA/base site
         run: quarto render
+
+      - name: Render EN profile pages
+        run: quarto render --profile en --no-clean
+
+      - name: Validate internal links in _site
+        run: node settings/check-internal-links.js _site
 
       - name: Upload preview artifact
         uses: actions/upload-artifact@v4

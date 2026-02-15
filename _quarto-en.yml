@@ -17,6 +17,7 @@ project:
     - images/**
     - settings/**
     - language-switch.html
+    - site_libs/**
     - data/**
 
 website:

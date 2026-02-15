@@ -8,30 +8,75 @@
     }
   };
 
+  const findLanguageSegment = (pathname) => {
+    const match = pathname.match(/\/(da|en)(?:\/|$)/);
+    if (!match || match.index === undefined) {
+      return null;
+    }
+    return {
+      lang: match[1],
+      index: match.index,
+      prefix: pathname.slice(0, match.index),
+    };
+  };
+
+  const joinWithPrefix = (prefix, relativePath) => `${prefix}${relativePath}`.replace(/\/+/g, "/");
+
+  const languageSegment = findLanguageSegment(window.location.pathname);
+  const basePrefix = languageSegment ? languageSegment.prefix : "";
+
+  const withBasePrefix = (path) => {
+    if (!path || !path.startsWith("/")) {
+      return path;
+    }
+    if (!languageSegment) {
+      return path;
+    }
+    return joinWithPrefix(basePrefix, path);
+  };
+
   const isEnglishPath = (pathname) =>
-    pathname === "/en" || pathname === "/en/" || pathname.startsWith("/en/");
+    /\/(en)(?:\/|$)/.test(pathname);
 
   const isDanishPath = (pathname) =>
-    pathname === "/da" || pathname === "/da/" || pathname.startsWith("/da/");
+    /\/(da)(?:\/|$)/.test(pathname);
 
   const getLanguagePaths = (pathname) => {
-    if (isEnglishPath(pathname)) {
-      let daPath = pathname.replace(/^\/en/, "/da");
-      if (daPath === "/da") daPath = "/da/1homepage/index.html";
+    const segment = findLanguageSegment(pathname);
+    if (segment && segment.lang === "en") {
+      let daPath = pathname.replace(/\/(en)(?=\/|$)/, "/da");
+      if (daPath.endsWith("/da") || daPath.endsWith("/da/")) {
+        daPath = withBasePrefix("/da/1homepage/index.html");
+      }
       return { daPath, enPath: pathname };
     }
 
-    if (isDanishPath(pathname)) {
-      let enPath = pathname.replace(/^\/da/, "/en");
-      if (enPath === "/en") enPath = "/en/1homepage/index.html";
+    if (segment && segment.lang === "da") {
+      let enPath = pathname.replace(/\/(da)(?=\/|$)/, "/en");
+      if (enPath.endsWith("/en") || enPath.endsWith("/en/")) {
+        enPath = withBasePrefix("/en/1homepage/index.html");
+      }
       return { daPath: pathname, enPath };
     }
 
-    return { daPath: "/da/1homepage/index.html", enPath: "/en/1homepage/index.html" };
+    return {
+      daPath: withBasePrefix("/da/1homepage/index.html"),
+      enPath: withBasePrefix("/en/1homepage/index.html"),
+    };
   };
 
   const { daPath, enPath } = getLanguagePaths(window.location.pathname);
   const isEn = isEnglishPath(window.location.pathname);
+
+  document.querySelectorAll("a[href]").forEach((link) => {
+    const href = link.getAttribute("href") || "";
+    if (!href.startsWith("/") || href.startsWith("//")) {
+      return;
+    }
+    if (/^\/(da|en)(\/|$)/.test(href)) {
+      link.setAttribute("href", withBasePrefix(href));
+    }
+  });
 
   document.querySelectorAll("a.dropdown-item").forEach((link) => {
     const txt = (link.textContent || "").toLowerCase();
@@ -94,7 +139,12 @@
 
   const brand = document.querySelector("a.navbar-brand");
   if (brand) {
-    brand.setAttribute("href", isEnglishPath(window.location.pathname) ? "/en/1homepage/index.html" : "/da/1homepage/index.html");
+    brand.setAttribute(
+      "href",
+      isEnglishPath(window.location.pathname)
+        ? withBasePrefix("/en/1homepage/index.html")
+        : withBasePrefix("/da/1homepage/index.html")
+    );
   }
 })();
 </script>
