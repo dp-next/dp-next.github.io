@@ -54,7 +54,7 @@ website:
         href: /da/7support/support.html
       - text: "Support"
         href: /en/7support/support.html
-     Right:
+     right:
       - text: "Language"
         menu:
           - text: "Dansk"
