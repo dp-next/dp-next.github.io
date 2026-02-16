@@ -27,12 +27,6 @@ website:
   navbar:
     pinned: true
     left:
-      - text: "Language"
-        menu:
-          - text: "Dansk"
-            href: /da/1homepage/index.html
-          - text: "English"
-            href: /en/1homepage/index.html
       - text: "Participant"
         href: /en/2participant/deltager.html
       - text: "Researcher"
