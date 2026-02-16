@@ -3,8 +3,6 @@ title: "Participant Information"
 css: /settings/style.css
 ---
 
-# Participant Information
-
 ## What is DP-Next?
 
 DP-Next stands for *Sustainable Type 2 Diabetes Prevention for the 21st Century*. It is a research project conducted in collaboration between all seven Steno Diabetes Centres in Denmark, Greenland, and the Faroe Islands.
