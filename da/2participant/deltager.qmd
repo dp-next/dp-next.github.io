@@ -1,7 +1,89 @@
 ---
 title: "Deltagerinformation"
+css: /settings/style.css
 ---
 
-## Hvad har du som deltager brug for at vide?
+# Deltagerinformation
 
-xxx
+## Hvad er DP-Next?
+
+DP-Next er kort for fremtidens Diabetes Prevention, *Sustainable Type 2 Diabetes Prevention for the 21st Century*, og er et forskningsprojekt, der har til formål at forbedre tidlig opsporing og forebyggelse af type 2-diabetes. Projektet gennemføres i samarbejde mellem alle syv Steno Diabetes Centre i Danmark, Grønland og Færøerne.
+
+I dag findes der ikke en samlet strategi til at identificere og forebygge type 2-diabetes tidligt. DP-Next har til formål at udvikle nye metoder til at identificere personer med høj risiko for at udvikle T2D samt udvikle mere effektive og bæredygtige forebyggelsestiltag.
+
+Projektet opnår dette ved at kombinere:
+
+- Spørgeskemadata om helbred, livsstil og trivsel  
+- Oplysninger fra sundhedsregistre  
+- En ny klinisk kohorte med detaljeret helbredsundersøgelser  
+- Udvikling og afprøvning af nye forebyggelsesindsatser  
+
+Formålet er at blive bedre til at forstå, hvorfor nogle personer udvikler type 2-diabetes, mens andre ikke gør, og at bruge denne viden til at forbedre forebyggelse.
+
+---
+
+## Hvad omhandler spørgeskemaet?
+
+Spørgeskemaet har til formål at indsamle oplysninger om faktorer, der kan have betydning for risikoen for at udvikle type 2-diabetes.
+
+Spørgeskemaet indeholder spørgsmål om:
+
+- Dit helbred og sygdomshistorie  
+- Livsstil, herunder kost, fysisk aktivitet og søvn  
+- Psykisk trivsel, stress og livskvalitet  
+- Sociale forhold, arbejde og uddannelse  
+- Familiehistorie og arvelige forhold  
+
+Besvarelsen foregår online via en sikker løsning.
+
+Oplysningerne vil blive brugt sammen med registerdata til at forbedre forståelsen af diabetesrisiko og identificere personer med forskellige risikoprofiler.
+
+---
+
+## Hvad omhandler de kliniske undersøgelser?
+
+En del af deltagerne vil blive inviteret til en klinisk undersøgelse på et Steno Diabetes Center. Formålet er at etablere en ny kohorte med detaljerede helbredsdata, som kan give ny viden om tidlige biologiske forandringer ved øget diabetesrisiko.
+
+Undersøgelsen varer cirka 4 timer og kan omfatte:
+
+- Måling af højde, vægt og kropssammensætning  
+- Blodprøver og måling af langtidsblodsukker  
+- En glukosebelastningstest  
+- Måling af leverens fedtindhold  
+- Måling af blodtryk og kredsløbsfunktion  
+- Registrering af fysisk aktivitet  
+- Opbevaring af biologiske prøver i en forskningsbiobank  
+
+Formålet er at identificere undergrupper af personer med forskellig risiko og bedre forstå de biologiske mekanismer bag udvikling af type 2-diabetes.
+
+Deltagelse i den kliniske undersøgelse er frivillig og kræver særskilt samtykke.
+
+---
+
+## Hvad omhandler interventionen?
+
+En central del af DP-Next er at udvikle nye og mere effektive måder at forebygge type 2-diabetes på.
+
+På baggrund af resultaterne fra spørgeskemaer, registerdata og kliniske undersøgelser vil forskerne udvikle forebyggelsesindsatser, som er målrettet forskellige risikogrupper. Disse indsatser udvikles i samarbejde med borgere, sundhedsprofessionelle og lokalsamfund for at sikre, at de er realistiske og relevante.
+
+Interventionerne kan fokusere på:
+
+- Støtte til sundere livsstil  
+- Bedre opfølgning og forebyggelse i sundhedsvæsenet  
+- Nye måder at organisere forebyggelse lokalt  
+
+Formålet er at udvikle forebyggelsesindsatser, som kan implementeres i praksis og bidrage til at reducere forekomsten af type 2-diabetes.
+
+---
+
+## Frivillighed og datasikkerhed
+
+Det er frivilligt at deltage i projektet. Du kan til enhver tid vælge ikke at deltage eller trække dit samtykke tilbage uden konsekvenser for din behandling.
+
+Alle oplysninger behandles fortroligt og i overensstemmelse med gældende databeskyttelsesregler. Resultater offentliggøres kun i anonymiseret form.
+
+---
+
+## Kontakt
+
+Hvis du har spørgsmål eller ønsker mere information, er du velkommen til at kontakte projektet eller læse mere på projektets hjemmeside.
