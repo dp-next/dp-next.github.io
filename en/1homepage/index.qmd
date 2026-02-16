@@ -1,16 +1,12 @@
 ---
-title: "DP-Next: Sustainable Type 2 Diabetes Prevention"
 css: /settings/style.css
 ---
 
 ::: {.home-shell}
 ::: {.home-hero}
-![DP-Next logo](/images/dpnextlogo.jpg){.home-logo fig-alt="DP-Next logo"}
+![DP-Next logo](/images/dpnextlogo.jpg)
 
 # DP-Next: Sustainable Type 2 Diabetes Prevention {.home-title}
-
-DP-Next brings together clinical knowledge, registry-based research, and
-cross-disciplinary collaboration to strengthen prevention of type 2 diabetes.
 :::
 
 ::: {.home-paths}
