@@ -3,7 +3,6 @@ title: "Deltagerinformation"
 css: /settings/style.css
 ---
 
-# Deltagerinformation
 
 ## Hvad er DP-Next?
 
