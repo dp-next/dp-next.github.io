@@ -8,9 +8,6 @@ css: /settings/style.css
 ![DP-Next logo](/images/dpnextlogo.jpg){.home-logo fig-alt="DP-Next logo"}
 
 # DP-Next: Sustainable Type 2 Diabetes Prevention {.home-title}
-
-DP-Next samler klinisk viden, registerforskning og tvaerfagligt samarbejde
-for at styrke forebyggelsen af type 2-diabetes.
 :::
 
 ::: {.home-paths}
