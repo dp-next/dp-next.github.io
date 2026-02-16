@@ -24,21 +24,21 @@ website:
         href: /da/3researcher/index.html
       - text: "Researcher"
         href: /en/3researcher/index.html
-      - text: "Work Packages"
+      - text: "Arbejdspakker"
         menu:
-          - text: "WP1"
+          - text: "AP1: Bedre forskning på mindre tid"
             href: /da/4wp/wp1/index.html
           - text: "WP1"
             href: /en/4wp/wp1/index.html
-          - text: "WP2"
+          - text: "AP2: Risikoberegning"
             href: /da/4wp/wp2/wp2.html
           - text: "WP2"
             href: /en/4wp/wp2/wp2.html
-          - text: "WP3"
+          - text: "AP3: Heterogenitet"
             href: /da/4wp/wp3/wp3.html
           - text: "WP3"
             href: /en/4wp/wp3/wp3.html
-          - text: "WP4: Intervention Development"
+          - text: "WP4: Interventionsudvikling"
             href: /da/4wp/wp4/wp4.html
           - text: "WP4: Intervention Development"
             href: /en/4wp/wp4/wp4.html
@@ -46,7 +46,7 @@ website:
         href: /da/5whoweare/who-we-are.html
       - text: "Who We Are"
         href: /en/5whoweare/who-we-are.html
-      - text: "Publications"
+      - text: "Publikationer"
         href: /da/6publications/publications.html
       - text: "Publications"
         href: /en/6publications/publications.html
