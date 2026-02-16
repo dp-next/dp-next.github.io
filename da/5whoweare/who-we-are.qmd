@@ -1,6 +1,16 @@
 ---
 title: "Who We Are"
 css: /settings/style.css
+listing:
+  contents:
+    - ../../data/people.yml
+  template: ../../_templates/wp-grid.ejs
+  type: custom
+  sort-ui: false
+  filter-ui: false
+  template-params:
+    workPackages: [WP1, WP2, WP3, WP4]
+    profileLinkText: "Vis fuld profil"
 ---
 
 ::: {.wwa-page}
@@ -33,13 +43,6 @@ Diabetes Centres.
 ```
 
 ## Work package affiliation overview
-
-
-<!-- Generated from data/people.json by render-people.js -->
-
-```{=html}
-{{< include wp-grid.html >}}
-```
 :::
 
 

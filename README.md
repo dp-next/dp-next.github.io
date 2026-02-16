@@ -19,26 +19,17 @@ Each language follows the same section structure:
 - `6publications`
 - `7support`
 
-## Data and Generated Member Pages
+## Data and Member Listings
 
-Current data includes member information for work packages:
+Member information for work packages is stored in:
 
-- `data/people.json`
+- `data/people.yml`
 
-This JSON is used together with templates in:
+The “Who We Are” pages use Quarto custom listings and EJS templates:
 
-- `_templates/person-card.ejs`
-- `_templates/wp-column.ejs`
 - `_templates/wp-grid.ejs`
 
-The script:
-
-- `render-people.js`
-
-reads `data/people.json` and generates:
-
-- work package people grids (`wp-grid.html`) for Danish and English `5whoweare`
-- one profile subpage per member under each language's `5whoweare/people/`
+This setup is fully Quarto-native (no JavaScript pre-render step). Listing behavior is configured with `template-params` in each language's `who-we-are.qmd`.
 
 A future extension can add publication data under `data/` (for example `data/publications/`) when relevant.
 
@@ -46,12 +37,11 @@ A future extension can add publication data under `data/` (for example `data/pub
 
 Quarto config files control what is rendered and how the navbar is built:
 
-- `_quarto.yml`: base/Danish website config
+- `_quarto.yml`: shared base website config
+- `_quarto-da.yml`: Danish profile config
 - `_quarto-en.yml`: English profile config
 
-Language switching behavior is handled in:
-
-- `language-switch.html`
+Language switching behavior is handled by links defined in Quarto config and page-level href references.
 
 ## Styling
 
@@ -81,12 +71,6 @@ Citation sources and style are defined in:
 From the project root, build the website with:
 
 ```bash
-quarto render
+quarto render --profile da
 quarto render --profile en --no-clean
-```
-
-Or via `just`:
-
-```bash
-just build-website
 ```

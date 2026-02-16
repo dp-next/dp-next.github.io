@@ -1,0 +1,80 @@
+- name: Luke W. Johnston
+  slug: luke-w-johnston
+  role: Team Leader
+  affiliation: Steno Diabetes Center Copenhagen
+  orcid: 0000-0003-4169-2616
+  image: https://avatars.githubusercontent.com/u/6662983?v=4
+  wps: [WP1]
+  isLead: true
+
+- name: Stine Byberg
+  slug: stine-byberg
+  role: Senior Researcher
+  affiliation: Steno Diabetes Center Copenhagen
+  orcid: 0000-0002-3626-3609
+  image: /images/profiles/stine-byberg.jpg
+  wps: [WP2]
+  isLead: true
+
+- name: Claus Bogh Juhl
+  slug: claus-bogh-juhl
+  role: Clinical Professor
+  affiliation: Unit of Clinical Interventions, Steno Diabetes Center Odense
+  orcid: 0000-0002-4285-5459
+  image: /images/profiles/claus-juhl.png
+  wps: [WP3]
+  isLead: true
+
+- name: Jane Nautrup Østergaard
+  slug: jane-nautrup-stergaard
+  role: Program Leader
+  affiliation: Steno Diabetes Center Aarhus
+  orcid: 0000-0002-0627-1237
+  image: /images/profiles/jane-nautrup-ostergaard.jpg
+  wps: [WP4]
+  isLead: true
+
+- name: Karoline Kragelund Nielsen
+  slug: karoline-kragelund-nielsen
+  role: Senior Researcher
+  affiliation: Steno Diabetes Center Copenhagen
+  orcid: 0000-0002-4058-0615
+  image: /images/profiles/karoline-kragelund-nielsen.jpg
+  wps: [WP2]
+  isLead: false
+
+- name: Maria Skaalum Petersen
+  slug: maria-skaalum-petersen
+  role: Professor in Health Science
+  affiliation: Steno Diabetes Center Faroe Islands
+  orcid: 0000-0001-9404-8440
+  image: /images/profiles/maria-skaalum-petersen.jpg
+  wps: [WP2]
+  isLead: false
+
+- name: Nicklas Højgaard-Hessellund Rasmussen
+  slug: nicklas-h-jgaard-hessellund-rasmussen
+  role: Senior Researcher
+  affiliation: Steno Diabetes Center North Jutland
+  orcid: 0000-0002-3880-3058
+  image: /images/profiles/nicklas-højgaard-hessellund-rasmussen.jpg
+  wps: [WP3]
+  isLead: false
+
+- name: Johan Røikjer
+  slug: johan-r-ikjer
+  role: Senior Researcher
+  affiliation: Steno Diabetes Center North Denmark
+  orcid: 0000-0002-4578-1328
+  image: /images/profiles/johan-roeikjer.jpg
+  wps: [WP3]
+  isLead: false
+
+- name: Herborg Líggjasardóttir Johannesen
+  slug: herborg-liggjasardottir-johannesen
+  role: Endocrinologist
+  affiliation: Steno Diabetes Center Faroe Islands
+  orcid: 0000-0002-9048-3303
+  image: /images/profiles/herborg-johannesen.png
+  wps: [WP2, WP3]
+  isLead: false

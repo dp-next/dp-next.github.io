@@ -1,11 +1,11 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: ../_site
   resources:
-    - images/**
-    - settings/**
-    - site_libs/**
-    - data/**
+    - ../images/**
+    - ../settings/**
+    - ../site_libs/**
+    - ../data/**
 
 website:
   title: "DP-Next"
@@ -27,8 +27,8 @@ format:
   html:
     css: /settings/style.css
 
-bibliography: settings/references.bib
-csl: settings/vancouver.csl
+bibliography: ../settings/references.bib
+csl: ../settings/vancouver.csl
 
 editor:
   markdown:

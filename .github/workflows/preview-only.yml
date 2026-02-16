@@ -17,18 +17,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-
-      - name: Install ejs
-        run: npm install ejs
 
       - name: Install Quarto
         uses: quarto-dev/quarto-actions/setup@v2
@@ -38,9 +30,6 @@ jobs:
 
       - name: Render EN profile pages
         run: quarto render --profile en --no-clean
-
-      - name: Validate internal links in _site
-        run: node settings/check-internal-links.js _site
 
       - name: Upload preview artifact
         uses: actions/upload-artifact@v4
