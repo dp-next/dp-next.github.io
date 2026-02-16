@@ -53,6 +53,13 @@ website:
         href: /en/6publications/publications.html
       - text: "Support"
         href: /en/7support/support.html
+    right:
+      - text: "Language"
+        menu:
+          - text: "Dansk"
+            href: /da/1homepage/index.html
+          - text: "English"
+            href: /en/1homepage/index.html
     tools:
       - icon: github
         href: "https://github.com/dp-next/"
