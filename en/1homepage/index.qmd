@@ -4,7 +4,7 @@ css: /settings/style.css
 
 ::: {.home-shell}
 ::: {.home-hero}
-![DP-Next logo](/images/dpnextlogo.jpg)
+![DP-Next logo](/images/dpnextlogo.jpg){.home-logo fig-alt="DP-Next logo"}
 
 # DP-Next: Sustainable Type 2 Diabetes Prevention {.home-title}
 :::
