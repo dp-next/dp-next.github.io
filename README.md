@@ -27,12 +27,6 @@ The site uses Quarto profiles:
 - `_quarto-da.yml`: Danish profile (render list + Danish navbar)
 - `_quarto-en.yml`: English profile (render list + English navbar)
 
-There is also a mirrored config set under `_quarto/`:
-
-- `_quarto/_quarto.yml`
-- `_quarto/_quarto-da.yml`
-- `_quarto/_quarto-en.yml`
-
 Language switching is handled via explicit navbar/page links.
 
 ## Data and Listings
@@ -65,18 +59,3 @@ Other shared assets/settings:
 - `settings/vancouver.csl`
 - `settings/.typos.toml`
 
-## Build and Preview
-
-Run from repository root:
-
-```bash
-quarto render --profile da
-quarto render --profile en --no-clean
-```
-
-Preview with profile-specific navbar/content:
-
-```bash
-quarto preview --profile da
-quarto preview --profile en
-```
