@@ -16,12 +16,6 @@ website:
   navbar:
     pinned: true
     left:
-      - text: "Language"
-        menu:
-          - text: "Dansk"
-            href: /da/1homepage/index.html
-          - text: "English"
-            href: /en/1homepage/index.html
       - text: "Deltager"
         href: /da/2participant/deltager.html
       - text: "Participant"
@@ -60,6 +54,13 @@ website:
         href: /da/7support/support.html
       - text: "Support"
         href: /en/7support/support.html
+     Right:
+      - text: "Language"
+        menu:
+          - text: "Dansk"
+            href: /da/1homepage/index.html
+          - text: "English"
+            href: /en/1homepage/index.html
     tools:
       - icon: github
         href: "https://github.com/dp-next/"
