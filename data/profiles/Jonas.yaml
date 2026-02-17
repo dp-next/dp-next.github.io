@@ -1,0 +1,8 @@
+- name: "Jonas Frey Rosborg Schaarup"
+  position: "Post doc"
+  image: "jones.png"
+  description: "I am a post doctoral research in the DP-NEXT group. My intreset is in Prediciton of type 2 diabetes and heterogenity in prediabetes"
+  wps:
+    - WP1
+    - WP2
+    - WP3
