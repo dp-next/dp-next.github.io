@@ -1,0 +1,6 @@
+- name: "Christian Tjørnehøj"
+ position: "Intern on Work Package 3"
+ image: "christian.png"
+ description: "Christian is working as a intern on Work Package 3"
+ wps:
+   - WP3
