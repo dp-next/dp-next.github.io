@@ -1,6 +1,5 @@
 ---
 title: "Deltagerinformation"
-css: /settings/style.css
 ---
 
 
