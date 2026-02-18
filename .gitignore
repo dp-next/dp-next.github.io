@@ -31,3 +31,7 @@ site
 .Rhistory
 .Rdata
 .httr-oauth
+
+#people
+da/5whoweare/people/*.qmd
+en/5whoweare/people/*.qmd
