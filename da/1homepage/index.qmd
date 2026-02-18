@@ -1,6 +1,5 @@
 ---
 title: "DP-Next: Sustainable Type 2 Diabetes Prevention"
-css: /settings/style.css
 ---
 
 ::: {.home-shell}
