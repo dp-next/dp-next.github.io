@@ -3,7 +3,7 @@ title: "Who We Are"
 listing:
   contents:
     - /data/people.yml
-  template: _templates/wp-grid.ejs
+  template: ../../_templates/wp-grid.ejs
   type: custom
   sort-ui: false
   filter-ui: false
