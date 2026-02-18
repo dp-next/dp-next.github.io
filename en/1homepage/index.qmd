@@ -1,5 +1,4 @@
 ---
-css: /settings/style.css
 ---
 
 ::: {.home-shell}
