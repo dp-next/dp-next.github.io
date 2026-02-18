@@ -1,6 +1,5 @@
 ---
 title: "Who We Are"
-css: /settings/style.css
 listing:
   contents:
     - ../../data/people.yml
