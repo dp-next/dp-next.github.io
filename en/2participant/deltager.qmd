@@ -1,6 +1,5 @@
 ---
 title: "Participant Information"
-css: /settings/style.css
 ---
 
 ## What is DP-Next?
