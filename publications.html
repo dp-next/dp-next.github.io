@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Work Package 2: Risk Prediction – DP-Next</title>
+<title>Publications – DP-Next</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,26 +20,7 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -139,7 +120,7 @@ div.csl-indent {
 <span class="menu-text">Who We Are</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link active" href="./publications.html" aria-current="page"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
@@ -164,7 +145,7 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Work Package 2: Risk Prediction</h1>
+<h1 class="title">Publications</h1>
 </div>
 
 
@@ -181,43 +162,11 @@ div.csl-indent {
 </header>
 
 
-<p>The vision for WP2 is to develop an operational risk model that gives an individual diabetes risk prediction for the entire population of Denmark, Greenland and the Faroe Islands. We will achieve this by designing a risk prediction algorithm based exclusively on existing register-based data. WP2 will have a duration of 3 years (Years 1 to 3 of the project) and includes partners from all 7 Steno Centers.</p>
-<section id="protocol" class="level2">
-<h2 class="anchored" data-anchor-id="protocol">Protocol</h2>
-<p>The most up-to-date version of the full <a href="https://doi.org/10.5281/zenodo.15410789">WP2 analysis protocol</a><span class="citation" data-cites="Gerds2025">(<a href="#ref-Gerds2025" role="doc-biblioref">1</a>)</span> is published online on Zenodo.</p>
-</section>
-<section id="methods" class="level2">
-<h2 class="anchored" data-anchor-id="methods">Methods</h2>
-<p>The risk model will be developed using Danish nationwide register data in the DST environment (Figure 1).</p>
-<div id="fig-registers-used-in-DPNext" class="quarto-float quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-registers-used-in-DPNext-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="images/DP-Next_Registers.png" class="img-fluid figure-img">
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-registers-used-in-DPNext-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;1: Registers and Diabetes Risk Indicators to be used in Work Package 2.
-</figcaption>
-</figure>
-</div>
-<p>Models will then be transferred and adapted to clinical settings by application in EMR environments in Denmark, Greenland and the Faroe Islands.</p>
-<p>Analysis will be hosted within the existing DST project database at SDCA where large register projects are already in place, comprising all updated versions of the Danish registers needed for the execution of the project. The outcome, incident diabetes will be derived from various registers according to the <a href="https://steno-aarhus.github.io/osdc/">Open Source Diabetes Classifier</a> developed at SDCA, which is extensively documented and updated.</p>
-<p>We will develop, compare and combine two different approaches: Modular: a traditional statistical approach (Poisson models) applied in parallel within different domains (e.g.&nbsp;GDM/reproductive health, medication history, diagnostic history, socio-economic status), followed by an ensemble model which produces a yearly updated summary risk prediction. Machine Learning (ML): data driven ML methods will be applied to identify informative risk indicators and high-level interactions across all domains, and a risk prediction model will be developed using methods adapted to handle time-to-event data. e.g.&nbsp;survival versions of random forests, XGBoost, DeepCox, DeepHit, Dynamic-DeepHit, MultiSurv. Model interpretability will be an important consideration, in order to quantify the source of the estimated risk both at the population level (HR, variable importance) and at the individual level (SHAP values).</p>
-<p>Greenlandic and Faroese data is clinically more comprehensive than Danish register data, making direct inclusion of EMR data in the development and transfer of model(s) necessary and feasible in these two countries. Diabetes in Greenland has a larger genetic component and differs in other dimensions that may help identify unique risk factors. Performance of the model will be assessed using C-statistics. Internal validation will be performed using bootstrapping and k-fold cross-validation, and/or internal-external cross validation. External validation of the model will be done in similar register data from e.g.&nbsp;Sweden or Scotland. The model will be reported according to the <a href="https://www.bmj.com/content/385/bmj-2023-078378">TRIPOD+ AI standards</a>.</p>
-<p>Several smaller or larger models can be developed based on data accessibility and practical usability requirements. Models will be integrated into the ongoing <a href="https://www.stenoaarhus.dk/tvarsektoriel-forskning/organisering-og-ledelse/samblik/">SAMBLIK project</a>, which will provide secure cross-sectorial insight into individual-level data across the primary and secondary care sectors, taking in data from municipalities and regions. The ambition is for the WP2 risk model(s) to become an integrated module in the SAMBLIK Diabetes tab, thus giving clinicians direct individual insight into the trajectory of diabetes risk and contributing risk factors. At the group level municipalities will be able to use SAMBLIK for a detailed local socio economic and geographic map of diabetes risk, e.g.&nbsp;for use in WP4 activities.</p>
-<p>Risk groups identified in WP2 will inform the focus and structure of WP4 and will be used as a benchmark to examine the additional benefit of deep phenotyping in WP3.</p>
-</section>
-<section id="references" class="level2">
+<p>We look forward to sharing publications arising from the work of DP-Next.</p>
 
 
 
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
-<div id="ref-Gerds2025" class="csl-entry" role="listitem">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">Gerds TA, Isaksen AA, Toft G, Støvring H, Hulman A, Rasmussen MGB, et al. <a href="https://doi.org/10.5281/ZENODO.15410789">Sustainable <span>Type</span> 2 <span>Diabetes Prevention</span> for the 21st <span>Century</span> (<span>DP-Next</span>) - protocol for prediciting <span>Type</span> 2 diabetes</a>. 2025 May; </div>
-</div>
-</div></section></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
