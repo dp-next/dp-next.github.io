@@ -1,0 +1,8 @@
+- name: "Mikkel Errboe Steentoft"
+position: "Master student on WP3"
+image: "Mikkel.jpeg"
+description: "My name is Mikkel and i am a master student at Aarhus University. I am working on my masters project embedded in work package 3, assessing heterogeneity in a prediabetic population"
+wps: "
+  - WP1
+  - WP2
+  - WP3
