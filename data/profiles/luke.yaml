@@ -1,0 +1,6 @@
+- name: "Luke William Johnston"
+  position: "Work Package Lead"
+  image: "luke.jpeg"
+  description: "Luke is a team leader on the [Seedcase Project](https://seedcase-project.org) and is the work package lead for the reproducibility and open science part of DP-Next."
+  wps:
+    - WP1
