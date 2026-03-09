@@ -23,3 +23,23 @@ figcaption {
 .listing-card {
   padding: 1rem;
 }
+
+.wp-nav {
+  margin: 1rem 0 1.5rem;
+}
+
+#listing-wp1-listing .list.grid,
+#listing-wp2-listing .list.grid,
+#listing-wp3-listing .list.grid,
+#listing-wp4-listing .list.grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+}
+
+@media (max-width: 900px) {
+  #listing-wp1-listing .list.grid,
+  #listing-wp2-listing .list.grid,
+  #listing-wp3-listing .list.grid,
+  #listing-wp4-listing .list.grid {
+    grid-template-columns: 1fr !important;
+  }
+}
