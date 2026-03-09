@@ -9,3 +9,17 @@
 figcaption {
   text-align: center;
 }
+
+.quarto-grid {
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+.listing-card img {
+  width: 120px;
+  border-radius: 50%;
+}
+
+.listing-card {
+  padding: 1rem;
+}
