@@ -14,7 +14,7 @@ website:
         - text: "Dansk"
           href: participant_da.qmd
         - text: "English"
-          href: index.qmd       
+          href: index.qmd
         - text: "Kalaalisut"
           href: participant_kl.qmd
         - text: "Føroyskt"

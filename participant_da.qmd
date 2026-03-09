@@ -2,4 +2,4 @@
 title: "Deltagerinformation"
 ---
 
-## Tekst til deltager
+## Text til deltager
