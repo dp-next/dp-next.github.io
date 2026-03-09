@@ -1,0 +1,27 @@
+- name: Luke Johnston
+  image: https://avatars.githubusercontent.com/u/6662983?v=4
+  orcid: https://orcid.org/0000-0003-4169-2616
+  role: Work Package Leader (WP1)
+  affiliation: Steno Diabetes Center Aarhus
+  description: >
+    Team leader on the Seedcase Project focusing on research data
+    engineering, software development, and improving research
+    reproducibility.
+
+- name: Stine Byberg
+  image: /images/profiles/stine-byberg.jpg
+  orcid: https://orcid.org/0000-0002-3626-3609
+  role: Work Package Leader (WP2)
+  affiliation: Steno Diabetes Center Copenhagen
+  description: >
+    Epidemiologist and senior researcher with extensive experience in
+    prediction models using register-based data.
+
+- name: Claus Bogh Juhl
+  image: /images/profiles/claus-juhl.png
+  orcid: https://orcid.org/0000-0002-4285-5459
+  role: Work Package Leader (WP3)
+  affiliation: Steno Diabetes Center Odense
+  description: >
+    Clinical professor with extensive experience in clinical research in
+    type 1 diabetes, type 2 diabetes and obesity.
