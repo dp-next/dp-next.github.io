@@ -18,18 +18,18 @@ skilled technical personnel. So, the aim of Work Package 1 is to
 establish these skills and needs as a core component of this project and
 to help do "better research in less time".
 
-Our basic strategies will be to establish working groups, including a
-group dedicated to "research operations" to fulfil this core aim, as
+To accomplish this, we have established working groups, including a
+group dedicated to "research operations", to fulfil this core aim, as
 well as developing and implementing common practices and tools that
 maximise collaboration and that follow some guiding principles. All
-groups will include a "tech lead" who has technical knowledge and skills
+groups include "tech leads" who have technical knowledge and skills
 and who will also be part of the research operations group, to help
 coordinate WP groups with these practices. We aim to onboard and train
 the tech leads in these practices by embedding them in some work done at
 SDCA, where these practices have been developing and refining over the
 last several years. The most relevant practices and skills that this WP1
 aims to provide are in software and data engineering, iterative project
-management, collaborative workflows and tools,
+management, collaborative workflows and tools.
 
 Pertinent to these practices is understanding and assessing risk and
 challenges. The two biggest challenges we face with this WP1 are:
