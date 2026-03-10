@@ -12,15 +12,15 @@ website:
       - text: "Language"
         menu:
         - text: "Dansk"
-          href: participant_da.qmd
+          href: participant-da.qmd
         - text: "English"
           href: index.qmd
         - text: "Kalaalisut"
-          href: participant_kl.qmd
+          href: participant-kl.qmd
         - text: "Føroyskt"
-          href: participant_fo.qmd
+          href: participant-fo.qmd
       - text: "Participant"
-        href: participant_en.qmd
+        href: participant-en.qmd
       - text: "Work packages"
         menu:
         - wp1/index.qmd
