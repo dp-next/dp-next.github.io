@@ -55,6 +55,15 @@ across all seven Steno Diabetes Centres.
 :::
 
 ## WP3 {#wp3}
+
+::: {#wp3-listing}
+:::
+
+## WP4 {#wp4}
+
+::: {#wp4-listing}
+:::
+
 ```{=html}
 <style>
 .listing-card img {
@@ -65,7 +74,5 @@ across all seven Steno Diabetes Centres.
 .wp-nav {
   margin: 1rem 0 1.5rem;
 }
-</style>
-```
 </style>
 ```
