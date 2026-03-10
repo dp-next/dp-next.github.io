@@ -1,36 +1,28 @@
 ---
 title: "Who We Are"
-css: style.css
+toc: true
 listing:
   - id: wp1-listing
     contents: data/people-wp1.yml
-    type: grid
-    grid-columns: 2
-    fields: [image, name, role, affiliation, orcid, description]
+    template: includes/_people.ejs.html
     sort:
       - role desc
       - name
   - id: wp2-listing
     contents: data/people-wp2.yml
-    type: grid
-    grid-columns: 2
-    fields: [image, name, role, affiliation, orcid, description]
+    template: includes/_people.ejs.html
     sort:
       - role desc
       - name
   - id: wp3-listing
     contents: data/people-wp3.yml
-    type: grid
-    grid-columns: 2
-    fields: [image, name, role, affiliation, orcid, description]
+    template: includes/_people.ejs.html
     sort:
       - role desc
       - name
   - id: wp4-listing
     contents: data/people-wp4.yml
-    type: grid
-    grid-columns: 2
-    fields: [image, name, role, affiliation, orcid, description]
+    template: includes/_people.ejs.html
     sort:
       - role desc
       - name
@@ -40,39 +32,34 @@ DP-Next will be carried out by a cross-disciplinary team of
 epidemiologists, clinicians, health scientists and data scientists
 across all seven Steno Diabetes Centres.
 
-::: {.wp-nav}
-[WP1](#wp1) | [WP2](#wp2) | [WP3](#wp3) | [WP4](#wp4)
-:::
-
-## WP1 {#wp1}
+## Work package 1 {#wp1}
 
 ::: {#wp1-listing}
 :::
 
-## WP2 {#wp2}
+## Work package 2 {#wp2}
 
 ::: {#wp2-listing}
 :::
 
-## WP3 {#wp3}
+## Work package 3 {#wp3}
 
 ::: {#wp3-listing}
 :::
 
-## WP4 {#wp4}
+## Work package 4 {#wp4}
 
 ::: {#wp4-listing}
 :::
 
 ```{=html}
 <style>
-.listing-card img {
-  width: 120px;
+.card-img {
+  display: inline-block;
   border-radius: 50%;
-}
-
-.wp-nav {
-  margin: 1rem 0 1.5rem;
+  object-fit: cover;
+  width: 300px;
+  height: 300px;
 }
 </style>
 ```
