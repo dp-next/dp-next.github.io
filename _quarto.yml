@@ -9,6 +9,18 @@ website:
     pinned: true
     left:
       - index.qmd
+      - text: "Language"
+        menu:
+        - text: "Dansk"
+          href: participant-da.qmd
+        - text: "English"
+          href: index.qmd
+        - text: "Kalaalisut"
+          href: participant-kl.qmd
+        - text: "Føroyskt"
+          href: participant-fo.qmd
+      - text: "Participant"
+        href: participant-en.qmd
       - text: "Work packages"
         menu:
         - wp1/index.qmd
