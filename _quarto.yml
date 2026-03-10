@@ -8,16 +8,6 @@ website:
   navbar:
     pinned: true
     left:
-      - text: "Language"
-        menu:
-        - text: "Dansk"
-          href: participant-da.qmd
-        - text: "English"
-          href: index.qmd
-        - text: "Kalaalisut"
-          href: participant-kl.qmd
-        - text: "Føroyskt"
-          href: participant-fo.qmd
       - index.qmd
       - text: "Participant"
         href: participant-en.qmd
@@ -36,6 +26,17 @@ website:
         href: publications.qmd
       - text: Support
         href: support.qmd
+    right:
+          - text: "Language"
+        menu:
+        - text: "Dansk"
+          href: participant-da.qmd
+        - text: "English"
+          href: index.qmd
+        - text: "Kalaalisut"
+          href: participant-kl.qmd
+        - text: "Føroyskt"
+          href: participant-fo.qmd
     tools:
       - icon: github
         href: "https://github.com/dp-next/"
