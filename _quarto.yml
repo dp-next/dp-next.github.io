@@ -32,8 +32,8 @@ website:
           href: wp4.qmd
       - text: Who We Are
         href: who-we-are.qmd
-      - text: Publications
-        href: publications.qmd
+      - text: Outputs
+        href: outputs.qmd
       - text: Support
         href: support.qmd
     tools:
