@@ -33,7 +33,7 @@ website:
       - text: Who We Are
         href: who-we-are.qmd
       - text: Outputs
-        href: output.qmd
+        href: outputs.qmd
       - text: Support
         href: support.qmd
     tools:
