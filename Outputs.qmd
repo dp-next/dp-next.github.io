@@ -1,8 +1,8 @@
 ---
-title: "Publications"
+title: "Research Outputs"
 ---
 
-We look forward to sharing publications arising from the work of DP-Next.
+We look forward to sharing outcomes arising from the work of DP-Next.
 
 ## Protocol
 
