@@ -29,6 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -67,7 +69,149 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-wp1-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-name','listing-role','listing-affiliation','listing-orcid','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-name","listing-role","listing-affiliation","listing-orcid","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-wp1-listing'] = new List('listing-wp1-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-wp2-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-name','listing-role','listing-affiliation','listing-orcid','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-name","listing-role","listing-affiliation","listing-orcid","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-wp2-listing'] = new List('listing-wp2-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-wp3-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-name','listing-role','listing-affiliation','listing-orcid','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-name","listing-role","listing-affiliation","listing-orcid","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-wp3-listing'] = new List('listing-wp3-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-wp4-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-name','listing-role','listing-affiliation','listing-orcid','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-name","listing-role","listing-affiliation","listing-orcid","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-wp4-listing'] = new List('listing-wp4-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="style.css">
 </head>
@@ -169,7 +313,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -190,155 +334,575 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>DP-Next will be carried out by a cross-disciplinary team of epidemiologists, clinicians, health scientists and data scientists across all seven Steno Diabetes Centres:</p>
-<!-- Images alternate between left and right -->
-<div class="column-body-outset quarto-layout-panel" data-layout-ncol="2">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="./images/profiles/daniel-witte.jpg" class="profile-picture img-fluid figure-img" alt="Daniel Witte profile picture."></p>
-<figcaption>Daniel R. Witte</figcaption>
-</figure>
+<p>DP-Next will be carried out by a cross-disciplinary team of epidemiologists, clinicians, health scientists and data scientists across all seven Steno Diabetes Centres.</p>
+<div class="wp-nav">
+<p><a href="#wp1">WP1</a> | <a href="#wp2">WP2</a> | <a href="#wp3">WP3</a> | <a href="#wp4">WP4</a></p>
+</div>
+<section id="wp1" class="level2">
+<h2 class="anchored" data-anchor-id="wp1">WP1</h2>
+<div id="listing-wp1-listing" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-2">
+<div class="g-col-1" data-index="0">
+<a href="" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://avatars.githubusercontent.com/u/6662983?v=4" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<div class="card-text listing-description delink">
+<p>Leads WP1 and coordinates the technical and methodological implementation.</p>
+</div>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+name
+</td>
+<td class="name">
+Luke W. Johnston
+</td>
+</tr>
+
+<tr>
+<td>
+role
+</td>
+<td class="role">
+Team Leader
+</td>
+</tr>
+
+<tr>
+<td>
+affiliation
+</td>
+<td class="affiliation">
+Steno Diabetes Center Copenhagen
+</td>
+</tr>
+
+<tr>
+<td>
+orcid
+</td>
+<td class="orcid">
+https://orcid.org/0000-0003-4169-2616
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
 </div>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<p><a href="https://orcid.org/0000-0002-0769-2922">Daniel Witte</a> is professor of Diabetes Epidemiology at Aarhus University and has worked across various themes in prevention and prediction of diabetes and its complications in (inter)national cohorts and register-based studies. He is the Principal Investigator of the DP-Next project.</p>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="wp2" class="level2">
+<h2 class="anchored" data-anchor-id="wp2">WP2</h2>
+<div id="listing-wp2-listing" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-2">
+<div class="g-col-1" data-index="0">
+<a href="" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/profiles/stine-byberg.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<div class="card-text listing-description delink">
+<p>Leads WP2 with a focus on register-based prediction research.</p>
+</div>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+name
+</td>
+<td class="name">
+Stine Byberg
+</td>
+</tr>
+
+<tr>
+<td>
+role
+</td>
+<td class="role">
+Team Leader
+</td>
+</tr>
+
+<tr>
+<td>
+affiliation
+</td>
+<td class="affiliation">
+Steno Diabetes Center Copenhagen
+</td>
+</tr>
+
+<tr>
+<td>
+orcid
+</td>
+<td class="orcid">
+https://orcid.org/0000-0002-3626-3609
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1">
+<a href="" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/profiles/herborg-johannesen.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<div class="card-text listing-description delink">
+<p>Contributes endocrinology expertise to both WP2 and WP3.</p>
+</div>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+name
+</td>
+<td class="name">
+Herborg Líggjasardóttir Johannesen
+</td>
+</tr>
+
+<tr>
+<td>
+role
+</td>
+<td class="role">
+Member
+</td>
+</tr>
+
+<tr>
+<td>
+affiliation
+</td>
+<td class="affiliation">
+Steno Diabetes Center Faroe Islands
+</td>
+</tr>
+
+<tr>
+<td>
+orcid
+</td>
+<td class="orcid">
+https://orcid.org/0000-0002-9048-3303
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2">
+<a href="" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/profiles/karoline-kragelund-nielsen.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<div class="card-text listing-description delink">
+<p>Supports WP2 analyses and contributes epidemiological expertise.</p>
+</div>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+name
+</td>
+<td class="name">
+Karoline Kragelund Nielsen
+</td>
+</tr>
+
+<tr>
+<td>
+role
+</td>
+<td class="role">
+Member
+</td>
+</tr>
+
+<tr>
+<td>
+affiliation
+</td>
+<td class="affiliation">
+Steno Diabetes Center Copenhagen
+</td>
+</tr>
+
+<tr>
+<td>
+orcid
+</td>
+<td class="orcid">
+https://orcid.org/0000-0002-4058-0615
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3">
+<a href="" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/profiles/maria-skaalum-petersen.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<div class="card-text listing-description delink">
+<p>Contributes health science expertise to WP2 model development.</p>
+</div>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+name
+</td>
+<td class="name">
+Maria Skaalum Petersen
+</td>
+</tr>
+
+<tr>
+<td>
+role
+</td>
+<td class="role">
+Member
+</td>
+</tr>
+
+<tr>
+<td>
+affiliation
+</td>
+<td class="affiliation">
+Steno Diabetes Center Faroe Islands
+</td>
+</tr>
+
+<tr>
+<td>
+orcid
+</td>
+<td class="orcid">
+https://orcid.org/0000-0001-9404-8440
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
 </div>
 </div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<p><a href="https://orcid.org/0000-0003-4169-2616">Luke Johnston</a> is a team leader at SDCA on the <a href="https://seedcase-project.org/">Seedcase Project</a>, a NNF-funded software and training-based project that aims at improving research data engineering and management practices and knowledge. While he now largely develops software and training material, he has a PhD in Nutritional Sciences doing diabetes epidemiology, is a strong advocate for more openness and reproducibility in science, and works to improve operational and organizational practices on several larger projects across SDCA. He is the work package leader for Work Package 1.</p>
+<div class="listing-no-matching d-none">No matching items</div>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://avatars.githubusercontent.com/u/6662983?v=4.png" class="profile-picture img-fluid figure-img" alt="Luke Johnston's profile picture."></p>
-<figcaption>Luke W. Johnston</figcaption>
-</figure>
+</section>
+<section id="wp3" class="level2">
+<h2 class="anchored" data-anchor-id="wp3">WP3</h2>
+<div id="listing-wp3-listing" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-2">
+<div class="g-col-1" data-index="0">
+<a href="" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/profiles/claus-juhl.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<div class="card-text listing-description delink">
+<p>Leads WP3 and contributes clinical expertise on diabetes and obesity.</p>
+</div>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+name
+</td>
+<td class="name">
+Claus Bogh Juhl
+</td>
+</tr>
+
+<tr>
+<td>
+role
+</td>
+<td class="role">
+Team Leader
+</td>
+</tr>
+
+<tr>
+<td>
+affiliation
+</td>
+<td class="affiliation">
+Unit of Clinical Interventions, Steno Diabetes Center Odense
+</td>
+</tr>
+
+<tr>
+<td>
+orcid
+</td>
+<td class="orcid">
+https://orcid.org/0000-0002-4285-5459
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1">
+<a href="" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/profiles/herborg-johannesen.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<div class="card-text listing-description delink">
+<p>Contributes endocrinology expertise to both WP2 and WP3.</p>
+</div>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+name
+</td>
+<td class="name">
+Herborg Líggjasardóttir Johannesen
+</td>
+</tr>
+
+<tr>
+<td>
+role
+</td>
+<td class="role">
+Member
+</td>
+</tr>
+
+<tr>
+<td>
+affiliation
+</td>
+<td class="affiliation">
+Steno Diabetes Center Faroe Islands
+</td>
+</tr>
+
+<tr>
+<td>
+orcid
+</td>
+<td class="orcid">
+https://orcid.org/0000-0002-9048-3303
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2">
+<a href="" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/profiles/johan-roeikjer.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<div class="card-text listing-description delink">
+<p>Contributes clinical research support and domain insight in WP3.</p>
+</div>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+name
+</td>
+<td class="name">
+Johan Røikjer
+</td>
+</tr>
+
+<tr>
+<td>
+role
+</td>
+<td class="role">
+Member
+</td>
+</tr>
+
+<tr>
+<td>
+affiliation
+</td>
+<td class="affiliation">
+Steno Diabetes Center North Denmark
+</td>
+</tr>
+
+<tr>
+<td>
+orcid
+</td>
+<td class="orcid">
+https://orcid.org/0000-0002-4578-1328
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3">
+<a href="" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/profiles/nicklas-højgaard-hessellund-rasmussen.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<div class="card-text listing-description delink">
+<p>Supports WP3 with data analysis and methodological input.</p>
+</div>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+name
+</td>
+<td class="name">
+Nicklas Højgaard-Hessellund Rasmussen
+</td>
+</tr>
+
+<tr>
+<td>
+role
+</td>
+<td class="role">
+Member
+</td>
+</tr>
+
+<tr>
+<td>
+affiliation
+</td>
+<td class="affiliation">
+Steno Diabetes Center North Jutland
+</td>
+</tr>
+
+<tr>
+<td>
+orcid
+</td>
+<td class="orcid">
+https://orcid.org/0000-0002-3880-3058
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
 </div>
 </div>
+<div class="listing-no-matching d-none">No matching items</div>
 </div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="./images/profiles/stine-byberg.jpg" class="profile-picture img-fluid figure-img" alt="Stine Byberg's profile picture."></p>
-<figcaption>Stine Byberg</figcaption>
-</figure>
+</section>
+<section id="wp4" class="level2">
+<h2 class="anchored" data-anchor-id="wp4">WP4</h2>
+<div id="listing-wp4-listing" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-2">
+<div class="g-col-1" data-index="0">
+<a href="" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/profiles/jane-nautrup-ostergaard.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<div class="card-text listing-description delink">
+<p>Leads WP4 and oversees intervention development activities.</p>
 </div>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+name
+</td>
+<td class="name">
+Jane Nautrup Østergaard
+</td>
+</tr>
+
+<tr>
+<td>
+role
+</td>
+<td class="role">
+Team Leader
+</td>
+</tr>
+
+<tr>
+<td>
+affiliation
+</td>
+<td class="affiliation">
+Steno Diabetes Center Aarhus
+</td>
+</tr>
+
+<tr>
+<td>
+orcid
+</td>
+<td class="orcid">
+https://orcid.org/0000-0002-0627-1237
+</td>
+</tr>
+
+</tbody></table>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<p><a href="https://orcid.org/0000-0002-3626-3609">Stine Byberg</a> is an epidemiologist and Senior researcher at Steno Diabetes Center Copenhagen, and currently also Head of Research at Steno Diabetes Center Greenland. Stine has extensive experience in both conducting and supervising students in prediction models using register-based data. Stine is the work package leader for Work Package 2.</p>
-</div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<p><a href="https://orcid.org/0000-0002-4285-5459">Claus Bogh Juhl</a> is clinical professor at University Hospital of Southern Denmark, Esbjerg and program leader of Clinical Interventions at Steno Diabetes Center Odense. The has extensive experience in clinical research within type 2 diabetes, obesity and type 1 diabetes. He is the work package leader for Work Package 3.</p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="./images/profiles/claus-juhl.png" class="profile-picture img-fluid figure-img" alt="Claus Juhl's profile picture."></p>
-<figcaption>Claus Bogh Juhl</figcaption>
-</figure>
-</div>
-</div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="./images/profiles/jane-nautrup-ostergaard.jpg" class="profile-picture img-fluid figure-img" alt="Jane Nautrup Østergaard's profile picture."></p>
-<figcaption>Jane Nautrup Østergaard</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<p><a href="https://orcid.org/0000-0002-0627-1237">Jane Nautrup Østergaard</a> is program leader at Steno Diabetes Center Aarhus. She is experienced in the application of the Participatory System Dynamics Approach for the co-creation of complex interventions. She is the work package leader for Work Package 4.</p>
-</div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<p><a href="https://orcid.org/0000-0002-7542-6853">Gunnar Toft</a> is senior researcher at SDCA, with broad epidemiological experience and experience in coordination of international research projects. He acts as general coordinator of the DP-Next project.</p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="./images/profiles/gunnar-toft.jpg" class="profile-picture img-fluid figure-img" alt="Gunnar Toft's profile picture."></p>
-<figcaption>Gunnar Toft</figcaption>
-</figure>
-</div>
-</div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="./images/profiles/karoline-kragelund-nielsen.jpg" class="profile-picture img-fluid figure-img" alt="Karoline Kragelund Nielsen's profile picture."></p>
-<figcaption>Karoline Kragelund Nielsen</figcaption>
-</figure>
+</div></a>
 </div>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<p><a href="https://orcid.org/0000-0002-4058-0615">Karoline Kragelund Nielsen</a> is a senior researcher and heads the reproductive &amp; family health group at Steno Diabetes Center Copenhagen. She has vast experience with research related to GDM, prevention of type 2 diabetes and health systems research, including intervention, epidemiological and qualitative research. She contributes to the project with her expertise within GDM, epidemiology and intervention research.</p>
+<div class="listing-no-matching d-none">No matching items</div>
 </div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<p><a href="https://orcid.org/0000-0001-9404-8440">Maria Skaalum Petersen</a>, professor in health science, is Head of Research at SDCF together with Dr.&nbsp;Johannesen, endocrinologist. She is also head of the Department of Research at the National Hospital of the Faroe Islands. She has a broad epidemiological experience and experience in conducting research projects in the Faroe Islands. She contributes to the project with her expertise within epidemiology and registry data in the Faroe Islands.</p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="./images/profiles/maria-skaalum-petersen.jpg" class="profile-picture img-fluid figure-img" alt="Maria Skaalum Petersen's profile picture."></p>
-<figcaption>Maria Skaalum Petersen</figcaption>
-</figure>
-</div>
-</div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="./images/profiles/nicklas-højgaard-hessellund-rasmussen.jpg" class="profile-picture img-fluid figure-img" alt="Nicklas Højgaard-Hessellund Rasmussen's profile picture."></p>
-<figcaption>Nicklas Højgaard-Hessellund Rasmussen</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<p><a href="https://orcid.org/0000-0002-3880-3058">Nicklas Højgaard-Hessellund Rasmussen</a>, is a Senior Researcher and Associate Professor at Steno Diabetes Center North Jutland. He brings extensive expertise in research on the prevention of diabetic complications, including atypical manifestations. His work focuses on epidemiology and intervention research, with much of it funded by the Danish Diabetes and Endocrine Academy (DDEA). Within the DP-Next project, his contributions center on Work Package 3 (WP3).</p>
-</div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<p><a href="https://orcid.org/0000-0002-4578-1328">Johan Røikjer</a>, is a Senior Researcher at Steno Diabetes Center North Denmark, Aalborg University Hospital, and an Associate Professor at Aalborg University. Johan Røikjer brings extensive expertise in clinical research focusing on late diabetes complications with a special interest in early detection and prevention of diabetic peripheral neuropathy, diabetic foot complications and neuropathic pain. Within the DP-Next project, his contributions center on Work Package 3 (WP3).</p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="./images/profiles/johan-roeikjer.jpg" class="profile-picture img-fluid figure-img" alt="Johan Røikjer's profile picture."></p>
-<figcaption>Johan Røikjer</figcaption>
-</figure>
-</div>
-</div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="./images/profiles/herborg-johannesen.png" class="profile-picture img-fluid figure-img" alt="Herborg Líggjasardóttir Johannesen's profile picture."></p>
-<figcaption>Herborg Líggjasardóttir Johannesen</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<p><a href="https://orcid.org/0000-0002-9048-3303">Herborg Líggjasardóttir Johannesen</a>, is an endocrinologist, Head of Function at Steno Diabetes Center Faroe Islands and consultant at the Department of Medicine, National Hospital of the Faroe Islands. She has research experience in endocrinology and epidemiology, focusing on thyroid diseases, diabetes, and endocrine health in the North Atlantic region. She contributes to DP-Next Work Packages 2 (WP2) and 3 (WP3) with clinical and research expertise in endocrine disorders in remote regions.</p>
-</div>
-</div>
-</div>
+<style>
+.listing-card img {
+  width: 120px;
+  border-radius: 50%;
+}
+
+.wp-nav {
+  margin: 1rem 0 1.5rem;
+}
+</style>
 
 
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
