@@ -31,7 +31,7 @@ website:
         menu:
         - text: "Dansk"
           href: participant-da.qmd
-        - text: "English"
+        - text: "🇬🇧"
           href: index.qmd
         - text: "Kalaalisut"
           href: participant-kl.qmd
