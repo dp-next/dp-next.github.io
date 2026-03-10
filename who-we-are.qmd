@@ -64,11 +64,14 @@ across all seven Steno Diabetes Centres.
 ::: {#wp4-listing}
 :::
 
+```{=html}
+<style>
 .listing-card img {
   width: 120px;
   border-radius: 50%;
 }
-
 .wp-nav {
   margin: 1rem 0 1.5rem;
 }
+</style>
+```
