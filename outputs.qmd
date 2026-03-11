@@ -3,7 +3,7 @@ title: "Research outputs"
 toc: true
 listing:
   - id: protocol-list
-    contents: data/protocol.yml
+    contents: data/protocols.yml
     template: includes/_outputs.ejs.html
 
   - id: publication-list
