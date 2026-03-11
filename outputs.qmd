@@ -5,28 +5,32 @@ listing:
   - id: protocol-list
     contents: data/protocols.yml
     template: includes/_outputs.ejs.html
-
+    sort:
+        - year
   - id: publication-list
     contents: data/publications.yml
     template: includes/_outputs.ejs.html
-
+    sort:
+        - year
   - id: podcast-list
     contents: data/podcasts.yml
     template: includes/_outputs.ejs.html
+    sort:
+        - year
 ---
 We look forward to sharing publications arising from the work of DP-Next.
 
-## Protocol
+## Protocol {#protocol}
 
 ::: {#protocol-list}
 :::
 
-## Publications
+## Publications {#publications}
 
 ::: {#publication-list}
 :::
 
-## Podcasts
+## Podcasts {#podcasts}
 
 ::: {#podcast-list}
 :::
