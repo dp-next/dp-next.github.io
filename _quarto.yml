@@ -27,15 +27,15 @@ website:
       - text: Support
         href: support.qmd
     right:
-          - text: "Language"
+      - icon: globe
         menu:
-        - text: "Dansk"
+        - text: "🇩🇰"
           href: participant-da.qmd
         - text: "🇬🇧"
           href: index.qmd
-        - text: "Kalaalisut"
+        - text: "🇬🇱"
           href: participant-kl.qmd
-        - text: "Føroyskt"
+        - text: "🇫🇴"
           href: participant-fo.qmd
     tools:
       - icon: github
