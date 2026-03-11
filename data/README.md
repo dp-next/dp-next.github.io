@@ -10,7 +10,7 @@ Following information is needed:
   description: Short description of your function on the specific work package
 
 ## Outputs
-Following information is wanted based on what kind of output
+The following fields are expected, depending on output type:
 ### Podcasts
 - title: Title of podcasts
   host: Who is hosting the podcast
