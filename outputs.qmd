@@ -1,9 +1,19 @@
 ---
 title: "Research outputs"
----
 
 We look forward to sharing publications arising from the work of DP-Next.
 
 ## Protocol
 
-The most up-to-date version of the full [WP2 analysis protocol](https://doi.org/10.5281/zenodo.15410789)[@Gerds2025] is published online on Zenodo.
+::: {#protocol-list}
+:::
+
+## Publications
+
+::: {#publication-list}
+:::
+
+## Podcasts
+
+::: {#podcast-list}
+:::
