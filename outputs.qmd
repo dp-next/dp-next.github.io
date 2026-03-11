@@ -1,6 +1,19 @@
 ---
 title: "Research outputs"
 
+listing:
+  - id: protocol-list
+    contents: data/protocol.yml
+    template: includes/_outputs.ejs.html
+
+  - id: publication-list
+    contents: data/publications.yml
+    template: includes/_outputs.ejs.html
+
+  - id: podcast-list
+    contents: data/podcasts.yml
+    template: includes/_outputs.ejs.html
+---
 We look forward to sharing publications arising from the work of DP-Next.
 
 ## Protocol
