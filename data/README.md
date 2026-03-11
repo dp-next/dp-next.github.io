@@ -19,13 +19,13 @@ The following fields are expected, depending on output type:
 
 ### Protocols
 - title: Title of protocol
-  authors: Who is the author
+  authors: Author(s)
   year: X
   link: https://doi.org
   description: XXX
 ### Publications
-- title: Title of protocol
-  authors: Who is the author
+- title: Title of publication
+  authors: Author(s)
   year: X
   link: https://doi.org
   description: XXX
