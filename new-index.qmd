@@ -1,0 +1,15 @@
+---
+title: "Next generation of type 2 diabetes prevention"
+image: images/logo
+title-block-banner: false
+about:
+    template: jolla
+    image-width: 35em
+    image-shape: rounded
+    links:
+      - text: "For researchers"
+        href: "wp1/index.qmd"
+      - text: "For participant"
+        href: "participant-en.qmd"
+---
+![](/images/XXX)
