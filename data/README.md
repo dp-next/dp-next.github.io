@@ -19,22 +19,28 @@ upload an image of yourself to this repository under the `/images/profiles/` fol
 ```
 
 ## Outputs
-The following fields are expected, depending on output type:
+
+When adding another output, we expect the following fields, depending on output type:
+
 ### Podcasts
+
+```
 - title: Title of podcasts
   host: Who is hosting the podcast
-  year: X
+  year: YYYY
   link: https://example.com
+```
 
 ### Protocols
-- title: Title of protocol
-  authors: Author(s)
-  year: X
-  link: https://doi.org
-  description: XXX
+
+```
+- title: "TITLE"
+  doi: DOI
+``` 
+
 ### Publications
-- title: Title of publication
-  authors: Author(s)
-  year: X
-  link: https://doi.org
-  description: XXX
+
+```
+- title: "TITLE"
+  doi: DOI
+```
