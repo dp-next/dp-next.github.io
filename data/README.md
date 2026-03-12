@@ -26,8 +26,8 @@ When adding another output, we expect the following fields, depending on output 
 
 ```
 - title: Title of podcasts
-  host: Who is hosting the podcast
   year: YYYY
+  host: Who is hosting the podcast
   link: https://example.com
 ```
 
