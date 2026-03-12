@@ -1,0 +1,41 @@
+- name: Claus Bogh Juhl
+  role: Package Leader
+  affiliation: Unit of Clinical Interventions, Steno Diabetes Center Odense
+  orcid: https://orcid.org/0000-0002-4285-5459
+  image: /images/profiles/claus-juhl.png
+  description: Leads WP3 and contributes clinical expertise on diabetes and obesity.
+
+- name: Herborg Líggjasardóttir Johannesen
+  role: Member
+  affiliation: Steno Diabetes Center Faroe Islands
+  orcid: https://orcid.org/0000-0002-9048-3303
+  image: /images/profiles/herborg-johannesen.png
+  description: Contributes endocrinology expertise to both WP2 and WP3.
+
+- name: Johan Røikjer
+  role: Member
+  affiliation: Steno Diabetes Center North Denmark
+  orcid: https://orcid.org/0000-0002-4578-1328
+  image: /images/profiles/johan-roeikjer.jpg
+  description: Contributes clinical research support and domain insight in WP3.
+
+- name: Nicklas Højgaard-Hessellund Rasmussen
+  role: Member
+  affiliation: Steno Diabetes Center North Jutland
+  orcid: https://orcid.org/0000-0002-3880-3058
+  image: /images/profiles/nicklas-højgaard-hessellund-rasmussen.jpg
+  description: Supports WP3 with data analysis and methodological input.
+
+- name: "Kristina Matthiesen Hansen"
+  role: Member
+  affiliation: Steno Diabetes Center Faroe Islands
+  orcid: ""
+  image: "/images/profiles/kristina.png"
+  description: "I am a PhD student working in the Faroe Islands and Aarhus contributing to developing the data collection protocol."
+
+- name: "Mikkel Errboe Steentoft"
+  role: Member
+  orcid: ""
+  affiliation: Steno Diabetes Center Aarhus
+  image: "/images/profiles/mikkel-steentoft.jpeg"
+  description: "Masters student contributing to analyses assessing heterogeneity in a prediabetic populations."
