@@ -36,7 +36,7 @@ When adding another output, we expect the following fields, depending on output 
 ```
 - title: "TITLE"
   doi: DOI
-``` 
+```
 
 ### Publications
 
