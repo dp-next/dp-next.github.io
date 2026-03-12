@@ -13,7 +13,7 @@ upload an image of yourself to this repository under the `/images/profiles/` fol
 - name: Your Name
   role: Package Leader or Member
   affiliation: Steno Diabetes Center X
-  orcid: https://orcid.org/XXX
+  orcid: https://orcid.org/YOURIDHERE
   image: Where is your image located?
   description: Short description of your function on the specific work package
 
