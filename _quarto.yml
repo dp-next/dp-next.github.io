@@ -28,14 +28,15 @@ website:
         href: support.qmd
     right:
       - icon: globe
+        aria-label: "Switch language for website."
         menu:
-        - text: "🇩🇰"
+        - text: "🇩🇰 Dansk"
           href: participant-da.qmd
-        - text: "🇬🇧"
+        - text: "🇬🇧 English"
           href: index.qmd
-        - text: "🇬🇱"
+        - text: "🇬🇱 Kalaallisut"
           href: participant-kl.qmd
-        - text: "🇫🇴"
+        - text: "🇫🇴 Føroyskt"
           href: participant-fo.qmd
     tools:
       - icon: github
