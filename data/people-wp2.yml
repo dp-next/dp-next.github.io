@@ -25,3 +25,10 @@
   orcid: https://orcid.org/0000-0001-9404-8440
   image: /images/profiles/maria-skaalum-petersen.jpg
   description: Contributes health science expertise to WP2 model development.
+
+- name: "Kristina Matthiesen Hansen"
+  role: Member
+  affiliation: Steno Diabetes Center Faroe Islands
+  orcid: ""
+  image: "/images/profiles/kristina.png"
+  description: "I am a PhD student working in the Faroe Islands and Aarhus applying the Danish risk-prediction model to the Faroe register data."
