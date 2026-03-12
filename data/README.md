@@ -1,7 +1,15 @@
 This folder is the location for data on people and outputs
 
 ## People
-Following information is needed:
+
+If you don't see that your listed on the people's page,
+you can add yourself by opening the `people-*.yml` for the Work Package
+you are part of. Inside that file, add the following content
+to the bottom of the page, filling in the relevant details as necessary.
+You can either paste a URL link to your picture in the `image:` tag, or
+upload an image of yourself to this repository under the `/images/profiles/` folder.
+
+```
 - name: Your Name
   role: Package Leader or Member
   affiliation: Steno Diabetes Center X
