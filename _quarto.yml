@@ -28,6 +28,7 @@ website:
         href: support.qmd
     right:
       - icon: globe
+        aria-label: "Switch language for website."
         menu:
         - text: "🇩🇰 Dansk"
           href: participant-da.qmd
