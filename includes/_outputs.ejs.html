@@ -3,7 +3,7 @@
   <li>
     <strong><%- item.title %></strong>
     <% if (item.authors) { %> – <%- item.authors %><% } %>
-    <% if (item.host) { %> – <%- item.host %><% } %>
+    <% if (item.host) { %>Host: <%- item.host %><% } %>
     <% if (item.year) { %> (<%- item.year %>)<% } %>
     <% if (item.link) { %>
       (<a href="<%- item.link %>"><%= item.link %></a>)
