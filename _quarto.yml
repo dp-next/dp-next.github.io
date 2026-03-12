@@ -9,6 +9,8 @@ website:
     pinned: true
     left:
       - index.qmd
+      - text: "Participant"
+        href: participant-en.qmd
       - text: "Work packages"
         menu:
         - wp1/index.qmd
@@ -20,6 +22,21 @@ website:
           href: wp4.qmd
       - text: Who We Are
         href: who-we-are.qmd
+      - text: Outputs
+        href: outputs.qmd
+      - text: Support
+        href: support.qmd
+    right:
+      - icon: globe
+        menu:
+        - text: "🇩🇰"
+          href: participant-da.qmd
+        - text: "🇬🇧"
+          href: index.qmd
+        - text: "🇬🇱"
+          href: participant-kl.qmd
+        - text: "🇫🇴"
+          href: participant-fo.qmd
     tools:
       - icon: github
         href: "https://github.com/dp-next/"
