@@ -31,4 +31,11 @@
   affiliation: Steno Diabetes Center Faroe Islands
   orcid: ""
   image: "/images/profiles/kristina.png"
-  description: "I am a PhD student working in the Faroe Islands and Aarhus applying the Danish risk-prediction model to the Faroe register data."
+  description: "I am a PhD student working in the Faroe Islands and Aarhus applying the Danish risk prediction model to the Faroe register data."
+
+- name: "Hjalte Søberg Mikkelsen"
+  role: Member
+  affiliation: Steno Diabetes Center Copenhagen
+  orcid: ""
+  image: "/images/profiles/hjalte-mikkelsen.png"
+  description: "PhD student in biostatistics contributing to developing the risk prediction models within the Danish registers."
