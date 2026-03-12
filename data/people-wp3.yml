@@ -25,3 +25,10 @@
   orcid: https://orcid.org/0000-0002-3880-3058
   image: /images/profiles/nicklas-højgaard-hessellund-rasmussen.jpg
   description: Supports WP3 with data analysis and methodological input.
+
+- name: "Kristina Matthiesen Hansen"
+  role: Member
+  affiliation: Steno Diabetes Center Faroe Islands
+  orcid: ""
+  image: "/images/profiles/kristina.png"
+  description: "I am a PhD student working in the Faroe Islands and Aarhus contributing to developing the data collection protocol."
