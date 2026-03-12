@@ -16,6 +16,7 @@ upload an image of yourself to this repository under the `/images/profiles/` fol
   orcid: https://orcid.org/YOURIDHERE
   image: /path/to/image.jpeg # Where is your image located?
   description: Short description of your function on the specific work package
+```
 
 ## Outputs
 The following fields are expected, depending on output type:
