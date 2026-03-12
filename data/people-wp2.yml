@@ -1,0 +1,48 @@
+- name: Stine Byberg
+  role: Package Leader
+  affiliation: Steno Diabetes Center Copenhagen
+  orcid: https://orcid.org/0000-0002-3626-3609
+  image: /images/profiles/stine-byberg.jpg
+  description: Leads WP2 with a focus on register-based prediction research.
+
+- name: Herborg Líggjasardóttir Johannesen
+  role: Member
+  affiliation: Steno Diabetes Center Faroe Islands
+  orcid: https://orcid.org/0000-0002-9048-3303
+  image: /images/profiles/herborg-johannesen.png
+  description: Contributes endocrinology expertise to both WP2 and WP3.
+
+- name: Karoline Kragelund Nielsen
+  role: Member
+  affiliation: Steno Diabetes Center Copenhagen
+  orcid: https://orcid.org/0000-0002-4058-0615
+  image: /images/profiles/karoline-kragelund-nielsen.jpg
+  description: Supports WP2 analyses and contributes epidemiological expertise.
+
+- name: Maria Skaalum Petersen
+  role: Member
+  affiliation: Steno Diabetes Center Faroe Islands
+  orcid: https://orcid.org/0000-0001-9404-8440
+  image: /images/profiles/maria-skaalum-petersen.jpg
+  description: Contributes health science expertise to WP2 model development.
+
+- name: "Kristina Matthiesen Hansen"
+  role: Member
+  affiliation: Steno Diabetes Center Faroe Islands
+  orcid: ""
+  image: "/images/profiles/kristina.png"
+  description: "I am a PhD student working in the Faroe Islands and Aarhus applying the Danish risk prediction model to the Faroe register data."
+
+- name: "Hjalte Søberg Mikkelsen"
+  role: Member
+  affiliation: Steno Diabetes Center Copenhagen
+  orcid: ""
+  image: "/images/profiles/hjalte-mikkelsen.png"
+  description: "PhD student in biostatistics contributing to developing the risk prediction models within the Danish registers."
+
+- name: "Jonas Frey Rosborg Schaarup"
+  role: Member
+  affiliation: Steno Diabetes Center Aarhus
+  orcid: ""
+  image: "/images/profiles/jonas-schaarup.jpg"
+  description: "Main lead for coordinating the practical development of the risk prediction models within the Danish register data, to ensure reproducibility and translatability to the Greenlandic and Faroe Islands' register data."
