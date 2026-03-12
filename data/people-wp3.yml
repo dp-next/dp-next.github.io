@@ -46,3 +46,10 @@
   orcid: ""
   image: "/images/profiles/jonas-schaarup.jpg"
   description: "Contributing to assessing heterogeneity by analysing the ADDITION-PRO data."
+
+- name: "Christian Tjørnehøj"
+  role: Member
+  affiliation: Steno Diabetes Center Aarhus
+  orcid: ""
+  image: "/images/profiles/christian-tjoernehoej.png"
+  description: "Doing an internship and contributing to developing the data collection protocol."
