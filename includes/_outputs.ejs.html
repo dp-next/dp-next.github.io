@@ -7,6 +7,7 @@
     <% if (item.link) { %>
       (<a href="<%- item.link %>"><%= item.link %></a>)
     <% } %>
+    <% if (item.doi) { %> DOI: <a href="https://doi.org/<%- item.doi %>"><%- item.doi %><\a> <% } %> 
   </li>
 <% } %>
 </ul>
