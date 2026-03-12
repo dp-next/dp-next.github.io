@@ -2,8 +2,8 @@
 <% for (const item of items) { %>
   <li>
     <strong><%- item.title %></strong>:
-    <% if (item.host) { %>Host: <%- item.host %><% } %>
     <% if (item.year) { %> (<%- item.year %>)<% } %>
+    <% if (item.host) { %>Host: <%- item.host %><% } %>
     <% if (item.link) { %>
       (<a href="<%- item.link %>"><%= item.link %></a>)
     <% } %>
