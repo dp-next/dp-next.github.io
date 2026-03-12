@@ -12,4 +12,5 @@ about:
       - text: "For participant"
         href: "participant-en.qmd"
 ---
+
 ![](/images/XXX)
