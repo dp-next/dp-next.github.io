@@ -1,0 +1,29 @@
+```{=html}
+<div class="list grid quarto-listing-cols-2">
+  <% for (const item of items) { %>
+    <div class="g-col-1">
+      <div class="quarto-grid-item h-100 card-left">
+        <p style="text-align: center;"><img loading="lazy" src="<%- item.image %>" class="card-img"></p>
+        <div class="card">
+          <div class="card-body post-contents">
+            <div class="card-text listing-description delink">
+              <p><strong><%- item.name %></strong></p>
+              <p><%- item.description %></p>
+
+              <ul>
+                <li>Role: <%- item.role %></li>
+                <li>Affiliation: <%- item.affiliation %></li>
+                <% if ( item.orcid ) { %>
+                  <li>ORCID: <a href="<%- item.orcid %>">
+                      <%= item.orcid %>
+                    </a></li>
+                  <% } %>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <% } %>
+</div>
+```
