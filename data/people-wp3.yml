@@ -32,3 +32,10 @@
   orcid: ""
   image: "/images/profiles/kristina.png"
   description: "I am a PhD student working in the Faroe Islands and Aarhus contributing to developing the data collection protocol."
+
+- name: "Mikkel Errboe Steentoft"
+  role: Member
+  orcid: ""
+  affiliation: Steno Diabetes Center Aarhus
+  image: "/images/profiles/mikkel-steentoft.jpeg"
+  description: "Masters student contributing to analyses assessing heterogeneity in a prediabetic populations."
