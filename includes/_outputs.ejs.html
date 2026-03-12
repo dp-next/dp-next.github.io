@@ -6,7 +6,7 @@
     <% if (item.host) { %> – <%- item.host %><% } %>
     <% if (item.year) { %> (<%- item.year %>)<% } %>
     <% if (item.link) { %>
-      – <a href="<%- item.link %>">link</a>
+      (<a href="<%- item.link %>"><%= item.link %></a>)
     <% } %>
   </li>
 <% } %>
