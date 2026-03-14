@@ -40,8 +40,9 @@ DP-Next will be carried out by a cross-disciplinary team of
 epidemiologists, clinicians, health scientists and data scientists
 across all seven Steno Diabetes Centres.
 
-::: {.wp-nav}
-[WP1](#wp1) | [WP2](#wp2) | [WP3](#wp3) | [WP4](#wp4)
+::: wp-nav
+[WP1](#wp1) \| [WP2](#wp2) \| [WP3](#wp3)  \| [WP4](#wp4) \| [Steering
+Committee](#sc)
 :::
 
 ## WP1 {#wp1}
@@ -63,6 +64,29 @@ across all seven Steno Diabetes Centres.
 
 ::: {#wp4-listing}
 :::
+
+## Steering Committee {#sc}
+
+The Steering Committee consists of:
+
+-   Daniel Witte, SDCA
+
+-   Gunnar Toft, SDCA
+
+-   Claus Bogh Juhl, SDCO
+
+-   Stine Byberg, SDCC
+
+-   Nicklas Rasmussen, SDCN
+
+-   Line Lindahl-Jacobsen, SDCS
+
+-   Maria Skaalum SDCF
+
+-   Marit Eika Jørgensen, SDCG
+
+The Steering Committee at least 6 times per year online and communicates
+more frequently as required.
 
 ```{=html}
 <style>
