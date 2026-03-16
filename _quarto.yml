@@ -8,7 +8,8 @@ website:
   navbar:
     pinned: true
     left:
-      - index.qmd
+      - text: "Researcher"
+      - href: index.qmd
       - text: "Participant"
         href: participant-en.qmd
       - text: "Work packages"
