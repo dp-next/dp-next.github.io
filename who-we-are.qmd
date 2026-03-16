@@ -52,6 +52,24 @@ across all seven Steno Diabetes Centres.
 ::: {#wp4-listing}
 :::
 
+## Steering Committee {#sc}
+
+<!-- TODO: Convert to style like above? -->
+
+The Steering Committee consists of:
+
+-   Daniel Witte, SDCA
+-   Gunnar Toft, SDCA
+-   Claus Bogh Juhl, SDCO
+-   Stine Byberg, SDCC
+-   Nicklas Rasmussen, SDCN
+-   Line Lindahl-Jacobsen, SDCS
+-   Maria Skaalum SDCF
+-   Marit Eika Jørgensen, SDCG
+
+The Steering Committee at least 6 times per year online and communicates
+more frequently as required.
+
 ```{=html}
 <style>
 .card-img {
