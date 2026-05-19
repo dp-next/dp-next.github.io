@@ -57,7 +57,7 @@ The examination takes approximately 4 hours. Depending on the study site, examin
 - Wearable devices and glucose sensors
 - Storage of biological samples in a research biobank
 
-These examinations help researchers better understand why some people develop type 2 diabetes while others do not. 
+These examinations help researchers better understand why some people develop type 2 diabetes while others do not.
 
 Participation in the clinical examination is voluntary and requires separate consent.
 
@@ -65,7 +65,7 @@ Participation in the clinical examination is voluntary and requires separate con
 
 ## What does the intervention involve?
 
-A key goal of DP-Next is to improve prevention of type 2 diabetes through more personalised and effective approaches. 
+A key goal of DP-Next is to improve prevention of type 2 diabetes through more personalised and effective approaches.
 
 Using information from questionnaires, health registers, and clinical examinations, researchers will investigate how prevention strategies can be better tailored to different risk profiles and individual needs. These strategies are developed in collaboration with participants, healthcare professionals, and researchers to ensure they are relevant and feasible in practice.
 
