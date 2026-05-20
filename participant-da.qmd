@@ -1,5 +1,38 @@
 ---
-title: "Deltagerinformation"
+title: "Information til deltagere"
 ---
 
-## Text til deltager
+## Hvad er DP-Next?
+
+DP-Next står for *Bæredygtig forebyggelse af type 2-diabetes i det 21. århundrede*. Det er et forskningsprojekt, der gennemføres i samarbejde mellem alle syv Steno Diabetes Centre i Danmark, Grønland og på Færøerne.
+
+Formålet med DP-Next er at forbedre tidlig identifikation og forebyggelse af type 2-diabetes. I dag ved vi ikke fuldt ud, hvorfor nogle personer med forhøjet blodsukker udvikler type 2-diabetes, mens andre ikke gør. DP-Next søger at forbedre denne forståelse og udvikle mere effektive og bæredygtige forebyggelsesstrategier.
+
+Projektet kombinerer:
+
+- Spørgeskemadata om helbred, livsstil og trivsel
+- Information fra nationale sundhedsregistre
+- En ny klinisk kohorte med detaljerede helbredsundersøgelser
+- Udvikling og evaluering af nye forebyggelsesstrategier
+
+Det overordnede mål er at forbedre forebyggelsen af type 2-diabetes ved at identificere personer med højere risiko og udvikle mere målrettede og effektive forebyggelsesindsatser.
+
+- **[Spørgeskema](participant-questionnaire-da.qmd)** Giver et overblik over spørgeskemaet
+- **[Klinisk undersøgelse](participant-clinical-da.qmd)** Giver et overblik over de kliniske undersøgelser
+- **[Intervention](participant-intervention-da.qmd)** Giver et overblik over interventionerne
+
+---
+
+## Frivillig deltagelse og databeskyttelse
+
+Deltagelse i DP-Next er frivillig. Du kan til enhver tid trække dit samtykke tilbage uden at oplyse en grund og uden konsekvenser for din nuværende eller fremtidige behandling i sundhedsvæsenet.
+
+Alle oplysninger behandles fortroligt og opbevares sikkert. Forskningsresultater vil kun blive offentliggjort i anonymiseret form, og enkeltpersoner vil ikke kunne identificeres.
+
+---
+
+## Kontakt og yderligere information
+
+Hvis du har spørgsmål eller ønsker mere information, er du velkommen til at kontakte projektgruppen.
+
+Du kan også læse mere om projektet på DP-Nexts hjemmeside.
