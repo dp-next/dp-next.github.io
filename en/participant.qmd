@@ -18,9 +18,9 @@ The project combines:
 The overall goal is to improve prevention of type 2 diabetes by identifying individuals at higher risk and developing more targeted and effective prevention approaches.
 
 
-- **[Questionnaire](en/participant-questionnaire-en.qmd)** Gives an overview of the questionnaire
-- **[Clinical examination](en/participant-clinical-en.qmd)** Gives an overview of the clinical examinations
-- **[Intervention](en/participant-intervention-en.qmd)** Gives an overview of the interventions
+- **[Questionnaire](en/participant-questionnaire.qmd)** Gives an overview of the questionnaire
+- **[Clinical examination](en/participant-clinical.qmd)** Gives an overview of the clinical examinations
+- **[Intervention](en/participant-intervention.qmd)** Gives an overview of the interventions
 
 ---
 
