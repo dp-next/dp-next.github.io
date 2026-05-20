@@ -12,14 +12,14 @@ website:
         href: index.qmd
       - text: "Participant"
         menu:
-        - text: "Participant overview"
-          href: participant-en.qmd
-        - text: "Questionnaire"
-          href: participant-questionnaire-en.qmd
-        - text: "Clinical examination"
-          href: participant-clinical-en.qmd
-        - text: "Intervention"
-          href: participant-intervention-en.qmd
+        - text: "Participant 🇬🇧"
+          href: en/participant-en.qmd
+        - text: "Deltager 🇩🇰"
+          href: da/participant-da.qmd
+        - text: "luttakari 🇫🇴"
+          href: fo/participant-fo.qmd
+        - text: "peqataasoq 🇬🇱"
+          href: kl/participant-kl.qmd
       - text: "Work packages"
         menu:
         - wp1/index.qmd
@@ -36,17 +36,6 @@ website:
       - text: Support
         href: support.qmd
     right:
-      - icon: globe
-        aria-label: "Switch language for website."
-        menu:
-        - text: "🇩🇰 Dansk"
-          href: participant-da.qmd
-        - text: "🇬🇧 English"
-          href: index.qmd
-        - text: "🇬🇱 Kalaallisut"
-          href: participant-kl.qmd
-        - text: "🇫🇴 Føroyskt"
-          href: participant-fo.qmd
     tools:
       - icon: github
         href: "https://github.com/dp-next/"
