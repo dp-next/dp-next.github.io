@@ -13,13 +13,13 @@ website:
       - text: "Participant"
         menu:
         - text: "Participant 🇬🇧"
-          href: en/participant-en.qmd
+          href: en/participant.qmd
         - text: "Deltager 🇩🇰"
-          href: da/participant-da.qmd
+          href: da/participant.qmd
         - text: "luttakari 🇫🇴"
-          href: fo/participant-fo.qmd
+          href: fo/participant.qmd
         - text: "peqataasoq 🇬🇱"
-          href: kl/participant-kl.qmd
+          href: kl/participant.qmd
       - text: "Work packages"
         menu:
         - wp1/index.qmd
