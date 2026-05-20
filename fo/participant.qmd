@@ -17,9 +17,9 @@ Verkætlanin sameinir:
 
 Yvirskipaða málið er at betra um fyribyrgingina av typu 2-diabetes við at eyðmerkja fólk við størri vanda og menna meira málrættaðar og munagóðar fyribyrgingarætlanir.
 
-- **[Spurnablað](fo/participant-questionnaire-en.qmd)** Gevur eitt yvirlit yvir spurnablaðið
-- **[Klinisk kanning](fo/participant-clinical-en.qmd)** Gevur eitt yvirlit yvir tær klinisku kanningarnar
-- **[Interventión](fo/participant-intervention-en.qmd)** Gevur eitt yvirlit yvir interventiónirnar
+- **[Spurnablað](fo/participant-questionnaire.qmd)** Gevur eitt yvirlit yvir spurnablaðið
+- **[Klinisk kanning](fo/participant-clinical.qmd)** Gevur eitt yvirlit yvir tær klinisku kanningarnar
+- **[Interventión](fo/participant-intervention.qmd)** Gevur eitt yvirlit yvir interventiónirnar
 
 ---
 
