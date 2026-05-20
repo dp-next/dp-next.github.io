@@ -13,7 +13,7 @@ website:
       - text: "Participant"
         menu:
         - text: "Participant overview"
-          href: participant-en.qmd         
+          href: participant-en.qmd
         - text: "Questionnaire"
           href: participant-questionnaire-en.qmd
         - text: "Clinical examination"
