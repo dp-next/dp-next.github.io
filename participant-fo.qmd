@@ -1,5 +1,38 @@
 ---
-title: "Føroyskt information"
+title: "Upplýsing til luttakarar"
 ---
 
-## Welcome
+## Hvat er DP-Next?
+
+DP-Next stendur fyri *Burðardygg fyribyrging av typu 2-diabetes í 21. øld*. Hetta er eitt granskingarverkætlan, sum verður framt í samstarvi millum allar sjey Steno Diabetes Miðstøðirnar í Danmark, Grønlandi og Føroyum.
+
+Endamálið við DP-Next er at betra um tíðliga eyðmerking og fyribyrging av typu 2-diabetes. Í dag vita vit ikki fullkomiliga, hví summi fólk við hækkaðum blóðsukri fáa typu 2-diabetes, meðan onnur ikki gera tað. DP-Next arbeiðir fyri at betra hesa fatanina og menna meira munagóðar og burðardyggar fyribyrgingarætlanir.
+
+Verkætlanin sameinir:
+
+- Spurnablaðsupplýsingar um heilsu, lívsstíl og trivnað
+- Upplýsingar úr landsumfatandi heilsuskrásetingum
+- Eina nýggja kliniska kohortu við nágreiniligum heilsukanningum
+- Menning og eftirmeting av nýggjum fyribyrgingarætlanum
+
+Yvirskipaða málið er at betra um fyribyrgingina av typu 2-diabetes við at eyðmerkja fólk við størri vanda og menna meira málrættaðar og munagóðar fyribyrgingarætlanir.
+
+- **[Spurnablað](participant-questionnaire-fo.qmd)** Gevur eitt yvirlit yvir spurnablaðið
+- **[Klinisk kanning](participant-clinical-fo.qmd)** Gevur eitt yvirlit yvir tær klinisku kanningarnar
+- **[Interventión](participant-intervention-fo.qmd)** Gevur eitt yvirlit yvir interventiónirnar
+
+---
+
+## Sjálvboðin luttøka og dátuvernd
+
+Luttøka í DP-Next er sjálvboðin. Tú kanst altíð taka teg úr verkætlanini uttan at geva orsøk, og tað fær ongar avleiðingar fyri núverandi ella framtíðar viðgerð í heilsuverkinum.
+
+Allar upplýsingar verða viðgjørdar í trúnaði og goymdar trygt. Granskingarúrslit verða bert almannakunngjørd í dulnevndari mynd, og einstakir luttakarar kunnu ikki eyðmerkjast.
+
+---
+
+## Samband og meira kunning
+
+Um tú hevur spurningar ella ynskir meira kunning, ert tú vælkomin at seta teg í samband við verkætlanarbólkin.
+
+Tú kanst eisini lesa meira um verkætlanina á heimasíðuni hjá DP-Next.
