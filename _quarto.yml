@@ -16,9 +16,9 @@ website:
           href: en/participant.qmd
         - text: "Deltager 🇩🇰"
           href: da/participant.qmd
-        - text: "luttakari 🇫🇴"
+        - text: "Luttakari 🇫🇴"
           href: fo/participant.qmd
-        - text: "peqataasoq 🇬🇱"
+        - text: "Peqataasoq 🇬🇱"
           href: kl/participant.qmd
       - text: "Work packages"
         menu:
