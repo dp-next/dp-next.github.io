@@ -17,9 +17,9 @@ Projektet kombinerer:
 
 Det overordnede mål er at forbedre forebyggelsen af type 2-diabetes ved at identificere personer med højere risiko og udvikle mere målrettede og effektive forebyggelsesindsatser.
 
-- **[Spørgeskema](da/participant-questionnaire-en.qmd)** Giver et overblik over spørgeskemaet
-- **[Klinisk undersøgelse](da/participant-clinical-en.qmd)** Giver et overblik over de kliniske undersøgelser
-- **[Intervention](da/participant-intervention-en.qmd)** Giver et overblik over interventionerne
+- **[Spørgeskema](da/participant-questionnaire.qmd)** Giver et overblik over spørgeskemaet
+- **[Klinisk undersøgelse](da/participant-clinical.qmd)** Giver et overblik over de kliniske undersøgelser
+- **[Intervention](da/participant-intervention.qmd)** Giver et overblik over interventionerne
 
 ---
 
