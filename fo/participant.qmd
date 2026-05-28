@@ -29,8 +29,6 @@ fyribyrgingarætlanir.
   spurnablaðið
 - **[Klinisk kanning](/fo/participant-clinical.qmd)** Gevur eitt yvirlit yvir
   tær klinisku kanningarnar
-- **[Interventión](/fo/participant-intervention.qmd)** Gevur eitt yvirlit yvir
-  interventiónirnar
 
 --------------------------------------------------------------------------------
 
