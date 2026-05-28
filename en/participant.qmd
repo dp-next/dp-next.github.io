@@ -29,8 +29,7 @@ approaches.
   the questionnaire
 - **[Clinical examination](/en/participant-clinical.qmd)** Gives an overview of
   the clinical examinations
-- **[Intervention](/en/participant-intervention.qmd)** Gives an overview of the
-  interventions
+
 
 --------------------------------------------------------------------------------
 
