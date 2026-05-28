@@ -4,35 +4,59 @@ title: "Peqataasunut paasissutissat"
 
 ## DP-Next sunaava?
 
-DP-Next isumaqarpoq *21. ukiumi type 2-diabetesimik piujuartitsisumik pinaveersaartitsineq*. Tassaavoq ilisimatusarnermik suliniut, Danmarkimi, Kalaallit Nunaanni Savalimmiunilu Steno Diabetes Centerit arfineq-marluk suleqatigiillutik ingerlataat.
+DP-Next isumaqarpoq *21. ukiumi type 2-diabetesimik piujuartitsisumik
+pinaveersaartitsineq*. Tassaavoq ilisimatusarnermik suliniut, Danmarkimi,
+Kalaallit Nunaanni Savalimmiunilu Steno Diabetes Centerit arfineq-marluk
+suleqatigiillutik ingerlataat.
 
-DP-Nextip siunertaraa type 2-diabetesimik siusissukkut paasisaqarnissamut pinaveersaartitsinissamullu periarfissanik pitsanngorsaanissaq. Ullumikkut tamakkiisumik ilisimanngilarput sooq inuit ilaat aakkut sukkortusisimasut type 2-diabetesimik ineriartortitsisarnersut, allat ineriartortitsisanngitsut. DP-Nextip anguniarpaa tamanna pillugu ilisimasaqarnerulernissaq kiisalu pitsaanerusunik piujuartitsisumillu pinaveersaartitsinermik ineriartortitsineq.
+DP-Nextip siunertaraa type 2-diabetesimik siusissukkut paasisaqarnissamut
+pinaveersaartitsinissamullu periarfissanik pitsanngorsaanissaq. Ullumikkut
+tamakkiisumik ilisimanngilarput sooq inuit ilaat aakkut sukkortusisimasut type
+2-diabetesimik ineriartortitsisarnersut, allat ineriartortitsisanngitsut.
+DP-Nextip anguniarpaa tamanna pillugu ilisimasaqarnerulernissaq kiisalu
+pitsaanerusunik piujuartitsisumillu pinaveersaartitsinermik ineriartortitsineq.
 
 Suliniut ilaatigut imaqarpoq:
 
-- Peqqissuseq, inooriaaseq inuullu pitsaasumik atugaqarnera pillugit apeqqutinik immersugassat
+- Peqqissuseq, inooriaaseq inuullu pitsaasumik atugaqarnera pillugit apeqqutinik
+  immersugassat
 - Nuna tamakkerlugu peqqissutsimut nalunaarsuiffinnit paasissutissat
-- Kliniskimik kohortimik nutaamik peqqissaartumik peqqissutsimik misissuinertalimmik
-- Pinaveersaartitsinermik periusissianik nutaanik ineriartortitsineq nalilersuinerlu
+- Kliniskimik kohortimik nutaamik peqqissaartumik peqqissutsimik
+  misissuinertalimmik
+- Pinaveersaartitsinermik periusissianik nutaanik ineriartortitsineq
+  nalilersuinerlu
 
-Anguniagaavoq type 2-diabetesimik pinaveersaartitsineq pitsanngorsarlugu inuit navianartorsiortut siusissukkut paasiniarnissaat kiisalu pinaveersaartitsinermik siunertaqarluartumik pitsaanerusumillu ineriartortitsineq.
+Anguniagaavoq type 2-diabetesimik pinaveersaartitsineq pitsanngorsarlugu inuit
+navianartorsiortut siusissukkut paasiniarnissaat kiisalu pinaveersaartitsinermik
+siunertaqarluartumik pitsaanerusumillu ineriartortitsineq.
 
-- **[Apeqqutinik immersugassaq](kl/participant-questionnaire.qmd)** Apeqqutinik immersugassaq pillugu takussutissiivoq
-- **[Kliniskimik misissuineq](kl/participant-clinical.qmd)** Kliniskimik misissuinernik takussutissiivoq
-- **[Intervention](kl/participant-intervention.qmd)** Interventionit pillugit takussutissiivoq
+- **[Apeqqutinik immersugassaq](/kl/participant-questionnaire.qmd)** Apeqqutinik
+  immersugassaq pillugu takussutissiivoq
+- **[Kliniskimik misissuineq](/kl/participant-clinical.qmd)** Kliniskimik
+  misissuinernik takussutissiivoq
+- **[Intervention](/kl/participant-intervention.qmd)** Interventionit pillugit
+  takussutissiivoq
 
----
+--------------------------------------------------------------------------------
 
 ## Kajumissutsimik peqataaneq paasissutissanillu illersuineq
 
-DP-Nextimut peqataaneq nammineq kajumissutsimik tunngaveqarpoq. Qaqugukkulluunniit peqataajunnaarsinnaapput peqqutissamik oqaatigisaqanngikkaluarlutit, tamannalu maannakkut siunissamiluunniit peqqinnissaqarfimmi katsorsartinninnut sunniuteqassanngilaq.
+DP-Nextimut peqataaneq nammineq kajumissutsimik tunngaveqarpoq.
+Qaqugukkulluunniit peqataajunnaarsinnaapput peqqutissamik
+oqaatigisaqanngikkaluarlutit, tamannalu maannakkut siunissamiluunniit
+peqqinnissaqarfimmi katsorsartinninnut sunniuteqassanngilaq.
 
-Paasissutissat tamarmik isertuullugit suliarineqassapput isumannaatsumillu toqqorneqassallutik. Ilisimatusarnermi inernerit aatsaat kinaassutsimik ersersitsinngitsumik saqqummiunneqassapput, peqataasullu ataasiakkaat kinaassusersineqarsinnaassanatik.
+Paasissutissat tamarmik isertuullugit suliarineqassapput isumannaatsumillu
+toqqorneqassallutik. Ilisimatusarnermi inernerit aatsaat kinaassutsimik
+ersersitsinngitsumik saqqummiunneqassapput, peqataasullu ataasiakkaat
+kinaassusersineqarsinnaassanatik.
 
----
+--------------------------------------------------------------------------------
 
 ## Attaveqarneq paasissutissallu annertunerusut
 
-Apeqqutissaqaruit imaluunniit paasissutissanik annertunerusunik pissarserusukkuit suliniummi suleqatigiit attaveqarfigisinnaavatit.
+Apeqqutissaqaruit imaluunniit paasissutissanik annertunerusunik
+pissarserusukkuit suliniummi suleqatigiit attaveqarfigisinnaavatit.
 
-Aamma DP-Nextip nittartagaani suliniut pillugu annertunerusumik atuarsinnaavutit.
+Aamma DP-Nextip nittartagaani suliniut pillugu annertunerusumik
+atuarsinnaavutit.

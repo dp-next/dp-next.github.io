@@ -35,10 +35,34 @@ website:
         href: outputs.qmd
       - text: Support
         href: support.qmd
-    right:
     tools:
       - icon: github
         href: "https://github.com/dp-next/"
+  sidebar:
+    - title: "Participant 🇬🇧"
+      contents:
+        - en/participant.qmd
+        - en/participant-questionnaire.qmd
+        - en/participant-clinical.qmd
+        - en/participant-intervention.qmd
+    - title: "Deltager 🇩🇰"
+      contents:
+        - da/participant.qmd
+        - da/participant-questionnaire.qmd
+        - da/participant-clinical.qmd
+        - da/participant-intervention.qmd
+    - title: "Luttakari 🇫🇴"
+      contents:
+        - fo/participant.qmd
+        - fo/participant-questionnaire.qmd
+        - fo/participant-clinical.qmd
+        - fo/participant-intervention.qmd
+    - title: "Peqataasoq 🇬🇱"
+      contents:
+        - kl/participant.qmd
+        - kl/participant-questionnaire.qmd
+        - kl/participant-clinical.qmd
+        - kl/participant-intervention.qmd
 
 format:
   html
