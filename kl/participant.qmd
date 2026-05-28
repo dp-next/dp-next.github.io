@@ -34,8 +34,6 @@ siunertaqarluartumik pitsaanerusumillu ineriartortitsineq.
   immersugassaq pillugu takussutissiivoq
 - **[Kliniskimik misissuineq](/kl/participant-clinical.qmd)** Kliniskimik
   misissuinernik takussutissiivoq
-- **[Intervention](/kl/participant-intervention.qmd)** Interventionit pillugit
-  takussutissiivoq
 
 --------------------------------------------------------------------------------
 
