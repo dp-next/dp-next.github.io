@@ -29,8 +29,7 @@ forebyggelsesindsatser.
   spørgeskemaet
 - **[Klinisk undersøgelse](/da/participant-clinical.qmd)** Giver et overblik
   over de kliniske undersøgelser
-- **[Intervention](/da/participant-intervention.qmd)** Giver et overblik over
-  interventionerne
+
 
 --------------------------------------------------------------------------------
 
