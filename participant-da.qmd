@@ -1,5 +1,0 @@
----
-title: "Deltagerinformation"
----
-
-## Text til deltager

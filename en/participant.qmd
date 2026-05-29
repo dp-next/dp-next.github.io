@@ -1,0 +1,53 @@
+---
+title: "Information for participants"
+---
+
+## What is DP-Next?
+
+DP-Next stands for *Sustainable Type 2 Diabetes Prevention for the 21st
+Century*. It is a research project conducted in collaboration between all seven
+Steno Diabetes Centres in Denmark, Greenland, and the Faroe Islands.
+
+The aim of DP-Next is to improve early identification and prevention of type 2
+diabetes. Today, we do not fully understand why some individuals with elevated
+blood sugar develop type 2 diabetes while others do not. DP-Next seeks to
+improve this understanding and develop more effective and sustainable prevention
+strategies.
+
+The project combines:
+
+- Questionnaire data on health, lifestyle, and wellbeing
+- Information from national health registers
+- A new clinical cohort with detailed health examinations
+- Development and evaluation of new prevention strategies
+
+The overall goal is to improve prevention of type 2 diabetes by identifying
+individuals at higher risk and developing more targeted and effective prevention
+approaches.
+
+- **[Questionnaire](/en/participant-questionnaire.qmd)** Gives an overview of
+  the questionnaire
+- **[Clinical examination](/en/participant-clinical.qmd)** Gives an overview of
+  the clinical examinations
+
+
+--------------------------------------------------------------------------------
+
+## Voluntary participation and data protection
+
+Participation in DP-Next is voluntary. You may withdraw from the study at any
+time without providing a reason and without any consequences for your current or
+future healthcare.
+
+All information is treated confidentially and stored securely. Research results
+will only be published in anonymized form, and individual participants cannot be
+identified.
+
+--------------------------------------------------------------------------------
+
+## Contact and further information
+
+If you have questions or would like more information, please contact the project
+team.
+
+You can also read more about the project on the DP-Next website.
