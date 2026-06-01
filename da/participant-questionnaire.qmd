@@ -4,18 +4,56 @@ title: "Spørgeskema"
 
 ## Hvad indebærer spørgeskemaet?
 
-Spørgeskemaet indsamler information om faktorer, der kan påvirke risikoen for at udvikle type 2-diabetes.
+I spørgeskemaet beder vi dig besvare en række spørgsmål om forhold, der
+kan have betydning for risikoen for at udvikle type 2-diabetes. Det
+tager cirka 30 minutter at udfylde spørgeskemaet.
 
 Spørgeskemaet indeholder spørgsmål om:
 
-- Dit generelle helbred og din sygehistorie
-- Livsstil, herunder kost, fysisk aktivitet og søvn
-- Mental trivsel, stress og livskvalitet
+- Dit generelle helbred og sygdomshistorie
+- Kost, motion, alkohol og rygning
+- Søvn, stress, trivsel og livskvalitet
 - Sociale og arbejdsrelaterede forhold
+- Uddannelse, arbejde og fritid
 - Familiær sygdomshistorik
 
-Spørgeskemaet udfyldes online via et sikkert system, og du kan besvare det i dit eget tempo.
+## Hvad er formålet med spørgeskemaet?
 
-Dine besvarelser kan blive koblet med oplysninger fra nationale sundhedsregistre, såsom diagnoser og laboratoriesvar. Dette hjælper forskerne med bedre at forstå risikoen for diabetes og identificere forskellige risikoprofiler.
+Type 2-diabetes diagnosticeres oftest ud fra en blodprøve, der måler
+langtidsblodsukkeret (HbA1c). Har man et langtidsblodsukkerniveau over
+en bestemt grænse, får man diagnosen type 2-diabetes. Personer uden
+diabetes kan dog stadig have en øget risiko for at udvikle sygdommen, da
+risikoen ikke kun afhænger af blodsukkerniveauet, men også af en række
+helbreds-, livsstils- og sociale forhold. Det er netop disse forhold, vi
+gerne vil blive klogere på.
 
-Alle oplysninger behandles fortroligt og i overensstemmelse med gældende regler for databeskyttelse.
+Ved at besvare dette spørgeskema hjælper du os med at forstå, hvilke
+faktorer der er forbundet med øget risiko for type 2-diabetes, og
+hvordan vi kan forebygge sygdommen mere effektivt i fremtiden.
+
+## Hvem bliver inviteret?
+
+Vi inviterer i alt cirka 60.000 personer mellem 40 og 50 år til at
+udfylde spørgeskemaet. Blandt dem der svarer, vil vi senere invitere
+cirka 1.000 personer til en mere grundig undersøgelse på et teststed.
+Bemærk, at det kun er et lille antal deltagere, der bliver udvalgt til
+dette. Til sidst i spørgeskemaet spørger vi derfor, om vi må kontakte
+dig med et tilbud om at deltage i de videre undersøgelser. Det er altid
+frivilligt at deltage og selvom du har svaret ja til spørgeskemaet og
+til at blive kontaktet, kan du altid svare nej til de videre
+undersøgelser.
+
+## Databeskyttelse og fortrolighed
+
+Spørgeskemaet udfyldes online i et sikkert system, og du kan udfylde det
+i dit eget tempo.
+
+Dine besvarelser kan blive koblet med oplysninger fra nationale
+sundhedsregistre, såsom diagnoser og laboratoriesvar. Dette hjælper
+forskerne med bedre at forstå risikoen for diabetes og identificere
+forskellige risikoprofiler.
+
+Alle oplysninger behandles fortroligt og i overensstemmelse med gældende
+regler for databeskyttelse. Personlige oplysninger opbevares sikkert og
+adskilt fra forskningsdata, og resultater offentliggøres altid anonymt,
+så ingen kan genkendes.
