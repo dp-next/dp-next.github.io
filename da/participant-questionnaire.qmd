@@ -27,9 +27,11 @@ risikoen ikke kun afhænger af blodsukkerniveauet, men også af en række
 helbreds-, livsstils- og sociale forhold. Det er netop disse forhold, vi
 gerne vil blive klogere på.
 
-Ved at besvare dette spørgeskema hjælper du os med at forstå, hvilke
-faktorer der er forbundet med øget risiko for type 2-diabetes, og
-hvordan vi kan forebygge sygdommen mere effektivt i fremtiden.
+Ved at besvare dette spørgeskema hjælper du os med at blive klogere på,
+hvilke faktorer der er forbundet med øget risiko for type 2-diabetes, og
+hvorfor nogle mennesker har større risiko end andre. Det er viden, vi
+har brug for for at kunne forebygge sygdommen mere effektivt i
+fremtiden.
 
 ## Hvem bliver inviteret?
 
@@ -49,11 +51,13 @@ Spørgeskemaet udfyldes online i et sikkert system, og du kan udfylde det
 i dit eget tempo.
 
 Dine besvarelser kan blive koblet med oplysninger fra nationale
-sundhedsregistre, såsom diagnoser og laboratoriesvar. Dette hjælper
-forskerne med bedre at forstå risikoen for diabetes og identificere
-forskellige risikoprofiler.
+sundhedsregistre, såsom diagnoser og laboratoriesvar.
 
 Alle oplysninger behandles fortroligt og i overensstemmelse med gældende
 regler for databeskyttelse. Personlige oplysninger opbevares sikkert og
 adskilt fra forskningsdata, og resultater offentliggøres altid anonymt,
 så ingen kan genkendes.
+
+Du kan læse mere om dine rettigheder som deltager i sundhedvidenskabelig
+forskning
+[her](https://www.videnskabsetik.dk/deltagelse-i-kliniske-forsoeg/dine-rettigheder-som-forsoegsperson)
