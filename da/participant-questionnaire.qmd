@@ -58,6 +58,6 @@ regler for databeskyttelse. Personlige oplysninger opbevares sikkert og
 adskilt fra forskningsdata, og resultater offentliggøres altid anonymt,
 så ingen kan genkendes.
 
-Du kan læse mere om dine rettigheder som deltager i sundhedvidenskabelig
+Du kan læse mere om dine rettigheder some deltager i sundhedvidenskabelig
 forskning
 [her](https://www.videnskabsetik.dk/deltagelse-i-kliniske-forsoeg/dine-rettigheder-som-forsoegsperson)
