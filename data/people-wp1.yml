@@ -11,3 +11,10 @@
   orcid: https://orcid.org/0000-0003-4169-2616
   image: https://avatars.githubusercontent.com/u/6662983?v=4
   description: "Team leader of the collaborating Seedcase Project. Leads the reproducible and open science aspect of WP1, mainly coordinating and training DP-Next members on how to effectively collaborate in a more open way through GitHub."
+
+- name: Gunnar Toft
+  role: General coordinator
+  affiliation: Steno Diabetes Center Aarhus
+  orcid: "https://orcid.org/0000-0002-7542-6853"
+  image: "/images/profiles/gunnar-toft.jpg"
+  description: "Senior researcher at SDCA, with broad epidemiological experience and experience in coordination of international research projects. He acts as general coordinator of the DP-Next project."
