@@ -1,6 +1,6 @@
 ---
 title: "Events for DP-Next"
-listing: 
+listing:
   contents: events
   sort: "date desc"
 ---
