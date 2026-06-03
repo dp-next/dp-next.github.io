@@ -10,6 +10,16 @@ website:
     left:
       - text: "Researcher"
         href: index.qmd
+      - text: "Participant"
+        menu:
+        - text: "Participant 🇬🇧"
+          href: en/participant.qmd
+        - text: "Deltager 🇩🇰"
+          href: da/participant.qmd
+        - text: "Luttakari 🇫🇴"
+          href: fo/participant.qmd
+        - text: "Peqataasoq 🇬🇱"
+          href: kl/participant.qmd
       - text: "Work packages"
         menu:
         - wp1/index.qmd
