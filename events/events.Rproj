@@ -1,0 +1,22 @@
+Version: 1.0
+ProjectId: 07beca77-7b2a-4155-a324-d023ea6fe3e5
+
+RestoreWorkspace: No
+SaveWorkspace: No
+AlwaysSaveHistory: No
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+AutoAppendNewline: Yes
+StripTrailingWhitespace: Yes
+LineEndingConversion: Posix
+
+MarkdownWrap: Column
+MarkdownWrapAtColumn: 72
+MarkdownCanonical: Yes
