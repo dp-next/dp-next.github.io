@@ -29,6 +29,8 @@ website:
           href: wp3.qmd
         - text: "WP4: Intervention Development"
           href: wp4.qmd
+      - text: Events
+        href: events/index.qmd
       - text: Who We Are
         href: who-we-are.qmd
       - text: Outputs

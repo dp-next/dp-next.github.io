@@ -1,0 +1,80 @@
+---
+title: "Heterogeneity workshop / journal club"
+description: "Agenda for the March 2026 workshop for Work Package 3."
+date: "2026-03-18"
+---
+
+## Heterogeneity Workshop and Journal Club
+
+This file presents an overview of the talking points for the workshop, including relevant articles, measurement discussions, ideas, and suggestions.
+
+## Draft Agenda
+
+| Time | Topic | Presenter |
+|:---|:---|:---|
+| 11:00-12:00 | *Diabetes Heterogeneity Overview* | Daniel |
+|  | Introduction to the Workshop and Journal Club | Daniel |
+|  | Conceptual background: Different types of heterogeneity | Daniel |
+|  | Overview: Current approaches to heterogeneity in T2D and pre-diabetes | Christian / Mikkel S |
+| 12:00-12:30 | Lunch Break |  |
+| 12:30-14:00 | Measurement Selection and Discussion | Kristina / David / Mikkel K / Jonas |
+| 14:00-15:30 | Statistical Analysis and Group Work | Christian / Daniel |
+| 15:30-16:00 | Plan for Journal Club series: dates, leads, topics | All |
+
+## Session Descriptions
+
+### 11:00-12:00 \| Diabetes Heterogeneity Overview
+
+A general introduction to diabetes heterogeneity and current discussions within the field, followed by an overview of three clustering methods: K-means, hierarchical clustering, and latent class analysis (LCA).
+
+### 12:00-12:30 \| Lunch Break
+
+Sandwiches from the cafeteria
+
+### 12:30-14:00 \| Measurement Selection and Discussion
+
+In this session we will review a proposed measurement list and discuss which measurements add important scientific value, consider participant burden, and assess feasibility across the different Steno Diabetes Centers.
+
+### 14:00-15:30 \| Statistical Analysis and Group Work
+
+In this session we will review statistical methods and how their algorithms work to explore heterogeneity. This will include a short presentation / some code-along / group exercises in R using a simple dataset to explore different clustering approaches.
+
+### 15:30-16:00 \| Plan for Journal Club
+
+To conclude we will discuss the best way to organise the Heterogeneity Journal club: Best day/time, which topics will we cover, who will take the lead on what.
+
+# Articles for discussion:
+
+-   Ahlqvist et al. "Novel subgroups of adult-onset diabetes and their association with outcomes : a data-driven cluster analysis of six variables"
+
+-   Wagner et al. "Beyond Glucose—Rethinking Prediabetes for Precision Prevention"
+
+-   Dennis et al. "Precision medicine in type 2 diabetes: using individualized prediction models to optimize selection of treatment."
+
+-   Udler et al. "Type 2 diabetes genetic loci informed by multi-trait associations point to disease mechanisms and subtypes: a soft clustering analysis."
+
+-   Deutsch et al. "Phenotypic and genetic classification of diabetes"
+
+-   Dennis et al. "Disease progression and treatment response in data-driven subgroups of type 2 diabetes compared with models based on simple clinical features: an analysis using clinical trial data"
+
+## Potential talking and discussion points:
+
+-   Hard or soft clustering
+
+-   Limitations of clustering and potential solutions
+
+    -   Temporal drift
+
+        -   Wagner: approximately 20% of type-2 diabetic patients change subgroup over a 5-year period.
+
+    -   What to do with people who don't fit clearly into one subtype?
+
+    -   Uncertainty about whether subgroups capture discrete pathologies
+
+-   Clustering versus other approaches to map heterogeneity
+
+-   Clustering using dynamic data (e.g. OGTT responses, continuous glucose monitoring, or physical activity monitoring)
+
+
+-   Clustering using dynamic data (e.g. OGTT responses, continuous
+    glucose monitoring, or physical activity monitoring)
