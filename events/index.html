@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Klinisk kanning – DP-Next</title>
+<title>Events for DP-Next – DP-Next</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -32,6 +32,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -69,11 +71,69 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
-<body class="nav-sidebar floating nav-fixed fullcontent quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -141,7 +201,7 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../events/index.html"> 
+    <a class="nav-link active" href="../events/index.html" aria-current="page"> 
 <span class="menu-text">Events</span></a>
   </li>  
   <li class="nav-item">
@@ -163,45 +223,10 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../fo/participant-clinical.html">Klinisk kanning</a></li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
-    </div>
-  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../fo/participant.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Upplýsing til luttakarar</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../fo/participant-questionnaire.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Spurnablað</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../fo/participant-clinical.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Klinisk kanning</span></a>
-  </div>
-</li>
-    </ul>
-    </div>
-</nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     
 <!-- main -->
@@ -209,7 +234,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Klinisk kanning</h1>
+<h1 class="title">Events for DP-Next</h1>
 </div>
 
 
@@ -226,26 +251,60 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="hvat-fevna-tær-klinisku-kanningarnar-um" class="level2">
-<h2 class="anchored" data-anchor-id="hvat-fevna-tær-klinisku-kanningarnar-um">Hvat fevna tær klinisku kanningarnar um?</h2>
-<p>Summir luttakarar verða bodnir til eina kliniska kanning á einum Steno Diabetes Miðstøði. Endamálið er at stovna eina nýggja kliniska kohortu við nágreiniligum heilsumátingum fyri at betra um fatanina av tíðligum lívfrøðiligum broytingum, sum have samband við vandan fyri diabetes.</p>
-<p>Kanningin tekur umleið 4 tímar og kann fevna um:</p>
-<ul>
-<li>Máting av hædd, vekt og kroppssamanseting</li>
-<li>Blóðroyndir og máting av blóðsukri</li>
-<li>Eina glukosubyrðingarkanning</li>
-<li>Máting av livrafiti</li>
-<li>Blóðtrýsts- og hjarta-æðramátingar</li>
-<li>Meting av likamligum virksemi</li>
-<li>Goymslu av lívfrøðiligum royndum í einum granskingarbiobanka</li>
-</ul>
-<p>Hesar kanningar hjálpa granskarunum at skilja munir í diabetesvanda millum einstaklingar og at eyðmerkja tíðlig lívfrøðilig tekin upp á sjúku­menning.</p>
-<p>Luttøka í klinisku kanningini er sjálvboðin og krevur serstakt samtykki.</p>
+<p>This page contains a listing of events that DP-Next hosts or runs. Below is a list of these events, ordered by date.</p>
 
 
-</section>
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1790208000000" data-listing-file-modified-sort="1780948946287" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1963">
+<div class="thumbnail"><a href="../events/2026-09-24/index.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../events/2026-09-24/index.html" class="no-external">DP-Next Meeting 2026</a>
+</h3>
+<div class="delink listing-description"><a href="../events/2026-09-24/index.html" class="no-external">
+<p>A one-day meeting for all researchers involved in DP-Next, hosted at Aarhus University.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../events/2026-09-24/index.html" class="no-external">
+<div class="listing-date">
+Sep 24, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1773792000000" data-listing-file-modified-sort="1780948946287" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="526">
+<div class="thumbnail"><a href="../events/2026-03-18/index.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../events/2026-03-18/index.html" class="no-external">Heterogeneity workshop / journal club</a>
+</h3>
+<div class="delink listing-description"><a href="../events/2026-03-18/index.html" class="no-external">
+<p>Agenda for the March 2026 workshop for Work Package 3.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../events/2026-03-18/index.html" class="no-external">
+<div class="listing-date">
+Mar 18, 2026
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

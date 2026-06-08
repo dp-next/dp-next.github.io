@@ -4,6 +4,13 @@
     "items": []
   },
   {
+    "listing": "/events/index.html",
+    "items": [
+      "/events/2026-09-24/index.html",
+      "/events/2026-03-18/index.html"
+    ]
+  },
+  {
     "listing": "/who-we-are.html",
     "items": []
   }
