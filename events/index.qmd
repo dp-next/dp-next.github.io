@@ -5,6 +5,7 @@ listing:
     - "2026-03-18"
     - "2026-09-24"
   sort: "date desc"
+page-navigation: true
 ---
 This page contains a listing of events that DP-Next hosts or runs. Below is a list
 of these events, ordered by date.
