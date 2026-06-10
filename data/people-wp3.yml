@@ -60,3 +60,8 @@
   orcid: https://orcid.org/0009-0005-6227-7333
   image: "/images/profiles/david-vadsholt.jpg"
   description: "PhD student in Aalborg contributing to develop the data collection protocol"
+  responsibilities:
+    - name: "Issue management"
+      href: "https://dp-next.github.io/wp1-ros/managing/roles.html#Issue-management"
+    - name: "Roadmap management"
+      href: "https://dp-next.github.io/wp1-ros/managing/roles.html#Roadmap-management"
