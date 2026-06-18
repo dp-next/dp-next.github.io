@@ -18,6 +18,15 @@
                       <%= item.orcid %>
                     </a></li>
                   <% } %>
+                    <% if ( item.responsibilities ) { %>
+                      <li>Responsibilities:
+                        <ul>
+                          <% for (const responsibility of item.responsibilities) { %>
+                            <li><a href="<%- responsibility.href %>"><%- responsibility.name %></a></li>
+                            <% } %>
+                        </ul>
+                      </li>
+                      <% } %>
               </ul>
             </div>
           </div>

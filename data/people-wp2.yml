@@ -46,3 +46,8 @@
   orcid: ""
   image: "/images/profiles/jonas-schaarup.jpg"
   description: "Main lead for coordinating the practical development of the risk prediction models within the Danish register data, to ensure reproducibility and translatability to the Greenlandic and Faroe Islands' register data."
+  responsibilities:
+    - name: "Issue management"
+      href: "https://dp-next.github.io/wp1-ros/managing/roles.html#Issue-management"
+    - name: "Roadmap management"
+      href: "https://dp-next.github.io/wp1-ros/managing/roles.html#Roadmap-management"
