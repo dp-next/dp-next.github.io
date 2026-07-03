@@ -1,0 +1,9 @@
+---
+title: "Newsletter for DP-Next"
+listing:
+  contents:
+    - "2025-11-01"
+    - "2026-06-01"
+  sort: "date desc"
+---
+This page contains newsletters intended to keep members of DP-Next informed about project developments and activities. Below is a list of the newsletters, presented in reverse chronological order (newest first).

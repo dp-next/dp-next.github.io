@@ -22,7 +22,7 @@ website:
         - text: "WP4: Intervention Development"
           href: wp4.qmd
       - text: Newsletter
-        href: newsletter.qmd
+        href: newsletter/index.qmd
       - text: Events
         href: events/index.qmd
       - text: Who We Are

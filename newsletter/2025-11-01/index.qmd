@@ -1,0 +1,108 @@
+---
+title: "DP-Next newsletter October 25"
+format: html
+editor: visual
+---
+
+### 
+
+We are now just over 1 month into the DP-Next project, so I thought I
+would share some news and a few updates:
+
+### New members of the DP-Next team
+
+The various Work Packages have been recruiting! We are now joined by:
+
+- Kristiane Beicher: Data-Manager for DP-Next (working at SDCA)
+- Mikkel Kolind: Post-doc on WP3 (working at SDCO)
+- Jonas Schaarup: Post-doc on WP2 and WP3 (working at SDCC)
+- Hjalte Søberg Mikkelsen: PhD-student on WP2 (working at SDCC)
+- Kristina Hansen: PhD student on WP2 and WP3 (working at SDCF and SDCA)
+- David Vadsholt: PhD student on WP3 (working at SDCN)
+
+A very warm welcome to all of you! We look forward to hearing a bit more
+about your backgrounds and projects during the launch meeting (see
+below)
+
+We are still recruiting for some of the other PhD positions, so more new
+names will follow in due course.
+
+### Agreements and contracts
+
+We are making good progress with the drafting of the various versions of
+the collaboration agreements. The first versions have been sent around
+to the representatives of all the institutions and review by each
+organizational legal team will follow in the next weeks.
+
+### Launch meeting (online)
+
+I am very sorry we had to cancel our launch meeting on the 3rd of
+September. We have now found a date in December that suits most people.
+We will have our online launch meeting on the [17th of December 2025
+from 13:00 to 15:00]{.underline}.
+
+### In person all-hands DP-Next meeting in 2026
+
+In order to really get to know each other and to discuss the progress in
+the first year of DP-Next, we want to plan our first all-hands in person
+meeting for September 2026. As many of the team members from Greenland
+and the Faroe Islands will probably be attending EASD and traveling via
+Denmark, we want to suggest to have the meeting on the [24th or 25th of
+September 2026]{.underline}. We are thinking of an all-day meeting in
+Aarhus (10:30 to 17:00 followed by a dinner). Could you please let
+Gunnar know if there are any major inconveniences for either of these
+dates?
+
+## Github
+
+As we mentioned previously, we will be using Github as a joint
+repository for documents and project files, but also for task/project
+management. Luke organized a successful introduction to Github session,
+attended by many. For those who didn’t attend, here are the materials:
+<https://github-intro.rostools.org/>
+
+## Website
+
+The DP-Next website (<https://dp-next.github.io/>) contains some very
+good information, but it is mostly based on the original application we
+submitted to NNF. Luke has written an extensive outline of the strategy
+for the Open and Reproducible Science part of WP1 here:
+<https://dp-next.github.io/wp1-ros/>, and the WP2 team has written a
+first version of the Prediction Modeling protocol and published it on
+Zenodo: <https://zenodo.org/records/15410790>. I think these are two
+good examples of how we should be documenting our work in progress, and
+be publishing it either on our website or on other openly accessible
+repositories. Please carry on working in this way and if there are any
+‘work in progress’ documents, tables or bits of text that you think we
+should publish on the website, let us know OR preferably: edit the
+website yourself as a Github branch and submit a pull request. The team
+of Tech Leads should in due course be able to help you with that!
+
+## Who we are
+
+The ‘Who we are’ page on the DP-Next website currently only contains the
+profiles of some of us. We are looking to include profiles for everybody
+who is part of the DP-Next team, so if you are not yet on the ‘Who we
+are’ page, send us your personal profile and a picture, as well as your
+ORCID ID number. We will work over the next few weeks to update the
+format of this page and hope that we will all be featured there when we
+meet online for the launch meeting on the 17th of December.
+
+## Discord
+
+For our day-to-day communication, through chat and co-working sessions
+(possibly also calls and video), we will be using an open source
+application called Discord. It has some functions like Zoom/Teams and
+also does what Slack does with messages but without too much clutter. We
+have created a DP-Next server along with a general channel and channels
+for each WP. But it’s still very empty in there, as only Luke, Gunnar
+and I are members. So I want to ask if you could all please:
+
+- Follow this link to our Discord server: <https://discord.gg/Bpyg3NnD6>
+- If you are not already a Discord user, you will be asked to create an
+  account
+- You can choose to access Discord via a browser, but there are also (I
+  think preferable) apps for desktops and mobiles.
+- Once you are on the DP-Next server, you can say hi on the ’say-hi’
+  channel, and one of us will add you to the (private for now) channels
+  for the WPs you work with or want to follow.
