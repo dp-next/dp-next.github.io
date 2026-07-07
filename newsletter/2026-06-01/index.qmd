@@ -52,7 +52,7 @@ The WP3 clinical examination planning is ongoing, and VEK application
 has been submitted. We plan to start recruiting participants in DK in
 the fall.
 
-### Flowchart
+## Flowchart
 
 **Christian Tjørnehøj** has worked on visualizing the selection steps
 and estimated participant numbers for the WP3 Questionnaire and Clinical
