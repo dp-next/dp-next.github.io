@@ -13,7 +13,7 @@ would share some news and a few updates:
 
 The various Work Packages have been recruiting! We are now joined by:
 
-- Kristiane Beicher: Data-Manager for DP-Next (working at SDCA)
+- Kristiane Beicher: Data architect for DP-Next (working at SDCA)
 - Mikkel Kolind: Post-doc on WP3 (working at SDCO)
 - Jonas Schaarup: Post-doc on WP2 and WP3 (working at SDCC)
 - Hjalte Søberg Mikkelsen: PhD-student on WP2 (working at SDCC)
