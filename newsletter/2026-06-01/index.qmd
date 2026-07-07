@@ -56,7 +56,7 @@ the fall.
 
 **Christian Tjørnehøj** has worked on visualizing the selection steps
 and estimated participant numbers for the WP3 Questionnaire and Clinical
-Examination cohorts: 
+Examination cohorts:
 
 ![Flowchart](/images/Flowchart.png)
 
@@ -72,4 +72,3 @@ years.
 **Jonas R. Schaarup:** Distinct roles of endogenous incretin and
 glucagon responses to oral glucose tolerance test in association with
 cardiovascular risk: 11-year follow-up of the ADDITION-PRO study.
-
