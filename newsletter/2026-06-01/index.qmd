@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-### New members of the team
+## New members of the team
 
 - Michella Ravn Søndergaard - PhD student WP3 SDCC/SDCG
 - Elpida Vounzoulaki, Post Doc. WP2 SDCA
