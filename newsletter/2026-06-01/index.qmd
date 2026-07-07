@@ -11,7 +11,7 @@ editor: visual
 - Mikkel Errboe Steentoft, Master student, WP3 SDCA
 - Christian Tjørnehøj, Trainee, SDCA
 
-### Meeting September 24
+## Meeting September 24
 
 As announced previously we will be hosting a one day hybrid meeting at
 SDCA on September 24, with open to all participants and with
