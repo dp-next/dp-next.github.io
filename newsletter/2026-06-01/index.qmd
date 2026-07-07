@@ -46,7 +46,7 @@ HbA1c measurements. The first test batch of 1.500 questionnaires has
 been sent out. We expect in total \~ 30.000 responses and will have
 these baseline data available for initial analyses in the fall 2026.
 
-### Clinical examination
+## Clinical examination
 
 The WP3 clinical examination planning is ongoing, and VEK application
 has been submitted. We plan to start recruiting participants in DK in
