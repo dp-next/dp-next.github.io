@@ -60,7 +60,7 @@ Examination cohorts:
 
 ![Flowchart](/images/Flowchart.png)
 
-### DP-next at EDEG
+## DP-next at EDEG
 
 DP-Next researchers presented the first DP-next related results at EDEG
 2026:
