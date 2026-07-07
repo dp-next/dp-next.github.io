@@ -2,8 +2,7 @@
 title: "Newsletter for DP-Next"
 listing:
   contents:
-    - "2025-11-01"
-    - "2026-06-01"
+    - "**/index.qmd"
   sort: "date desc"
 ---
 
