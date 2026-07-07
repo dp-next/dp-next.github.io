@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-###
+## General
 
 We are now just over 1 month into the DP-Next project, so I thought I
 would share some news and a few updates:
