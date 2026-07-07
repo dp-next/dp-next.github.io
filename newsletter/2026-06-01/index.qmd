@@ -56,7 +56,9 @@ the fall.
 
 **Christian Tjørnehøj** has worked on visualizing the selection steps
 and estimated participant numbers for the WP3 Questionnaire and Clinical
-Examination cohorts: ![Flowchart](/images/Flowchart.png)
+Examination cohorts: 
+
+![Flowchart](/images/Flowchart.png)
 
 ### DP-next at EDEG
 
