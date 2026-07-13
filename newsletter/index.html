@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Kliniskimik misissuineq – DP-Next</title>
+<title>Newsletter for DP-Next – DP-Next</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -32,6 +32,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -69,11 +71,69 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
-<body class="nav-sidebar floating nav-fixed fullcontent quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -94,29 +154,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Researcher</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-participant" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Participant</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-participant">    
-        <li>
-    <a class="dropdown-item" href="../en/participant.html">
- <span class="dropdown-text">Participant 🇬🇧</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="https://dp-next.github.io/wp3-participants/"> 
+<span class="menu-text">Participant</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="../da/participant.html">
- <span class="dropdown-text">Deltager 🇩🇰</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../fo/participant.html">
- <span class="dropdown-text">Luttakari 🇫🇴</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../kl/participant.html">
- <span class="dropdown-text">Peqataasoq 🇬🇱</span></a>
-  </li>  
-    </ul>
-  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-work-packages" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Work packages</span>
@@ -141,6 +182,10 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item">
+    <a class="nav-link active" href="../newsletter/index.html" aria-current="page"> 
+<span class="menu-text">Newsletter</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../events/index.html"> 
 <span class="menu-text">Events</span></a>
   </li>  
@@ -163,45 +208,10 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../kl/participant-clinical.html">Kliniskimik misissuineq</a></li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
-    </div>
-  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../kl/participant.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Peqataasunut paasissutissat</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../kl/participant-questionnaire.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Apeqqutinik immersugassaq</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../kl/participant-clinical.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Kliniskimik misissuineq</span></a>
-  </div>
-</li>
-    </ul>
-    </div>
-</nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     
 <!-- main -->
@@ -209,7 +219,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Kliniskimik misissuineq</h1>
+<h1 class="title">Newsletter for DP-Next</h1>
 </div>
 
 
@@ -226,26 +236,54 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="kliniskimik-misissuinerni-suna-ingerlanneqartarpa" class="level2">
-<h2 class="anchored" data-anchor-id="kliniskimik-misissuinerni-suna-ingerlanneqartarpa">Kliniskimik misissuinerni suna ingerlanneqartarpa?</h2>
-<p>Peqataasut ilaat Steno Diabetes Centerimi kliniskimik misissuinermut aggersarneqassapput. Siunertaavoq kliniskimik kohortimik nutaamik pilersitsineq, peqqissaartumik peqqissutsimik uuttuutinik imaqartumik, diabetesimik navianartorsiortitsinermut atatillugu siusissukkut biologiskimik allannguutit pillugit paasinninnerulernissaq anguniarlugu.</p>
-<p>Misissuineq akunnerit sisamat missaannik sivisussuseqarpoq aammalu makkuninnga imaqarsinnaavoq:</p>
-<ul>
-<li>Takissusermik, oqimaassusermik timillu qanoq inissisimaneranik uuttuisarneq</li>
-<li>Aaversinnerit aammalu aakkut sukkortarneranik uuttuisarneq</li>
-<li>Glukosebelastningstest</li>
-<li>Tingup orsuanik uuttuisarneq</li>
-<li>Aap naqitsineranik aammalu uummatip taqqatigullu qanoq issusaanik uuttuisarneq</li>
-<li>Timimik aalatitsisarnerup nalilersorneqarnera</li>
-<li>Biologiskinik misissugassanik ilisimatusarnermut biobankimi toqqorsineq</li>
-</ul>
-<p>Misissuinernit taakkunannga ilisimatusartut inuit akornanni diabetesimik navianartorsiortitsinerit assigiinngissutaat kiisalu nappaatip ineriartortarneranut siusissukkut biologiskimik ilisarnaatit paasiniarsinnaavaat.</p>
-<p>Kliniskimik misissuinermut peqataaneq nammineq kajumissutsimik tunngaveqarpoq aammalu immikkut akuersissuteqarnissaq piumasaqaataavoq.</p>
+<p>This page contains newsletters intended to keep members of DP-Next informed about project developments and activities. Below is a list of the newsletters, presented in reverse chronological order (newest first).</p>
 
 
-</section>
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1783933848381" data-listing-reading-time-sort="4" data-listing-word-count-sort="767">
+<div class="thumbnail"><a href="../newsletter/2025-11-01/index.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../newsletter/2025-11-01/index.html" class="no-external">DP-Next newsletter October 25</a>
+</h3>
+<div class="delink listing-description"><a href="../newsletter/2025-11-01/index.html" class="no-external">
+We are now just over 1 month into the DP-Next project, so I thought I would share some news and a few updates:
+</a></div>
+</div>
+<div class="metadata">
+<a href="../newsletter/2025-11-01/index.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1783933848384" data-listing-reading-time-sort="2" data-listing-word-count-sort="298">
+<div class="thumbnail"><a href="../newsletter/2026-06-01/index.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' src="../images/Flowchart.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../newsletter/2026-06-01/index.html" class="no-external">DP-Next newsletter June 2026</a>
+</h3>
+<div class="delink listing-description"><a href="../newsletter/2026-06-01/index.html" class="no-external">
+As announced previously we will be hosting a one day hybrid meeting at SDCA on September 24, with open to all participants and with participation of our advisory board…
+</a></div>
+</div>
+<div class="metadata">
+<a href="../newsletter/2026-06-01/index.html" class="no-external">
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
