@@ -1,7 +1,6 @@
 ---
 title: "DP-Next newsletter June 2026"
 format: html
-editor: visual
 ---
 
 ## New members of the team
@@ -13,62 +12,56 @@ editor: visual
 
 ## Meeting September 24
 
-As announced previously we will be hosting a one day hybrid meeting at
-SDCA on September 24, with open to all participants and with
-participation of our advisory board (Robert Wagner, Sarah Wild, and
-Steven Allender). The meeting will be followed by dinner in the evening.
-If you have not already done so, read more and sign up for the meeting
-at: [DP-Next meeting 24 September
+As announced previously we will be hosting a one day hybrid meeting at SDCA on
+September 24, with open to all participants and with participation of our
+advisory board (Robert Wagner, Sarah Wild, and Steven Allender). The meeting
+will be followed by dinner in the evening. If you have not already done so, read
+more and sign up for the meeting at: [DP-Next meeting 24 September
 signup](https://rm.plan2learn.dk/dl.aspx?xmg=13a4117b-f630-4889-9f77-56f41a39348e&r=KursusValg.aspx?id=146365){.uri}
 
 ## Collaboration agreement + Joint data controller agreement
 
-The collaboration agreement and joint data controller agreement for all
-Danish centers are signed and we are working on getting the agreements
-with Faroe Islands and Greenland in place.
+The collaboration agreement and joint data controller agreement for all Danish
+centers are signed and we are working on getting the agreements with Faroe
+Islands and Greenland in place.
 
 ## Publication strategy
 
-A draft of the publication strategy have been developed and is
-accessible at:
+A draft of the publication strategy have been developed and is accessible at:
 
 [Publication
 guidelines](https://dp-next.github.io/wp1-ros/managing/publishing.html)
 
-Please let us know if you have any comment on this before we finalize
-this.
+Please let us know if you have any comment on this before we finalize this.
 
 ## Questionnaire
 
-The WP3 questionnaire will be sent out to all 40-49 years old with
-prediabetes \~ 12.000 and a random subset of 50.000 persons with recent
-HbA1c measurements. The first test batch of 1.500 questionnaires has
-been sent out. We expect in total \~ 30.000 responses and will have
-these baseline data available for initial analyses in the fall 2026.
+The WP3 questionnaire will be sent out to all 40-49 years old with prediabetes
+\~ 12.000 and a random subset of 50.000 persons with recent HbA1c measurements.
+The first test batch of 1.500 questionnaires has been sent out. We expect in
+total \~ 30.000 responses and will have these baseline data available for
+initial analyses in the fall 2026.
 
 ## Clinical examination
 
-The WP3 clinical examination planning is ongoing, and VEK application
-has been submitted. We plan to start recruiting participants in DK in
-the fall.
+The WP3 clinical examination planning is ongoing, and VEK application has been
+submitted. We plan to start recruiting participants in DK in the fall.
 
 ## Flowchart
 
-**Christian Tjørnehøj** has worked on visualizing the selection steps
-and estimated participant numbers for the WP3 Questionnaire and Clinical
-Examination cohorts:
+**Christian Tjørnehøj** has worked on visualizing the selection steps and
+estimated participant numbers for the WP3 Questionnaire and Clinical Examination
+cohorts:
 
-![Flowchart](/images/Flowchart.png)
+![Flowchart of the selection process for the questionnaire and clinical examination cohorts.](images/flowchart.png)
 
 ## DP-next at EDEG
 
-DP-Next researchers presented the first DP-next related results at EDEG
-2026:
+DP-Next researchers presented the first DP-next related results at EDEG 2026:
 
-**Kristina Matthiesen Hansen:** Prevalence of prediabetes and diabetes
-based on routine HbA1c measurements in the Faroese population aged 30-80
-years.
+**Kristina Matthiesen Hansen:** Prevalence of prediabetes and diabetes based on
+routine HbA1c measurements in the Faroese population aged 30-80 years.
 
-**Jonas R. Schaarup:** Distinct roles of endogenous incretin and
-glucagon responses to oral glucose tolerance test in association with
-cardiovascular risk: 11-year follow-up of the ADDITION-PRO study.
+**Jonas R. Schaarup:** Distinct roles of endogenous incretin and glucagon
+responses to oral glucose tolerance test in association with cardiovascular
+risk: 11-year follow-up of the ADDITION-PRO study.
