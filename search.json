@@ -1,292 +1,5 @@
 [
   {
-    "objectID": "events/index.html",
-    "href": "events/index.html",
-    "title": "Events for DP-Next",
-    "section": "",
-    "text": "This page contains a listing of events that DP-Next hosts or runs. Below is a list of these events, ordered by date.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDP-Next Meeting 2026\n\n\nA one-day meeting for all researchers involved in DP-Next, hosted at Aarhus University.\n\n\n\n\n\nSep 24, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nHeterogeneity workshop / journal club\n\n\nAgenda for the March 2026 workshop for Work Package 3.\n\n\n\n\n\nMar 18, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "events/2026-03-18/index.html",
-    "href": "events/2026-03-18/index.html",
-    "title": "Heterogeneity workshop / journal club",
-    "section": "",
-    "text": "This file presents an overview of the talking points for the workshop, including relevant articles, measurement discussions, ideas, and suggestions."
-  },
-  {
-    "objectID": "events/2026-03-18/index.html#heterogeneity-workshop-and-journal-club",
-    "href": "events/2026-03-18/index.html#heterogeneity-workshop-and-journal-club",
-    "title": "Heterogeneity workshop / journal club",
-    "section": "",
-    "text": "This file presents an overview of the talking points for the workshop, including relevant articles, measurement discussions, ideas, and suggestions."
-  },
-  {
-    "objectID": "events/2026-03-18/index.html#draft-agenda",
-    "href": "events/2026-03-18/index.html#draft-agenda",
-    "title": "Heterogeneity workshop / journal club",
-    "section": "Draft Agenda",
-    "text": "Draft Agenda\n\n\n\n\n\n\n\n\nTime\nTopic\nPresenter\n\n\n\n\n11:00-12:00\nDiabetes Heterogeneity Overview\nDaniel\n\n\n\nIntroduction to the Workshop and Journal Club\nDaniel\n\n\n\nConceptual background: Different types of heterogeneity\nDaniel\n\n\n\nOverview: Current approaches to heterogeneity in T2D and pre-diabetes\nChristian / Mikkel S\n\n\n12:00-12:30\nLunch Break\n\n\n\n12:30-14:00\nMeasurement Selection and Discussion\nKristina / David / Mikkel K / Jonas\n\n\n14:00-15:30\nStatistical Analysis and Group Work\nChristian / Daniel\n\n\n15:30-16:00\nPlan for Journal Club series: dates, leads, topics\nAll"
-  },
-  {
-    "objectID": "events/2026-03-18/index.html#session-descriptions",
-    "href": "events/2026-03-18/index.html#session-descriptions",
-    "title": "Heterogeneity workshop / journal club",
-    "section": "Session Descriptions",
-    "text": "Session Descriptions\n\n11:00-12:00 | Diabetes Heterogeneity Overview\nA general introduction to diabetes heterogeneity and current discussions within the field, followed by an overview of three clustering methods: K-means, hierarchical clustering, and latent class analysis (LCA).\n\n\n12:00-12:30 | Lunch Break\nSandwiches from the cafeteria\n\n\n12:30-14:00 | Measurement Selection and Discussion\nIn this session we will review a proposed measurement list and discuss which measurements add important scientific value, consider participant burden, and assess feasibility across the different Steno Diabetes Centers.\n\n\n14:00-15:30 | Statistical Analysis and Group Work\nIn this session we will review statistical methods and how their algorithms work to explore heterogeneity. This will include a short presentation / some code-along / group exercises in R using a simple dataset to explore different clustering approaches.\n\n\n15:30-16:00 | Plan for Journal Club\nTo conclude we will discuss the best way to organise the Heterogeneity Journal club: Best day/time, which topics will we cover, who will take the lead on what."
-  },
-  {
-    "objectID": "events/2026-03-18/index.html#potential-talking-and-discussion-points",
-    "href": "events/2026-03-18/index.html#potential-talking-and-discussion-points",
-    "title": "Heterogeneity workshop / journal club",
-    "section": "Potential talking and discussion points:",
-    "text": "Potential talking and discussion points:\n\nHard or soft clustering\nLimitations of clustering and potential solutions\n\nTemporal drift\n\nWagner: approximately 20% of type-2 diabetic patients change subgroup over a 5-year period.\n\nWhat to do with people who don’t fit clearly into one subtype?\nUncertainty about whether subgroups capture discrete pathologies\n\nClustering versus other approaches to map heterogeneity\nClustering using dynamic data (e.g. OGTT responses, continuous glucose monitoring, or physical activity monitoring)\nClustering using dynamic data (e.g. OGTT responses, continuous glucose monitoring, or physical activity monitoring)"
-  },
-  {
-    "objectID": "outputs.html",
-    "href": "outputs.html",
-    "title": "Research outputs",
-    "section": "",
-    "text": "We look forward to sharing publications arising from the work of DP-Next."
-  },
-  {
-    "objectID": "outputs.html#protocol",
-    "href": "outputs.html#protocol",
-    "title": "Research outputs",
-    "section": "Protocol",
-    "text": "Protocol\n\n\n\nSustainable Type 2 Diabetes Prevention for the 21st Century (DP-Next) - protocol for predicting Type 2 diabetes: (2025)\nDOI: 10.5281/zenodo.15410790\n\n\nNo matching items"
-  },
-  {
-    "objectID": "outputs.html#publications",
-    "href": "outputs.html#publications",
-    "title": "Research outputs",
-    "section": "Publications",
-    "text": "Publications\n\n\n\nExample publication: (2026)\nDOI: 10.5281/zenodo.15410790\n\n\nNo matching items"
-  },
-  {
-    "objectID": "outputs.html#podcasts",
-    "href": "outputs.html#podcasts",
-    "title": "Research outputs",
-    "section": "Podcasts",
-    "text": "Podcasts\n\n\n\nForskere vil forsinke udvikling af type 2-diabetes: (2026) Host: Diabetesforskerne\n(https://open.spotify.com/episode/3WmBVyNdqTDAMZ4KLPJDZF?si=_mKZYWQFQkKbLufQy-ELSg)\n\n\nNo matching items"
-  },
-  {
-    "objectID": "who-we-are.html",
-    "href": "who-we-are.html",
-    "title": "Who We Are",
-    "section": "",
-    "text": "DP-Next will be carried out by a cross-disciplinary team of epidemiologists, clinicians, health scientists and data scientists across all seven Steno Diabetes Centres."
-  },
-  {
-    "objectID": "who-we-are.html#wp1",
-    "href": "who-we-are.html#wp1",
-    "title": "Who We Are",
-    "section": "Work package 1",
-    "text": "Work package 1\n\n\n  \n    \n      \n        \n        \n          \n            \n              Daniel Witte\n              DP-Next PI, keeping an overview on all activity within and between Work Packages and reviewing wherever necessary.\n\n              \n                Role: Principal investigator\n                Affiliation: Steno Diabetes Center Aarhus\n                \n                  ORCID: \n                      https://orcid.org/0000-0002-0769-2922\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Luke W. Johnston\n              Team leader of the collaborating Seedcase Project. Leads the reproducible and open science aspect of WP1, mainly coordinating and training DP-Next members on how to effectively collaborate in a more open way through GitHub.\n\n              \n                Role: Package Co-Leader\n                Affiliation: Steno Diabetes Center Aarhus\n                \n                  ORCID: \n                      https://orcid.org/0000-0003-4169-2616\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Gunnar Toft\n              Senior researcher at SDCA, with broad epidemiological experience and experience in coordination of international research projects. He acts as general coordinator of the DP-Next project.\n\n              \n                Role: General coordinator\n                Affiliation: Steno Diabetes Center Aarhus\n                \n                  ORCID: \n                      https://orcid.org/0000-0002-7542-6853\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n\nNo matching items"
-  },
-  {
-    "objectID": "who-we-are.html#wp2",
-    "href": "who-we-are.html#wp2",
-    "title": "Who We Are",
-    "section": "Work package 2",
-    "text": "Work package 2\n\n\n  \n    \n      \n        \n        \n          \n            \n              Stine Byberg\n              Leads WP2 with a focus on register-based prediction research.\n\n              \n                Role: Package Leader\n                Affiliation: Steno Diabetes Center Copenhagen\n                \n                  ORCID: \n                      https://orcid.org/0000-0002-3626-3609\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Herborg Líggjasardóttir Johannesen\n              Contributes endocrinology expertise to both WP2 and WP3.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Faroe Islands\n                \n                  ORCID: \n                      https://orcid.org/0000-0002-9048-3303\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Hjalte Søberg Mikkelsen\n              PhD student in biostatistics contributing to developing the risk prediction models within the Danish registers.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Copenhagen\n                \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Jonas Frey Rosborg Schaarup\n              Main lead for coordinating the practical development of the risk prediction models within the Danish register data, to ensure reproducibility and translatability to the Greenlandic and Faroe Islands' register data.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Aarhus\n                \n                    \n                      Responsibilities:\n                        \n                          \n                            Issue management\n                            \n                            Roadmap management\n                            \n                        \n                      \n                      \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Karoline Kragelund Nielsen\n              Supports WP2 analyses and contributes epidemiological expertise.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Copenhagen\n                \n                  ORCID: \n                      https://orcid.org/0000-0002-4058-0615\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Kristina Matthiesen Hansen\n              I am a PhD student working in the Faroe Islands and Aarhus applying the Danish risk prediction model to the Faroe register data.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Faroe Islands\n                \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Maria Skaalum Petersen\n              Contributes health science expertise to WP2 model development.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Faroe Islands\n                \n                  ORCID: \n                      https://orcid.org/0000-0001-9404-8440\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n\nNo matching items"
-  },
-  {
-    "objectID": "who-we-are.html#wp3",
-    "href": "who-we-are.html#wp3",
-    "title": "Who We Are",
-    "section": "Work package 3",
-    "text": "Work package 3\n\n\n  \n    \n      \n        \n        \n          \n            \n              Claus Bogh Juhl\n              Leads WP3 and contributes clinical expertise on diabetes and obesity.\n\n              \n                Role: Package Leader\n                Affiliation: Unit of Clinical Interventions, Steno Diabetes Center Odense\n                \n                  ORCID: \n                      https://orcid.org/0000-0002-4285-5459\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Christian Tjørnehøj\n              Doing an internship and contributing to developing the data collection protocol.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Aarhus\n                \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              David Vadsholt\n              PhD student in Aalborg contributing to develop the data collection protocol\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center North Jutland\n                \n                  ORCID: \n                      https://orcid.org/0009-0005-6227-7333\n                    \n                  \n                    \n                      Responsibilities:\n                        \n                          \n                            Issue management\n                            \n                            Roadmap management\n                            \n                        \n                      \n                      \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Herborg Líggjasardóttir Johannesen\n              Contributes endocrinology expertise to both WP2 and WP3.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Faroe Islands\n                \n                  ORCID: \n                      https://orcid.org/0000-0002-9048-3303\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Johan Røikjer\n              Contributes clinical research support and domain insight in WP3.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center North Denmark\n                \n                  ORCID: \n                      https://orcid.org/0000-0002-4578-1328\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Jonas Frey Rosborg Schaarup\n              Contributing to assessing heterogeneity by analysing the ADDITION-PRO data.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Aarhus\n                \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Kristina Matthiesen Hansen\n              I am a PhD student working in the Faroe Islands and Aarhus contributing to developing the data collection protocol.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Faroe Islands\n                \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Mikkel Errboe Steentoft\n              Masters student contributing to analyses assessing heterogeneity in a prediabetic populations.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Aarhus\n                \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Nicklas Højgaard-Hessellund Rasmussen\n              Supports WP3 with data analysis and methodological input.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center North Jutland\n                \n                  ORCID: \n                      https://orcid.org/0000-0002-3880-3058\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n\nNo matching items"
-  },
-  {
-    "objectID": "who-we-are.html#wp4",
-    "href": "who-we-are.html#wp4",
-    "title": "Who We Are",
-    "section": "Work package 4",
-    "text": "Work package 4\n\n\n  \n    \n      \n        \n        \n          \n            \n              Jane Nautrup Østergaard\n              Leads WP4 and oversees intervention development activities.\n\n              \n                Role: Package Leader\n                Affiliation: Steno Diabetes Center Aarhus\n                \n                  ORCID: \n                      https://orcid.org/0000-0002-0627-1237\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n\nNo matching items"
-  },
-  {
-    "objectID": "who-we-are.html#sc",
-    "href": "who-we-are.html#sc",
-    "title": "Who We Are",
-    "section": "Steering Committee",
-    "text": "Steering Committee\n\nThe Steering Committee consists of:\n\nDaniel Witte, SDCA\nGunnar Toft, SDCA\nClaus Bogh Juhl, SDCO\nStine Byberg, SDCC\nNicklas Rasmussen, SDCN\nLine Lindahl-Jacobsen, SDCS\nMaria Skaalum SDCF\nMarit Eika Jørgensen, SDCG\n\nThe Steering Committee at least 6 times per year online and communicates more frequently as required."
-  },
-  {
-    "objectID": "support.html",
-    "href": "support.html",
-    "title": "Support",
-    "section": "",
-    "text": "The project has been funded by a Steno National Collaborative Grant from the Novo Nordisk Foundation and Steno Diabetes Center Odense (SDCO)."
-  },
-  {
-    "objectID": "support.html#grants",
-    "href": "support.html#grants",
-    "title": "Support",
-    "section": "",
-    "text": "The project has been funded by a Steno National Collaborative Grant from the Novo Nordisk Foundation and Steno Diabetes Center Odense (SDCO)."
-  },
-  {
-    "objectID": "newsletter/2025-11-01/index.html",
-    "href": "newsletter/2025-11-01/index.html",
-    "title": "DP-Next newsletter October 25",
-    "section": "",
-    "text": "We are now just over 1 month into the DP-Next project, so I thought I would share some news and a few updates:\n\n\nThe various Work Packages have been recruiting! We are now joined by:\n\nKristiane Beicher: Data architect for DP-Next (working at SDCA)\nMikkel Kolind: Post-doc on WP3 (working at SDCO)\nJonas Schaarup: Post-doc on WP2 and WP3 (working at SDCC)\nHjalte Søberg Mikkelsen: PhD-student on WP2 (working at SDCC)\nKristina Hansen: PhD student on WP2 and WP3 (working at SDCF and SDCA)\nDavid Vadsholt: PhD student on WP3 (working at SDCN)\n\nA very warm welcome to all of you! We look forward to hearing a bit more about your backgrounds and projects during the launch meeting (see below)\nWe are still recruiting for some of the other PhD positions, so more new names will follow in due course.\n\n\n\nWe are making good progress with the drafting of the various versions of the collaboration agreements. The first versions have been sent around to the representatives of all the institutions and review by each organizational legal team will follow in the next weeks.\n\n\n\nI am very sorry we had to cancel our launch meeting on the 3rd of September. We have now found a date in December that suits most people. We will have our online launch meeting on the 17th of December 2025 from 13:00 to 15:00.\n\n\n\nIn order to really get to know each other and to discuss the progress in the first year of DP-Next, we want to plan our first all-hands in person meeting for September 2026. As many of the team members from Greenland and the Faroe Islands will probably be attending EASD and traveling via Denmark, we want to suggest to have the meeting on the 24th or 25th of September 2026. We are thinking of an all-day meeting in Aarhus (10:30 to 17:00 followed by a dinner). Could you please let Gunnar know if there are any major inconveniences for either of these dates?"
-  },
-  {
-    "objectID": "newsletter/2025-11-01/index.html#general",
-    "href": "newsletter/2025-11-01/index.html#general",
-    "title": "DP-Next newsletter October 25",
-    "section": "",
-    "text": "We are now just over 1 month into the DP-Next project, so I thought I would share some news and a few updates:\n\n\nThe various Work Packages have been recruiting! We are now joined by:\n\nKristiane Beicher: Data architect for DP-Next (working at SDCA)\nMikkel Kolind: Post-doc on WP3 (working at SDCO)\nJonas Schaarup: Post-doc on WP2 and WP3 (working at SDCC)\nHjalte Søberg Mikkelsen: PhD-student on WP2 (working at SDCC)\nKristina Hansen: PhD student on WP2 and WP3 (working at SDCF and SDCA)\nDavid Vadsholt: PhD student on WP3 (working at SDCN)\n\nA very warm welcome to all of you! We look forward to hearing a bit more about your backgrounds and projects during the launch meeting (see below)\nWe are still recruiting for some of the other PhD positions, so more new names will follow in due course.\n\n\n\nWe are making good progress with the drafting of the various versions of the collaboration agreements. The first versions have been sent around to the representatives of all the institutions and review by each organizational legal team will follow in the next weeks.\n\n\n\nI am very sorry we had to cancel our launch meeting on the 3rd of September. We have now found a date in December that suits most people. We will have our online launch meeting on the 17th of December 2025 from 13:00 to 15:00.\n\n\n\nIn order to really get to know each other and to discuss the progress in the first year of DP-Next, we want to plan our first all-hands in person meeting for September 2026. As many of the team members from Greenland and the Faroe Islands will probably be attending EASD and traveling via Denmark, we want to suggest to have the meeting on the 24th or 25th of September 2026. We are thinking of an all-day meeting in Aarhus (10:30 to 17:00 followed by a dinner). Could you please let Gunnar know if there are any major inconveniences for either of these dates?"
-  },
-  {
-    "objectID": "newsletter/2025-11-01/index.html#github",
-    "href": "newsletter/2025-11-01/index.html#github",
-    "title": "DP-Next newsletter October 25",
-    "section": "Github",
-    "text": "Github\nAs we mentioned previously, we will be using Github as a joint repository for documents and project files, but also for task/project management. Luke organized a successful introduction to Github session, attended by many. For those who didn’t attend, here are the materials: https://github-intro.rostools.org/"
-  },
-  {
-    "objectID": "newsletter/2025-11-01/index.html#website",
-    "href": "newsletter/2025-11-01/index.html#website",
-    "title": "DP-Next newsletter October 25",
-    "section": "Website",
-    "text": "Website\nThe DP-Next website (https://dp-next.github.io/) contains some very good information, but it is mostly based on the original application we submitted to NNF. Luke has written an extensive outline of the strategy for the Open and Reproducible Science part of WP1 here: https://dp-next.github.io/wp1-ros/, and the WP2 team has written a first version of the Prediction Modeling protocol and published it on Zenodo: https://zenodo.org/records/15410790. I think these are two good examples of how we should be documenting our work in progress, and be publishing it either on our website or on other openly accessible repositories. Please carry on working in this way and if there are any ‘work in progress’ documents, tables or bits of text that you think we should publish on the website, let us know OR preferably: edit the website yourself as a Github branch and submit a pull request. The team of Tech Leads should in due course be able to help you with that!"
-  },
-  {
-    "objectID": "newsletter/2025-11-01/index.html#who-we-are",
-    "href": "newsletter/2025-11-01/index.html#who-we-are",
-    "title": "DP-Next newsletter October 25",
-    "section": "Who we are",
-    "text": "Who we are\nThe ‘Who we are’ page on the DP-Next website currently only contains the profiles of some of us. We are looking to include profiles for everybody who is part of the DP-Next team, so if you are not yet on the ‘Who we are’ page, send us your personal profile and a picture, as well as your ORCID ID number. We will work over the next few weeks to update the format of this page and hope that we will all be featured there when we meet online for the launch meeting on the 17th of December."
-  },
-  {
-    "objectID": "newsletter/2025-11-01/index.html#discord",
-    "href": "newsletter/2025-11-01/index.html#discord",
-    "title": "DP-Next newsletter October 25",
-    "section": "Discord",
-    "text": "Discord\nFor our day-to-day communication, through chat and co-working sessions (possibly also calls and video), we will be using an open source application called Discord. It has some functions like Zoom/Teams and also does what Slack does with messages but without too much clutter. We have created a DP-Next server along with a general channel and channels for each WP. But it’s still very empty in there, as only Luke, Gunnar and I are members. So I want to ask if you could all please:\n\nFollow this link to our Discord server: https://discord.gg/Bpyg3NnD6\nIf you are not already a Discord user, you will be asked to create an account\nYou can choose to access Discord via a browser, but there are also (I think preferable) apps for desktops and mobiles.\nOnce you are on the DP-Next server, you can say hi on the ’say-hi’ channel, and one of us will add you to the (private for now) channels for the WPs you work with or want to follow."
-  },
-  {
-    "objectID": "newsletter/2026-06-01/index.html",
-    "href": "newsletter/2026-06-01/index.html",
-    "title": "DP-Next newsletter June 2026",
-    "section": "",
-    "text": "Michella Ravn Søndergaard - PhD student WP3 SDCC/SDCG\nElpida Vounzoulaki, Post Doc. WP2 SDCA\nMikkel Errboe Steentoft, Master student, WP3 SDCA\nChristian Tjørnehøj, Trainee, SDCA"
-  },
-  {
-    "objectID": "newsletter/2026-06-01/index.html#new-members-of-the-team",
-    "href": "newsletter/2026-06-01/index.html#new-members-of-the-team",
-    "title": "DP-Next newsletter June 2026",
-    "section": "",
-    "text": "Michella Ravn Søndergaard - PhD student WP3 SDCC/SDCG\nElpida Vounzoulaki, Post Doc. WP2 SDCA\nMikkel Errboe Steentoft, Master student, WP3 SDCA\nChristian Tjørnehøj, Trainee, SDCA"
-  },
-  {
-    "objectID": "newsletter/2026-06-01/index.html#meeting-september-24",
-    "href": "newsletter/2026-06-01/index.html#meeting-september-24",
-    "title": "DP-Next newsletter June 2026",
-    "section": "Meeting September 24",
-    "text": "Meeting September 24\nAs announced previously we will be hosting a one day hybrid meeting at SDCA on September 24, with open to all participants and with participation of our advisory board (Robert Wagner, Sarah Wild, and Steven Allender). The meeting will be followed by dinner in the evening. If you have not already done so, read more and sign up for the meeting at: DP-Next meeting 24 September signup"
-  },
-  {
-    "objectID": "newsletter/2026-06-01/index.html#collaboration-agreement-joint-data-controller-agreement",
-    "href": "newsletter/2026-06-01/index.html#collaboration-agreement-joint-data-controller-agreement",
-    "title": "DP-Next newsletter June 2026",
-    "section": "Collaboration agreement + Joint data controller agreement",
-    "text": "Collaboration agreement + Joint data controller agreement\nThe collaboration agreement and joint data controller agreement for all Danish centers are signed and we are working on getting the agreements with Faroe Islands and Greenland in place."
-  },
-  {
-    "objectID": "newsletter/2026-06-01/index.html#publication-strategy",
-    "href": "newsletter/2026-06-01/index.html#publication-strategy",
-    "title": "DP-Next newsletter June 2026",
-    "section": "Publication strategy",
-    "text": "Publication strategy\nA draft of the publication strategy have been developed and is accessible at:\nPublication guidelines\nPlease let us know if you have any comment on this before we finalize this."
-  },
-  {
-    "objectID": "newsletter/2026-06-01/index.html#questionnaire",
-    "href": "newsletter/2026-06-01/index.html#questionnaire",
-    "title": "DP-Next newsletter June 2026",
-    "section": "Questionnaire",
-    "text": "Questionnaire\nThe WP3 questionnaire will be sent out to all 40-49 years old with prediabetes ~ 12.000 and a random subset of 50.000 persons with recent HbA1c measurements. The first test batch of 1.500 questionnaires has been sent out. We expect in total ~ 30.000 responses and will have these baseline data available for initial analyses in the fall 2026."
-  },
-  {
-    "objectID": "newsletter/2026-06-01/index.html#clinical-examination",
-    "href": "newsletter/2026-06-01/index.html#clinical-examination",
-    "title": "DP-Next newsletter June 2026",
-    "section": "Clinical examination",
-    "text": "Clinical examination\nThe WP3 clinical examination planning is ongoing, and VEK application has been submitted. We plan to start recruiting participants in DK in the fall."
-  },
-  {
-    "objectID": "newsletter/2026-06-01/index.html#flowchart",
-    "href": "newsletter/2026-06-01/index.html#flowchart",
-    "title": "DP-Next newsletter June 2026",
-    "section": "Flowchart",
-    "text": "Flowchart\nChristian Tjørnehøj has worked on visualizing the selection steps and estimated participant numbers for the WP3 Questionnaire and Clinical Examination cohorts:\n\n\n\nFlowchart of the selection process for the questionnaire and clinical examination cohorts."
-  },
-  {
-    "objectID": "newsletter/2026-06-01/index.html#dp-next-at-edeg",
-    "href": "newsletter/2026-06-01/index.html#dp-next-at-edeg",
-    "title": "DP-Next newsletter June 2026",
-    "section": "DP-next at EDEG",
-    "text": "DP-next at EDEG\nDP-Next researchers presented the first DP-next related results at EDEG 2026:\nKristina Matthiesen Hansen: Prevalence of prediabetes and diabetes based on routine HbA1c measurements in the Faroese population aged 30-80 years.\nJonas R. Schaarup: Distinct roles of endogenous incretin and glucagon responses to oral glucose tolerance test in association with cardiovascular risk: 11-year follow-up of the ADDITION-PRO study."
-  },
-  {
-    "objectID": "wp3.html",
-    "href": "wp3.html",
-    "title": "Work Package 3: Heterogeneity",
-    "section": "",
-    "text": "WP3 will characterise heterogeneity among people in early middle age with HbA1c defined pre-diabetes. The aim is to identify a set of easily obtainable biomarkers that can optimally distinguish those with high probability of stable pre-diabetes/remission from those at highest risk of progression to diabetes."
-  },
-  {
-    "objectID": "wp3.html#wp-3.1-risk-clustering-and-long-term-prediction",
-    "href": "wp3.html#wp-3.1-risk-clustering-and-long-term-prediction",
-    "title": "Work Package 3: Heterogeneity",
-    "section": "WP 3.1 Risk clustering and long-term prediction",
-    "text": "WP 3.1 Risk clustering and long-term prediction\nWP3.1 will investigate to which degree detailed biological data (e.g. genetics, omics, health behavioural data) can improve risk prediction within a Danish (ADDITION-PRO) and a Greenlandic (Greenland Health Surveys) context. Both cohorts recruited participants more than a decade ago and examined a wide set of cardiometabolic and genetic risk factors, health behaviours and biomarkers, including fat distribution measures and physical activity measures from week long combined heart rate/accelerometer readings. We will link these cohorts to the register-based risk predictions from WP2 (backdated to each cohort baseline), and examine the added predictive value of individual biological risk indicators and of risk factor clusters. The availability of more than a decade of accrued follow-up for diabetes incidence in these cohorts will enable us to obtain a global indication of diabetes risk clusters within the first year of DP-Next."
-  },
-  {
-    "objectID": "wp3.html#wp-3.2-deep-phenotyping-of-hba1c-defined-pre-diabetes",
-    "href": "wp3.html#wp-3.2-deep-phenotyping-of-hba1c-defined-pre-diabetes",
-    "title": "Work Package 3: Heterogeneity",
-    "section": "WP 3.2 Deep Phenotyping of HbA1c defined pre-diabetes",
-    "text": "WP 3.2 Deep Phenotyping of HbA1c defined pre-diabetes\n\nHypothesis:\nAmong individuals with routinely identified prediabetes based on HbA1c, deep phenotyping with non-invasive methods will identify subgroups at the highest risk of progression to T2D and subgroups likely to maintain prediabetes or achieve remission; beyond the predictive ability of age, sex, HbA1c and BMI.\n\n\nBackground:\nAlthough elevated blood glucose precedes T2D onset by over a decade(1), many people with slightly elevated HbA1c do not progress to diabetes(2). Depending on the criteria for prediabetes, 10-40% develop T2D within 1-5 years(3–5) and 17-45% revert to normoglycaemia(2), pointing to significant heterogeneity in diabetes risk among individuals with prediabetes(6–8). A relatively recent cluster-driven diabetes subclassification delineated two subgroups with relatively young age of diabetes onset and absence of marked obesity and low insulin secretion(9), which map to genetic, metabolic and phenotypic characteristics already present in pre-diabetes. Notably, a recent study identified elevated liver fat and diminished beta-cell function as the most predictive factors for progressing to T2D in people with pre-diabetes(10), highlighting the need to extend precision approaches for diabetes prevention beyond genetic predisposition and insulin resistance. The current vision for precision prevention integrates data from genetic, biological (multi-omic), health behavioural and psycho-social components; however, few cohorts have these data in a contemporary population defined in a clinical context.\n\n\nStrategic Vision:\nWP3 establishes such a cohort across Steno Centers with long-term academic and strategic visions. The strategic vision is to establish the facilities, expertise and capacity across all Steno Centers to carry out multi-center clinical studies with a standardised protocol and management/data infrastructure. We also want to prepare the centers for the standardised application of deep phenotyping close to clinical practice by applying a high degree of standardisation, openness and reproducibility (WP1).\n\n\nAcademic Objectives:\nAcademically, we describe a core protocol, which will be carried out within the DP-Next budget and timeframe, and an extended protocol, which describes our ambitions for deeper phenotyping and longer follow-up. Connection and coordination will be sought with new Danish phenotyping initiatives currently underway or in the planning process (e.g. PRECISE).\n\n\nWho will be included:\nIn the core protocol we will identify a cohort of ~1050 individuals aged 40 to 50 years who have recently (within the past 12 months) had a routine HbA1c measurement in the pre-diabetic range (42-47 mmol/mol) and are not using any glucose lowering medication. This age range was chosen to maximise life-long impact on diabetes risk. Sample size calculations use our recent analysis of HbA1c defined (pre)diabetes in Denmark (11), showing that 25% to 40% of Danish residents aged 40-49 had at least 1 HbA1c measurement in 2018. In our target age range pre-diabetes incidence was 6.2/1000 person-years, and the subsequent 5-year cumulative incidence of type-2 diabetes was 31.5%. The 5-year cumulative incidence was recalculated to 23.3% for a follow-up time of 3.5 years using an exponential model assuming a constant hazard rate over the follow-up period. This is equivalent to assuming a diabetes incidence rate of 72.9/1000 person-years. Logistic regression based power calculations show that a cohort of 1050 individuals with a follow-up time of 3.5 years gives us 0.9 power at a 0.05 significance level to detect an odds ratio of at least 1.267 per standard deviation in a continuous exposure variable.\n\n\nRecruitment:\nParticipants will be recruited in Odense (350), Aarhus (350), Aalborg (150), Greenland (50) and the Faroe Islands (50). We intend to include 100 individuals of Greenlandic ancestry, 50 living in Denmark and 50 living in Greenland. Participants will be recruited based on data from routine HbA1c checks, accessed through the LABKA registers. Consequently the clinical decisions prompting a HbA1c measurement will form part of the selection process, reflecting current clinical practice.\n\n\nCore Protocol:\nParticipants will be invited to answer an online questionnaire (medical and family history, sociodemographic data, health literacy, food habits and cravings , personality traits such as willingness to take risks, quality of life, self-perceived mental stress, depression, anxiety, sleep apnea scores) followed by a 4-hour clinical examination at one of the Steno Diabetes Centers. The programme includes: anthropometric measures (height, weight, waist-hip ratio, and DEXA-scan for body composition), a 5-point oral glucose tolerance test to estimate insulin sensitivity and beta-cell function, liver elastography to estimate liver fat and liver stiffness, blood pressure, heart rate variability and pulse-wave velocity for arterial stiffness estimation. Participants will measure physical activity with a combined heart rate monitor / accelerometer during 7 days following the visit. Blood samples will be analysed for lipids and HbA1c and processed for biobanking of plasma, serum and DNA. The biobank will further include urine, saliva and faeces samples. All further measurements will be in biobank samples as part of the extended protocol.\nThe primary outcome for the core protocol is incident Type 2 Diabetes. The LABKA register will identify incident T2D (based on routine HbA1c) supplemented with a study HbA1c measurement at the end of the DP-Next project. The primary statistical analysis will use unsupervised Latent Class Analysis(12) to map the heterogeneity across all measured variables. LCA will be carried out at two levels: a full model including all available data and a minimal model using as few data as possible with limited loss of strength. Modelling studies show that our sample of 1000 is sufficient to identify patterns and clusters in most data sets.\n\n\nExtended Protocol:\nOur ambition is to extend the WP3 protocol beyond the budget and time of DP-Next. Additional funding will be sought to expand the depth of the cardiometabolic phenotyping under real life settings, including a 24-hour ambulatory blood pressure, cardiorespiratory monitoring, and continuous glucose monitoring, with simultaneous app-based diet diaries. We further have the ambition to invite a subset of ~300 participants for a second examination with optical coherence tomography to detect early retinal changes, a single breath-hold MR scan of the liver, and an OGTT during short-term oral steroid treatment. We intend to expand the project carrying out a comprehensive set of omics analyses in biobank materials, including genotyping, proteomics, metabolomics and metagenomic characterisation of faeces and saliva as well as a set of targeted biomarkers covering mechanisms such as endothelial function, liver function and auto-immunity (GAD and islet cell antibodies). Our ambition is to extend the follow-up beyond the DP-Next project period, extending the accrual not only of diabetes cases but also of secondary endpoints such as cardiovascular events."
-  },
-  {
-    "objectID": "newsletter/index.html",
-    "href": "newsletter/index.html",
-    "title": "Newsletter for DP-Next",
-    "section": "",
-    "text": "This page contains newsletters intended to keep members of DP-Next informed about project developments and activities. Below is a list of the newsletters, presented in reverse chronological order (newest first).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDP-Next newsletter October 25\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDP-Next newsletter June 2026\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "wp4.html",
-    "href": "wp4.html",
-    "title": "Work Package 4: Intervention Development",
-    "section": "",
-    "text": "The vision for WP4 is to develop and feasibility test a new set of interventions based on a participatory system dynamics approach (PSDA) to prevent diabetes in selected high-risk target groups defined in WP2. This approach was chosen over the highly protocolised and expert based approaches applied to diabetes prevention so far with disappointing long-term impact. The interventions will be developed in co-creation with citizens, families, local organisations, councils and health care providers to achieve sustainable diabetes prevention. Implementation will be across selected regions, municipalities and local communities in Denmark, Greenland and the Faroe Islands in order to create local and sustainable solutions to prevent type 2 diabetes.\nThe PSDA process combines current evidence on prevention and health promotion, best practice and local insights to achieve new knowledge and create feasible and sustainable solutions/interventions for a complex health challenge such as diabetes prevention(1,2). This approach implies that a variety of engagement and solutions may occur at both the interpersonal and organisational levels. Hence, addressing health in a systems approach, rather than at an individual level only, is novel in the sense that it acknowledges that changes in one aspect of the system can have ripple effects throughout the entire system(3,4). We hypothesise that developing co-created intervention(s) inspired by psychosocial theories such as motivation, health literacy, social support and social networks and based in the local community setting/family setting, will result in sustainable improvements in behaviour (diet, physical activity, sleep) and wellbeing and thereby prevent development of diabetes in people at high risk (WP2).\nSeveral researchers at SDCA, SDCC and SDCS have substantial experience with PSDA in different settings and target groups in Denmark. Employees from all participating SDCs will receive training in how to apply PSDA to solve complex health challenges regarding diabetes prevention. The target group for the training is regional consultants and employees from the selected local communities (e.g. local communities in a municipality) taking part in the development phase."
-  },
-  {
-    "objectID": "wp4.html#psda-process-components",
-    "href": "wp4.html#psda-process-components",
-    "title": "Work Package 4: Intervention Development",
-    "section": "PSDA process components",
-    "text": "PSDA process components\n\nStage 1: Preparation phase\nReview of existing evidence and practice regarding diabetes prevention for the specific target group(s) from WP2 and Selection of Regions, municipalities and local communities and identification of key stakeholders.\n\n\nStage 2: Group Model Building and Systems Mapping\nRecruitment of key leaders and local stakeholders: A coordinator from participating SDC/regions and municipalities will together with the research team identify and recruit 12-15 key leaders (e.g. local politicians, department heads, municipality leaders) and local stakeholders (e.g. health care providers, local sport club representatives, religious leaders, NGOs within health and social care etc.). Key leaders and local stakeholders will be selected based on authority and capacity to initiate actions that are likely to prevent diabetes across sectors and organisations. Group Model Building and systems mapping: During this stage, three workshops (WS1, WS2, WS3) will be held in each participating community. WS1 and WS2 will engage the key leaders and stakeholders. Local health profiles (based on data from the target groups found in WP2) will be presented to provide the first critical engagement step. The key leaders and stakeholders will map the system by building a causal loop diagram to understand how the perceived local system affects the diabetes development in their community. In WS3, all community members willing to engage in driving the change in the local system will be invited to identify priority areas for actions based on the causal loop diagram from WS1 and WS2.\n\n\nStage 3: Implementation of actions, support and monitoring\nActions and support: the output of WS3 is the formation of working groups across the sectors that will focus on implementing chosen actions. The working groups will be supported and supervised by a backbone office consisting of the regional and municipal coordinator(s) and the research team. A follow-up workshop (WS4) will be held with the key stakeholders six months after completion of WS3 to review the consolidated priority actions. To increase and maintain motivation and actions across region, municipality and community, subsequent follow-up meetings will be held with the working groups when needed during the follow-up period after WS3. Monitoring: At an annual meeting across region, municipality and community, health data will be presented to action groups, key leaders and stakeholders, to sustain and promote engagement. Evaluation\nWe will assess if the intervention and study procedures (WP4) are feasible by combining qualitative and quantitative data, focusing on practicality, acceptability, fidelity, and limited-effectiveness testing. Combined, these elements will give an essential understanding of what is required to upscale DP-Next to large-scale testing. The evaluation will be guided by recent frameworks(5,6) and will be constructed to allow for systematic documentation of processes and tentative outcomes. A final program theory on “what works for whom under what circumstances” based on the participatory systems dynamic approach will be made, including recommendations for large-scale testing. In addition to systems measurements, individual measurements will be collected in order to evaluate the specific actions (specific intervention components), e.g. changes in HbA1c, physical activity, diet patterns, sleep, general well-being, health literacy and social support.\n\n\n\n\n\n\nFigure 1: Steps in the Participatory System Dynamics Approach."
-  },
-  {
-    "objectID": "wp4.html#example-of-psda-in-a-high-risk-target-group.",
-    "href": "wp4.html#example-of-psda-in-a-high-risk-target-group.",
-    "title": "Work Package 4: Intervention Development",
-    "section": "Example of PSDA in a high-risk target group.",
-    "text": "Example of PSDA in a high-risk target group.\nTo concretize the PSDA, the process is described in detail for a known high-risk group: ‘Women with a history of gestational diabetes (GDM)’. The same approach will be followed for other identified high-risk groups, ensuring that each group’s unique risks and needs are thoroughly assessed and addressed with the same rigour and systematic methodology.\n\nStage 1:\nMore than 3,500 (6%) pregnant women are annually diagnosed with GDM in Denmark and the number has increased 3-fold in the last decades(7). Women with GDM have an increased risk of long-term adverse health outcomes, including impaired glucose tolerance, T2D, and cardiovascular disease. GDM leaves the mother with an 8-10-fold higher risk of T2D, highest within 3-6 years after the GDM pregnancy(8,9). A recent Danish study found that almost 21% of women offered a clinical follow-up program, aiming at supporting women with GDM, had developed pre-diabetes, T2D or T1D one year postpartum(10). Studies have shown that T2D can be prevented or at least postponed by weight loss, physical activity, and diet(11–13). A low intensity family based intervention delivered in the first year after delivery in a Danish setting targeting women with prior GDM and their families showed improvements in a number of cardiometabolic risk factors, and was found acceptable and feasible for families and HCP (unpublished data for the FACE-IT study(14)). Although regular participation in follow-up screening at GP (recommended guidelines) has been shown to increase the likelihood of early detection of prediabetes/T2D, participation is low(10). Qualitative research has shown the use of electronic reminders of follow-up screening after GDM to be well received by women, although the interaction with their GP played a significant role(15) and that there is remaining need for support from healthcare providers for healthy lifestyle modifications adapted to their situation(16). Thus, the follow-up of women with GDM in general practice is not systematic, and hence, prevention of diabetes is suboptimal.\n\n\nStage 2:\nThe PSDA-example builds on this improvement potential by optimising the clinical follow-up in general practice using PSDA. Potential participants in the GMB process and system mapping (WS1-3) could potentially be: GP´s, families where the mother has been diagnosed with GDM, midwives, health visitors, obstetricians, endocrinologists, NGO´s and primary care coordinators.\n\n\nStage 3:\nBased on the system mapping, working groups will be created and actions will start to be developed aiming to increase participation in the clinical follow-up visits at the GP. Thus it could be suggested that women with previous GDM could have a fasting blood glucose and an HbA1c taken postpartum at the 3-months child examination at the GP in order to follow the current Danish guidelines. In addition the woman will be reminded to have an HbA1c taken yearly also in alignment with the current guidelines. Examples of possible actions/interventions could be: To develop and evaluate risk communication strategies for GP´s to women with prior GDM and their families in order to increase continued participation. To enhance systems supporting the data-infrastructure, e.g. by using reminders(15) and platforms to access data (e.g. existing systems like SAMBLIK and alike)."
-  },
-  {
-    "objectID": "wp1/index.html",
-    "href": "wp1/index.html",
-    "title": "WP1: Better research in less time",
-    "section": "",
-    "text": "Important\n\n\n\nMore detailed documentation on this particular work package can be found on the webpage here.\n\n\nScience, while generating cutting-edge knowledge, lags behind most industry settings when it comes to practical, operational aspects that aim to increase efficiency and effectiveness of the research lifecycle. For instance, while much of research done now relies heavily on software and computational work, funding agencies rarely fund software and data engineering projects, nor do many research groups hire these highly skilled technical personnel. So, the aim of Work Package 1 is to establish these skills and needs as a core component of this project and to help do “better research in less time”.\nTo accomplish this, we have established working groups, including a group dedicated to “research operations”, to fulfil this core aim, as well as developing and implementing common practices and tools that maximise collaboration and that follow some guiding principles. All groups include “tech leads” who have technical knowledge and skills and who will also be part of the research operations group, to help coordinate WP groups with these practices. We aim to onboard and train the tech leads in these practices by embedding them in some work done at SDCA, where these practices have been developing and refining over the last several years. The most relevant practices and skills that this WP1 aims to provide are in software and data engineering, iterative project management, collaborative workflows and tools.\nPertinent to these practices is understanding and assessing risk and challenges. The two biggest challenges we face with this WP1 are:\n\nThe need for highly technical personnel who have sufficient fundamental expertise to understand and apply these practices, which we hope to minimise through the training and onboarding of the tech leads.\nthe IT systems across centers that often don’t work well together, which we hope to reduce the impact of by having a dedicated research operations group.\n\nWhile this WP1 forms the foundation to all other WPs and in many ways aims to support their success, the activities of WP1 are an increasingly needed aspect of research globally. In this regard, we aim to produce tangible and usable deliverables that are independent and valuable on their own."
-  },
-  {
     "objectID": "wp2.html",
     "href": "wp2.html",
     "title": "Work Package 2: Risk Prediction",
@@ -383,5 +96,292 @@
     "title": "DP-Next Meeting 2026",
     "section": "",
     "text": "Short presentation presenter list\n\n\n\n\n\n\n\nName\nWork Package\nAffiliation"
+  },
+  {
+    "objectID": "events/index.html",
+    "href": "events/index.html",
+    "title": "Events for DP-Next",
+    "section": "",
+    "text": "This page contains a listing of events that DP-Next hosts or runs. Below is a list of these events, ordered by date.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDP-Next Meeting 2026\n\n\nA one-day meeting for all researchers involved in DP-Next, hosted at Aarhus University.\n\n\n\n\n\nSep 24, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nHeterogeneity workshop / journal club\n\n\nAgenda for the March 2026 workshop for Work Package 3.\n\n\n\n\n\nMar 18, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "wp4.html",
+    "href": "wp4.html",
+    "title": "Work Package 4: Intervention Development",
+    "section": "",
+    "text": "The vision for WP4 is to develop and feasibility test a new set of interventions based on a participatory system dynamics approach (PSDA) to prevent diabetes in selected high-risk target groups defined in WP2. This approach was chosen over the highly protocolised and expert based approaches applied to diabetes prevention so far with disappointing long-term impact. The interventions will be developed in co-creation with citizens, families, local organisations, councils and health care providers to achieve sustainable diabetes prevention. Implementation will be across selected regions, municipalities and local communities in Denmark, Greenland and the Faroe Islands in order to create local and sustainable solutions to prevent type 2 diabetes.\nThe PSDA process combines current evidence on prevention and health promotion, best practice and local insights to achieve new knowledge and create feasible and sustainable solutions/interventions for a complex health challenge such as diabetes prevention(1,2). This approach implies that a variety of engagement and solutions may occur at both the interpersonal and organisational levels. Hence, addressing health in a systems approach, rather than at an individual level only, is novel in the sense that it acknowledges that changes in one aspect of the system can have ripple effects throughout the entire system(3,4). We hypothesise that developing co-created intervention(s) inspired by psychosocial theories such as motivation, health literacy, social support and social networks and based in the local community setting/family setting, will result in sustainable improvements in behaviour (diet, physical activity, sleep) and wellbeing and thereby prevent development of diabetes in people at high risk (WP2).\nSeveral researchers at SDCA, SDCC and SDCS have substantial experience with PSDA in different settings and target groups in Denmark. Employees from all participating SDCs will receive training in how to apply PSDA to solve complex health challenges regarding diabetes prevention. The target group for the training is regional consultants and employees from the selected local communities (e.g. local communities in a municipality) taking part in the development phase."
+  },
+  {
+    "objectID": "wp4.html#psda-process-components",
+    "href": "wp4.html#psda-process-components",
+    "title": "Work Package 4: Intervention Development",
+    "section": "PSDA process components",
+    "text": "PSDA process components\n\nStage 1: Preparation phase\nReview of existing evidence and practice regarding diabetes prevention for the specific target group(s) from WP2 and Selection of Regions, municipalities and local communities and identification of key stakeholders.\n\n\nStage 2: Group Model Building and Systems Mapping\nRecruitment of key leaders and local stakeholders: A coordinator from participating SDC/regions and municipalities will together with the research team identify and recruit 12-15 key leaders (e.g. local politicians, department heads, municipality leaders) and local stakeholders (e.g. health care providers, local sport club representatives, religious leaders, NGOs within health and social care etc.). Key leaders and local stakeholders will be selected based on authority and capacity to initiate actions that are likely to prevent diabetes across sectors and organisations. Group Model Building and systems mapping: During this stage, three workshops (WS1, WS2, WS3) will be held in each participating community. WS1 and WS2 will engage the key leaders and stakeholders. Local health profiles (based on data from the target groups found in WP2) will be presented to provide the first critical engagement step. The key leaders and stakeholders will map the system by building a causal loop diagram to understand how the perceived local system affects the diabetes development in their community. In WS3, all community members willing to engage in driving the change in the local system will be invited to identify priority areas for actions based on the causal loop diagram from WS1 and WS2.\n\n\nStage 3: Implementation of actions, support and monitoring\nActions and support: the output of WS3 is the formation of working groups across the sectors that will focus on implementing chosen actions. The working groups will be supported and supervised by a backbone office consisting of the regional and municipal coordinator(s) and the research team. A follow-up workshop (WS4) will be held with the key stakeholders six months after completion of WS3 to review the consolidated priority actions. To increase and maintain motivation and actions across region, municipality and community, subsequent follow-up meetings will be held with the working groups when needed during the follow-up period after WS3. Monitoring: At an annual meeting across region, municipality and community, health data will be presented to action groups, key leaders and stakeholders, to sustain and promote engagement. Evaluation\nWe will assess if the intervention and study procedures (WP4) are feasible by combining qualitative and quantitative data, focusing on practicality, acceptability, fidelity, and limited-effectiveness testing. Combined, these elements will give an essential understanding of what is required to upscale DP-Next to large-scale testing. The evaluation will be guided by recent frameworks(5,6) and will be constructed to allow for systematic documentation of processes and tentative outcomes. A final program theory on “what works for whom under what circumstances” based on the participatory systems dynamic approach will be made, including recommendations for large-scale testing. In addition to systems measurements, individual measurements will be collected in order to evaluate the specific actions (specific intervention components), e.g. changes in HbA1c, physical activity, diet patterns, sleep, general well-being, health literacy and social support.\n\n\n\n\n\n\nFigure 1: Steps in the Participatory System Dynamics Approach."
+  },
+  {
+    "objectID": "wp4.html#example-of-psda-in-a-high-risk-target-group.",
+    "href": "wp4.html#example-of-psda-in-a-high-risk-target-group.",
+    "title": "Work Package 4: Intervention Development",
+    "section": "Example of PSDA in a high-risk target group.",
+    "text": "Example of PSDA in a high-risk target group.\nTo concretize the PSDA, the process is described in detail for a known high-risk group: ‘Women with a history of gestational diabetes (GDM)’. The same approach will be followed for other identified high-risk groups, ensuring that each group’s unique risks and needs are thoroughly assessed and addressed with the same rigour and systematic methodology.\n\nStage 1:\nMore than 3,500 (6%) pregnant women are annually diagnosed with GDM in Denmark and the number has increased 3-fold in the last decades(7). Women with GDM have an increased risk of long-term adverse health outcomes, including impaired glucose tolerance, T2D, and cardiovascular disease. GDM leaves the mother with an 8-10-fold higher risk of T2D, highest within 3-6 years after the GDM pregnancy(8,9). A recent Danish study found that almost 21% of women offered a clinical follow-up program, aiming at supporting women with GDM, had developed pre-diabetes, T2D or T1D one year postpartum(10). Studies have shown that T2D can be prevented or at least postponed by weight loss, physical activity, and diet(11–13). A low intensity family based intervention delivered in the first year after delivery in a Danish setting targeting women with prior GDM and their families showed improvements in a number of cardiometabolic risk factors, and was found acceptable and feasible for families and HCP (unpublished data for the FACE-IT study(14)). Although regular participation in follow-up screening at GP (recommended guidelines) has been shown to increase the likelihood of early detection of prediabetes/T2D, participation is low(10). Qualitative research has shown the use of electronic reminders of follow-up screening after GDM to be well received by women, although the interaction with their GP played a significant role(15) and that there is remaining need for support from healthcare providers for healthy lifestyle modifications adapted to their situation(16). Thus, the follow-up of women with GDM in general practice is not systematic, and hence, prevention of diabetes is suboptimal.\n\n\nStage 2:\nThe PSDA-example builds on this improvement potential by optimising the clinical follow-up in general practice using PSDA. Potential participants in the GMB process and system mapping (WS1-3) could potentially be: GP´s, families where the mother has been diagnosed with GDM, midwives, health visitors, obstetricians, endocrinologists, NGO´s and primary care coordinators.\n\n\nStage 3:\nBased on the system mapping, working groups will be created and actions will start to be developed aiming to increase participation in the clinical follow-up visits at the GP. Thus it could be suggested that women with previous GDM could have a fasting blood glucose and an HbA1c taken postpartum at the 3-months child examination at the GP in order to follow the current Danish guidelines. In addition the woman will be reminded to have an HbA1c taken yearly also in alignment with the current guidelines. Examples of possible actions/interventions could be: To develop and evaluate risk communication strategies for GP´s to women with prior GDM and their families in order to increase continued participation. To enhance systems supporting the data-infrastructure, e.g. by using reminders(15) and platforms to access data (e.g. existing systems like SAMBLIK and alike)."
+  },
+  {
+    "objectID": "newsletter/2025-11-01/index.html",
+    "href": "newsletter/2025-11-01/index.html",
+    "title": "DP-Next newsletter October 25",
+    "section": "",
+    "text": "We are now just over 1 month into the DP-Next project, so I thought I would share some news and a few updates:\n\n\nThe various Work Packages have been recruiting! We are now joined by:\n\nKristiane Beicher: Data architect for DP-Next (working at SDCA)\nMikkel Kolind: Post-doc on WP3 (working at SDCO)\nJonas Schaarup: Post-doc on WP2 and WP3 (working at SDCC)\nHjalte Søberg Mikkelsen: PhD-student on WP2 (working at SDCC)\nKristina Hansen: PhD student on WP2 and WP3 (working at SDCF and SDCA)\nDavid Vadsholt: PhD student on WP3 (working at SDCN)\n\nA very warm welcome to all of you! We look forward to hearing a bit more about your backgrounds and projects during the launch meeting (see below)\nWe are still recruiting for some of the other PhD positions, so more new names will follow in due course.\n\n\n\nWe are making good progress with the drafting of the various versions of the collaboration agreements. The first versions have been sent around to the representatives of all the institutions and review by each organizational legal team will follow in the next weeks.\n\n\n\nI am very sorry we had to cancel our launch meeting on the 3rd of September. We have now found a date in December that suits most people. We will have our online launch meeting on the 17th of December 2025 from 13:00 to 15:00.\n\n\n\nIn order to really get to know each other and to discuss the progress in the first year of DP-Next, we want to plan our first all-hands in person meeting for September 2026. As many of the team members from Greenland and the Faroe Islands will probably be attending EASD and traveling via Denmark, we want to suggest to have the meeting on the 24th or 25th of September 2026. We are thinking of an all-day meeting in Aarhus (10:30 to 17:00 followed by a dinner). Could you please let Gunnar know if there are any major inconveniences for either of these dates?"
+  },
+  {
+    "objectID": "newsletter/2025-11-01/index.html#general",
+    "href": "newsletter/2025-11-01/index.html#general",
+    "title": "DP-Next newsletter October 25",
+    "section": "",
+    "text": "We are now just over 1 month into the DP-Next project, so I thought I would share some news and a few updates:\n\n\nThe various Work Packages have been recruiting! We are now joined by:\n\nKristiane Beicher: Data architect for DP-Next (working at SDCA)\nMikkel Kolind: Post-doc on WP3 (working at SDCO)\nJonas Schaarup: Post-doc on WP2 and WP3 (working at SDCC)\nHjalte Søberg Mikkelsen: PhD-student on WP2 (working at SDCC)\nKristina Hansen: PhD student on WP2 and WP3 (working at SDCF and SDCA)\nDavid Vadsholt: PhD student on WP3 (working at SDCN)\n\nA very warm welcome to all of you! We look forward to hearing a bit more about your backgrounds and projects during the launch meeting (see below)\nWe are still recruiting for some of the other PhD positions, so more new names will follow in due course.\n\n\n\nWe are making good progress with the drafting of the various versions of the collaboration agreements. The first versions have been sent around to the representatives of all the institutions and review by each organizational legal team will follow in the next weeks.\n\n\n\nI am very sorry we had to cancel our launch meeting on the 3rd of September. We have now found a date in December that suits most people. We will have our online launch meeting on the 17th of December 2025 from 13:00 to 15:00.\n\n\n\nIn order to really get to know each other and to discuss the progress in the first year of DP-Next, we want to plan our first all-hands in person meeting for September 2026. As many of the team members from Greenland and the Faroe Islands will probably be attending EASD and traveling via Denmark, we want to suggest to have the meeting on the 24th or 25th of September 2026. We are thinking of an all-day meeting in Aarhus (10:30 to 17:00 followed by a dinner). Could you please let Gunnar know if there are any major inconveniences for either of these dates?"
+  },
+  {
+    "objectID": "newsletter/2025-11-01/index.html#github",
+    "href": "newsletter/2025-11-01/index.html#github",
+    "title": "DP-Next newsletter October 25",
+    "section": "Github",
+    "text": "Github\nAs we mentioned previously, we will be using Github as a joint repository for documents and project files, but also for task/project management. Luke organized a successful introduction to Github session, attended by many. For those who didn’t attend, here are the materials: https://github-intro.rostools.org/"
+  },
+  {
+    "objectID": "newsletter/2025-11-01/index.html#website",
+    "href": "newsletter/2025-11-01/index.html#website",
+    "title": "DP-Next newsletter October 25",
+    "section": "Website",
+    "text": "Website\nThe DP-Next website (https://dp-next.github.io/) contains some very good information, but it is mostly based on the original application we submitted to NNF. Luke has written an extensive outline of the strategy for the Open and Reproducible Science part of WP1 here: https://dp-next.github.io/wp1-ros/, and the WP2 team has written a first version of the Prediction Modeling protocol and published it on Zenodo: https://zenodo.org/records/15410790. I think these are two good examples of how we should be documenting our work in progress, and be publishing it either on our website or on other openly accessible repositories. Please carry on working in this way and if there are any ‘work in progress’ documents, tables or bits of text that you think we should publish on the website, let us know OR preferably: edit the website yourself as a Github branch and submit a pull request. The team of Tech Leads should in due course be able to help you with that!"
+  },
+  {
+    "objectID": "newsletter/2025-11-01/index.html#who-we-are",
+    "href": "newsletter/2025-11-01/index.html#who-we-are",
+    "title": "DP-Next newsletter October 25",
+    "section": "Who we are",
+    "text": "Who we are\nThe ‘Who we are’ page on the DP-Next website currently only contains the profiles of some of us. We are looking to include profiles for everybody who is part of the DP-Next team, so if you are not yet on the ‘Who we are’ page, send us your personal profile and a picture, as well as your ORCID ID number. We will work over the next few weeks to update the format of this page and hope that we will all be featured there when we meet online for the launch meeting on the 17th of December."
+  },
+  {
+    "objectID": "newsletter/2025-11-01/index.html#discord",
+    "href": "newsletter/2025-11-01/index.html#discord",
+    "title": "DP-Next newsletter October 25",
+    "section": "Discord",
+    "text": "Discord\nFor our day-to-day communication, through chat and co-working sessions (possibly also calls and video), we will be using an open source application called Discord. It has some functions like Zoom/Teams and also does what Slack does with messages but without too much clutter. We have created a DP-Next server along with a general channel and channels for each WP. But it’s still very empty in there, as only Luke, Gunnar and I are members. So I want to ask if you could all please:\n\nFollow this link to our Discord server: https://discord.gg/Bpyg3NnD6\nIf you are not already a Discord user, you will be asked to create an account\nYou can choose to access Discord via a browser, but there are also (I think preferable) apps for desktops and mobiles.\nOnce you are on the DP-Next server, you can say hi on the ’say-hi’ channel, and one of us will add you to the (private for now) channels for the WPs you work with or want to follow."
+  },
+  {
+    "objectID": "who-we-are.html",
+    "href": "who-we-are.html",
+    "title": "Who We Are",
+    "section": "",
+    "text": "DP-Next will be carried out by a cross-disciplinary team of epidemiologists, clinicians, health scientists and data scientists across all seven Steno Diabetes Centres."
+  },
+  {
+    "objectID": "who-we-are.html#wp1",
+    "href": "who-we-are.html#wp1",
+    "title": "Who We Are",
+    "section": "Work package 1",
+    "text": "Work package 1\n\n\n  \n    \n      \n        \n        \n          \n            \n              Daniel Witte\n              DP-Next PI, keeping an overview on all activity within and between Work Packages and reviewing wherever necessary.\n\n              \n                Role: Principal investigator\n                Affiliation: Steno Diabetes Center Aarhus\n                \n                  ORCID: \n                      https://orcid.org/0000-0002-0769-2922\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Luke W. Johnston\n              Team leader of the collaborating Seedcase Project. Leads the reproducible and open science aspect of WP1, mainly coordinating and training DP-Next members on how to effectively collaborate in a more open way through GitHub.\n\n              \n                Role: Package Co-Leader\n                Affiliation: Steno Diabetes Center Aarhus\n                \n                  ORCID: \n                      https://orcid.org/0000-0003-4169-2616\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Gunnar Toft\n              Senior researcher at SDCA, with broad epidemiological experience and experience in coordination of international research projects. He acts as general coordinator of the DP-Next project.\n\n              \n                Role: General coordinator\n                Affiliation: Steno Diabetes Center Aarhus\n                \n                  ORCID: \n                      https://orcid.org/0000-0002-7542-6853\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "who-we-are.html#wp2",
+    "href": "who-we-are.html#wp2",
+    "title": "Who We Are",
+    "section": "Work package 2",
+    "text": "Work package 2\n\n\n  \n    \n      \n        \n        \n          \n            \n              Stine Byberg\n              Leads WP2 with a focus on register-based prediction research.\n\n              \n                Role: Package Leader\n                Affiliation: Steno Diabetes Center Copenhagen\n                \n                  ORCID: \n                      https://orcid.org/0000-0002-3626-3609\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Herborg Líggjasardóttir Johannesen\n              Contributes endocrinology expertise to both WP2 and WP3.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Faroe Islands\n                \n                  ORCID: \n                      https://orcid.org/0000-0002-9048-3303\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Hjalte Søberg Mikkelsen\n              PhD student in biostatistics contributing to developing the risk prediction models within the Danish registers.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Copenhagen\n                \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Jonas Frey Rosborg Schaarup\n              Main lead for coordinating the practical development of the risk prediction models within the Danish register data, to ensure reproducibility and translatability to the Greenlandic and Faroe Islands' register data.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Aarhus\n                \n                    \n                      Responsibilities:\n                        \n                          \n                            Issue management\n                            \n                            Roadmap management\n                            \n                        \n                      \n                      \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Karoline Kragelund Nielsen\n              Supports WP2 analyses and contributes epidemiological expertise.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Copenhagen\n                \n                  ORCID: \n                      https://orcid.org/0000-0002-4058-0615\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Kristina Matthiesen Hansen\n              I am a PhD student working in the Faroe Islands and Aarhus applying the Danish risk prediction model to the Faroe register data.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Faroe Islands\n                \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Maria Skaalum Petersen\n              Contributes health science expertise to WP2 model development.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Faroe Islands\n                \n                  ORCID: \n                      https://orcid.org/0000-0001-9404-8440\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "who-we-are.html#wp3",
+    "href": "who-we-are.html#wp3",
+    "title": "Who We Are",
+    "section": "Work package 3",
+    "text": "Work package 3\n\n\n  \n    \n      \n        \n        \n          \n            \n              Claus Bogh Juhl\n              Leads WP3 and contributes clinical expertise on diabetes and obesity.\n\n              \n                Role: Package Leader\n                Affiliation: Unit of Clinical Interventions, Steno Diabetes Center Odense\n                \n                  ORCID: \n                      https://orcid.org/0000-0002-4285-5459\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Christian Tjørnehøj\n              Doing an internship and contributing to developing the data collection protocol.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Aarhus\n                \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              David Vadsholt\n              PhD student in Aalborg contributing to develop the data collection protocol\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center North Jutland\n                \n                  ORCID: \n                      https://orcid.org/0009-0005-6227-7333\n                    \n                  \n                    \n                      Responsibilities:\n                        \n                          \n                            Issue management\n                            \n                            Roadmap management\n                            \n                        \n                      \n                      \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Herborg Líggjasardóttir Johannesen\n              Contributes endocrinology expertise to both WP2 and WP3.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Faroe Islands\n                \n                  ORCID: \n                      https://orcid.org/0000-0002-9048-3303\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Johan Røikjer\n              Contributes clinical research support and domain insight in WP3.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center North Denmark\n                \n                  ORCID: \n                      https://orcid.org/0000-0002-4578-1328\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Jonas Frey Rosborg Schaarup\n              Contributing to assessing heterogeneity by analysing the ADDITION-PRO data.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Aarhus\n                \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Kristina Matthiesen Hansen\n              I am a PhD student working in the Faroe Islands and Aarhus contributing to developing the data collection protocol.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Faroe Islands\n                \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Mikkel Errboe Steentoft\n              Masters student contributing to analyses assessing heterogeneity in a prediabetic populations.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center Aarhus\n                \n                    \n              \n            \n          \n        \n      \n    \n    \n    \n      \n        \n        \n          \n            \n              Nicklas Højgaard-Hessellund Rasmussen\n              Supports WP3 with data analysis and methodological input.\n\n              \n                Role: Member\n                Affiliation: Steno Diabetes Center North Jutland\n                \n                  ORCID: \n                      https://orcid.org/0000-0002-3880-3058\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "who-we-are.html#wp4",
+    "href": "who-we-are.html#wp4",
+    "title": "Who We Are",
+    "section": "Work package 4",
+    "text": "Work package 4\n\n\n  \n    \n      \n        \n        \n          \n            \n              Jane Nautrup Østergaard\n              Leads WP4 and oversees intervention development activities.\n\n              \n                Role: Package Leader\n                Affiliation: Steno Diabetes Center Aarhus\n                \n                  ORCID: \n                      https://orcid.org/0000-0002-0627-1237\n                    \n                  \n                    \n              \n            \n          \n        \n      \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "who-we-are.html#sc",
+    "href": "who-we-are.html#sc",
+    "title": "Who We Are",
+    "section": "Steering Committee",
+    "text": "Steering Committee\n\nThe Steering Committee consists of:\n\nDaniel Witte, SDCA\nGunnar Toft, SDCA\nClaus Bogh Juhl, SDCO\nStine Byberg, SDCC\nNicklas Rasmussen, SDCN\nLine Lindahl-Jacobsen, SDCS\nMaria Skaalum SDCF\nMarit Eika Jørgensen, SDCG\n\nThe Steering Committee at least 6 times per year online and communicates more frequently as required."
+  },
+  {
+    "objectID": "newsletter/index.html",
+    "href": "newsletter/index.html",
+    "title": "Newsletter for DP-Next",
+    "section": "",
+    "text": "This page contains newsletters intended to keep members of DP-Next informed about project developments and activities. Below is a list of the newsletters, presented in reverse chronological order (newest first).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDP-Next newsletter October 25\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDP-Next newsletter June 2026\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "newsletter/2026-06-01/index.html",
+    "href": "newsletter/2026-06-01/index.html",
+    "title": "DP-Next newsletter June 2026",
+    "section": "",
+    "text": "Michella Ravn Søndergaard - PhD student WP3 SDCC/SDCG\nElpida Vounzoulaki, Post Doc. WP2 SDCA\nMikkel Errboe Steentoft, Master student, WP3 SDCA\nChristian Tjørnehøj, Trainee, SDCA"
+  },
+  {
+    "objectID": "newsletter/2026-06-01/index.html#new-members-of-the-team",
+    "href": "newsletter/2026-06-01/index.html#new-members-of-the-team",
+    "title": "DP-Next newsletter June 2026",
+    "section": "",
+    "text": "Michella Ravn Søndergaard - PhD student WP3 SDCC/SDCG\nElpida Vounzoulaki, Post Doc. WP2 SDCA\nMikkel Errboe Steentoft, Master student, WP3 SDCA\nChristian Tjørnehøj, Trainee, SDCA"
+  },
+  {
+    "objectID": "newsletter/2026-06-01/index.html#meeting-september-24",
+    "href": "newsletter/2026-06-01/index.html#meeting-september-24",
+    "title": "DP-Next newsletter June 2026",
+    "section": "Meeting September 24",
+    "text": "Meeting September 24\nAs announced previously we will be hosting a one day hybrid meeting at SDCA on September 24, with open to all participants and with participation of our advisory board (Robert Wagner, Sarah Wild, and Steven Allender). The meeting will be followed by dinner in the evening. If you have not already done so, read more and sign up for the meeting at: DP-Next meeting 24 September signup"
+  },
+  {
+    "objectID": "newsletter/2026-06-01/index.html#collaboration-agreement-joint-data-controller-agreement",
+    "href": "newsletter/2026-06-01/index.html#collaboration-agreement-joint-data-controller-agreement",
+    "title": "DP-Next newsletter June 2026",
+    "section": "Collaboration agreement + Joint data controller agreement",
+    "text": "Collaboration agreement + Joint data controller agreement\nThe collaboration agreement and joint data controller agreement for all Danish centers are signed and we are working on getting the agreements with Faroe Islands and Greenland in place."
+  },
+  {
+    "objectID": "newsletter/2026-06-01/index.html#publication-strategy",
+    "href": "newsletter/2026-06-01/index.html#publication-strategy",
+    "title": "DP-Next newsletter June 2026",
+    "section": "Publication strategy",
+    "text": "Publication strategy\nA draft of the publication strategy have been developed and is accessible at:\nPublication guidelines\nPlease let us know if you have any comment on this before we finalize this."
+  },
+  {
+    "objectID": "newsletter/2026-06-01/index.html#questionnaire",
+    "href": "newsletter/2026-06-01/index.html#questionnaire",
+    "title": "DP-Next newsletter June 2026",
+    "section": "Questionnaire",
+    "text": "Questionnaire\nThe WP3 questionnaire will be sent out to all 40-49 years old with prediabetes ~ 12.000 and a random subset of 50.000 persons with recent HbA1c measurements. The first test batch of 1.500 questionnaires has been sent out. We expect in total ~ 30.000 responses and will have these baseline data available for initial analyses in the fall 2026."
+  },
+  {
+    "objectID": "newsletter/2026-06-01/index.html#clinical-examination",
+    "href": "newsletter/2026-06-01/index.html#clinical-examination",
+    "title": "DP-Next newsletter June 2026",
+    "section": "Clinical examination",
+    "text": "Clinical examination\nThe WP3 clinical examination planning is ongoing, and VEK application has been submitted. We plan to start recruiting participants in DK in the fall."
+  },
+  {
+    "objectID": "newsletter/2026-06-01/index.html#flowchart",
+    "href": "newsletter/2026-06-01/index.html#flowchart",
+    "title": "DP-Next newsletter June 2026",
+    "section": "Flowchart",
+    "text": "Flowchart\nChristian Tjørnehøj has worked on visualizing the selection steps and estimated participant numbers for the WP3 Questionnaire and Clinical Examination cohorts:\n\n\n\nFlowchart of the selection process for the questionnaire and clinical examination cohorts."
+  },
+  {
+    "objectID": "newsletter/2026-06-01/index.html#dp-next-at-edeg",
+    "href": "newsletter/2026-06-01/index.html#dp-next-at-edeg",
+    "title": "DP-Next newsletter June 2026",
+    "section": "DP-next at EDEG",
+    "text": "DP-next at EDEG\nDP-Next researchers presented the first DP-next related results at EDEG 2026:\nKristina Matthiesen Hansen: Prevalence of prediabetes and diabetes based on routine HbA1c measurements in the Faroese population aged 30-80 years.\nJonas R. Schaarup: Distinct roles of endogenous incretin and glucagon responses to oral glucose tolerance test in association with cardiovascular risk: 11-year follow-up of the ADDITION-PRO study."
+  },
+  {
+    "objectID": "outputs.html",
+    "href": "outputs.html",
+    "title": "Research outputs",
+    "section": "",
+    "text": "We look forward to sharing publications arising from the work of DP-Next."
+  },
+  {
+    "objectID": "outputs.html#protocol",
+    "href": "outputs.html#protocol",
+    "title": "Research outputs",
+    "section": "Protocol",
+    "text": "Protocol\n\n\n\nSustainable Type 2 Diabetes Prevention for the 21st Century (DP-Next) - protocol for predicting Type 2 diabetes: (2025)\nDOI: 10.5281/zenodo.15410790\n\n\nNo matching items"
+  },
+  {
+    "objectID": "outputs.html#publications",
+    "href": "outputs.html#publications",
+    "title": "Research outputs",
+    "section": "Publications",
+    "text": "Publications\n\n\n\nExample publication: (2026)\nDOI: 10.5281/zenodo.15410790\n\n\nNo matching items"
+  },
+  {
+    "objectID": "outputs.html#podcasts",
+    "href": "outputs.html#podcasts",
+    "title": "Research outputs",
+    "section": "Podcasts",
+    "text": "Podcasts\n\n\n\nForskere vil forsinke udvikling af type 2-diabetes: (2026) Host: Diabetesforskerne\n(https://open.spotify.com/episode/3WmBVyNdqTDAMZ4KLPJDZF?si=_mKZYWQFQkKbLufQy-ELSg)\n\n\nNo matching items"
+  },
+  {
+    "objectID": "events/2026-03-18/index.html",
+    "href": "events/2026-03-18/index.html",
+    "title": "Heterogeneity workshop / journal club",
+    "section": "",
+    "text": "This file presents an overview of the talking points for the workshop, including relevant articles, measurement discussions, ideas, and suggestions."
+  },
+  {
+    "objectID": "events/2026-03-18/index.html#heterogeneity-workshop-and-journal-club",
+    "href": "events/2026-03-18/index.html#heterogeneity-workshop-and-journal-club",
+    "title": "Heterogeneity workshop / journal club",
+    "section": "",
+    "text": "This file presents an overview of the talking points for the workshop, including relevant articles, measurement discussions, ideas, and suggestions."
+  },
+  {
+    "objectID": "events/2026-03-18/index.html#draft-agenda",
+    "href": "events/2026-03-18/index.html#draft-agenda",
+    "title": "Heterogeneity workshop / journal club",
+    "section": "Draft Agenda",
+    "text": "Draft Agenda\n\n\n\n\n\n\n\n\nTime\nTopic\nPresenter\n\n\n\n\n11:00-12:00\nDiabetes Heterogeneity Overview\nDaniel\n\n\n\nIntroduction to the Workshop and Journal Club\nDaniel\n\n\n\nConceptual background: Different types of heterogeneity\nDaniel\n\n\n\nOverview: Current approaches to heterogeneity in T2D and pre-diabetes\nChristian / Mikkel S\n\n\n12:00-12:30\nLunch Break\n\n\n\n12:30-14:00\nMeasurement Selection and Discussion\nKristina / David / Mikkel K / Jonas\n\n\n14:00-15:30\nStatistical Analysis and Group Work\nChristian / Daniel\n\n\n15:30-16:00\nPlan for Journal Club series: dates, leads, topics\nAll"
+  },
+  {
+    "objectID": "events/2026-03-18/index.html#session-descriptions",
+    "href": "events/2026-03-18/index.html#session-descriptions",
+    "title": "Heterogeneity workshop / journal club",
+    "section": "Session Descriptions",
+    "text": "Session Descriptions\n\n11:00-12:00 | Diabetes Heterogeneity Overview\nA general introduction to diabetes heterogeneity and current discussions within the field, followed by an overview of three clustering methods: K-means, hierarchical clustering, and latent class analysis (LCA).\n\n\n12:00-12:30 | Lunch Break\nSandwiches from the cafeteria\n\n\n12:30-14:00 | Measurement Selection and Discussion\nIn this session we will review a proposed measurement list and discuss which measurements add important scientific value, consider participant burden, and assess feasibility across the different Steno Diabetes Centers.\n\n\n14:00-15:30 | Statistical Analysis and Group Work\nIn this session we will review statistical methods and how their algorithms work to explore heterogeneity. This will include a short presentation / some code-along / group exercises in R using a simple dataset to explore different clustering approaches.\n\n\n15:30-16:00 | Plan for Journal Club\nTo conclude we will discuss the best way to organise the Heterogeneity Journal club: Best day/time, which topics will we cover, who will take the lead on what."
+  },
+  {
+    "objectID": "events/2026-03-18/index.html#potential-talking-and-discussion-points",
+    "href": "events/2026-03-18/index.html#potential-talking-and-discussion-points",
+    "title": "Heterogeneity workshop / journal club",
+    "section": "Potential talking and discussion points:",
+    "text": "Potential talking and discussion points:\n\nHard or soft clustering\nLimitations of clustering and potential solutions\n\nTemporal drift\n\nWagner: approximately 20% of type-2 diabetic patients change subgroup over a 5-year period.\n\nWhat to do with people who don’t fit clearly into one subtype?\nUncertainty about whether subgroups capture discrete pathologies\n\nClustering versus other approaches to map heterogeneity\nClustering using dynamic data (e.g. OGTT responses, continuous glucose monitoring, or physical activity monitoring)\nClustering using dynamic data (e.g. OGTT responses, continuous glucose monitoring, or physical activity monitoring)"
+  },
+  {
+    "objectID": "wp3.html",
+    "href": "wp3.html",
+    "title": "Work Package 3: Heterogeneity",
+    "section": "",
+    "text": "WP3 will characterise heterogeneity among people in early middle age with HbA1c defined pre-diabetes. The aim is to identify a set of easily obtainable biomarkers that can optimally distinguish those with high probability of stable pre-diabetes/remission from those at highest risk of progression to diabetes."
+  },
+  {
+    "objectID": "wp3.html#wp-3.1-risk-clustering-and-long-term-prediction",
+    "href": "wp3.html#wp-3.1-risk-clustering-and-long-term-prediction",
+    "title": "Work Package 3: Heterogeneity",
+    "section": "WP 3.1 Risk clustering and long-term prediction",
+    "text": "WP 3.1 Risk clustering and long-term prediction\nWP3.1 will investigate to which degree detailed biological data (e.g. genetics, omics, health behavioural data) can improve risk prediction within a Danish (ADDITION-PRO) and a Greenlandic (Greenland Health Surveys) context. Both cohorts recruited participants more than a decade ago and examined a wide set of cardiometabolic and genetic risk factors, health behaviours and biomarkers, including fat distribution measures and physical activity measures from week long combined heart rate/accelerometer readings. We will link these cohorts to the register-based risk predictions from WP2 (backdated to each cohort baseline), and examine the added predictive value of individual biological risk indicators and of risk factor clusters. The availability of more than a decade of accrued follow-up for diabetes incidence in these cohorts will enable us to obtain a global indication of diabetes risk clusters within the first year of DP-Next."
+  },
+  {
+    "objectID": "wp3.html#wp-3.2-deep-phenotyping-of-hba1c-defined-pre-diabetes",
+    "href": "wp3.html#wp-3.2-deep-phenotyping-of-hba1c-defined-pre-diabetes",
+    "title": "Work Package 3: Heterogeneity",
+    "section": "WP 3.2 Deep Phenotyping of HbA1c defined pre-diabetes",
+    "text": "WP 3.2 Deep Phenotyping of HbA1c defined pre-diabetes\n\nHypothesis:\nAmong individuals with routinely identified prediabetes based on HbA1c, deep phenotyping with non-invasive methods will identify subgroups at the highest risk of progression to T2D and subgroups likely to maintain prediabetes or achieve remission; beyond the predictive ability of age, sex, HbA1c and BMI.\n\n\nBackground:\nAlthough elevated blood glucose precedes T2D onset by over a decade(1), many people with slightly elevated HbA1c do not progress to diabetes(2). Depending on the criteria for prediabetes, 10-40% develop T2D within 1-5 years(3–5) and 17-45% revert to normoglycaemia(2), pointing to significant heterogeneity in diabetes risk among individuals with prediabetes(6–8). A relatively recent cluster-driven diabetes subclassification delineated two subgroups with relatively young age of diabetes onset and absence of marked obesity and low insulin secretion(9), which map to genetic, metabolic and phenotypic characteristics already present in pre-diabetes. Notably, a recent study identified elevated liver fat and diminished beta-cell function as the most predictive factors for progressing to T2D in people with pre-diabetes(10), highlighting the need to extend precision approaches for diabetes prevention beyond genetic predisposition and insulin resistance. The current vision for precision prevention integrates data from genetic, biological (multi-omic), health behavioural and psycho-social components; however, few cohorts have these data in a contemporary population defined in a clinical context.\n\n\nStrategic Vision:\nWP3 establishes such a cohort across Steno Centers with long-term academic and strategic visions. The strategic vision is to establish the facilities, expertise and capacity across all Steno Centers to carry out multi-center clinical studies with a standardised protocol and management/data infrastructure. We also want to prepare the centers for the standardised application of deep phenotyping close to clinical practice by applying a high degree of standardisation, openness and reproducibility (WP1).\n\n\nAcademic Objectives:\nAcademically, we describe a core protocol, which will be carried out within the DP-Next budget and timeframe, and an extended protocol, which describes our ambitions for deeper phenotyping and longer follow-up. Connection and coordination will be sought with new Danish phenotyping initiatives currently underway or in the planning process (e.g. PRECISE).\n\n\nWho will be included:\nIn the core protocol we will identify a cohort of ~1050 individuals aged 40 to 50 years who have recently (within the past 12 months) had a routine HbA1c measurement in the pre-diabetic range (42-47 mmol/mol) and are not using any glucose lowering medication. This age range was chosen to maximise life-long impact on diabetes risk. Sample size calculations use our recent analysis of HbA1c defined (pre)diabetes in Denmark (11), showing that 25% to 40% of Danish residents aged 40-49 had at least 1 HbA1c measurement in 2018. In our target age range pre-diabetes incidence was 6.2/1000 person-years, and the subsequent 5-year cumulative incidence of type-2 diabetes was 31.5%. The 5-year cumulative incidence was recalculated to 23.3% for a follow-up time of 3.5 years using an exponential model assuming a constant hazard rate over the follow-up period. This is equivalent to assuming a diabetes incidence rate of 72.9/1000 person-years. Logistic regression based power calculations show that a cohort of 1050 individuals with a follow-up time of 3.5 years gives us 0.9 power at a 0.05 significance level to detect an odds ratio of at least 1.267 per standard deviation in a continuous exposure variable.\n\n\nRecruitment:\nParticipants will be recruited in Odense (350), Aarhus (350), Aalborg (150), Greenland (50) and the Faroe Islands (50). We intend to include 100 individuals of Greenlandic ancestry, 50 living in Denmark and 50 living in Greenland. Participants will be recruited based on data from routine HbA1c checks, accessed through the LABKA registers. Consequently the clinical decisions prompting a HbA1c measurement will form part of the selection process, reflecting current clinical practice.\n\n\nCore Protocol:\nParticipants will be invited to answer an online questionnaire (medical and family history, sociodemographic data, health literacy, food habits and cravings , personality traits such as willingness to take risks, quality of life, self-perceived mental stress, depression, anxiety, sleep apnea scores) followed by a 4-hour clinical examination at one of the Steno Diabetes Centers. The programme includes: anthropometric measures (height, weight, waist-hip ratio, and DEXA-scan for body composition), a 5-point oral glucose tolerance test to estimate insulin sensitivity and beta-cell function, liver elastography to estimate liver fat and liver stiffness, blood pressure, heart rate variability and pulse-wave velocity for arterial stiffness estimation. Participants will measure physical activity with a combined heart rate monitor / accelerometer during 7 days following the visit. Blood samples will be analysed for lipids and HbA1c and processed for biobanking of plasma, serum and DNA. The biobank will further include urine, saliva and faeces samples. All further measurements will be in biobank samples as part of the extended protocol.\nThe primary outcome for the core protocol is incident Type 2 Diabetes. The LABKA register will identify incident T2D (based on routine HbA1c) supplemented with a study HbA1c measurement at the end of the DP-Next project. The primary statistical analysis will use unsupervised Latent Class Analysis(12) to map the heterogeneity across all measured variables. LCA will be carried out at two levels: a full model including all available data and a minimal model using as few data as possible with limited loss of strength. Modelling studies show that our sample of 1000 is sufficient to identify patterns and clusters in most data sets.\n\n\nExtended Protocol:\nOur ambition is to extend the WP3 protocol beyond the budget and time of DP-Next. Additional funding will be sought to expand the depth of the cardiometabolic phenotyping under real life settings, including a 24-hour ambulatory blood pressure, cardiorespiratory monitoring, and continuous glucose monitoring, with simultaneous app-based diet diaries. We further have the ambition to invite a subset of ~300 participants for a second examination with optical coherence tomography to detect early retinal changes, a single breath-hold MR scan of the liver, and an OGTT during short-term oral steroid treatment. We intend to expand the project carrying out a comprehensive set of omics analyses in biobank materials, including genotyping, proteomics, metabolomics and metagenomic characterisation of faeces and saliva as well as a set of targeted biomarkers covering mechanisms such as endothelial function, liver function and auto-immunity (GAD and islet cell antibodies). Our ambition is to extend the follow-up beyond the DP-Next project period, extending the accrual not only of diabetes cases but also of secondary endpoints such as cardiovascular events."
+  },
+  {
+    "objectID": "wp1/index.html",
+    "href": "wp1/index.html",
+    "title": "WP1: Better research in less time",
+    "section": "",
+    "text": "Important\n\n\n\nMore detailed documentation on this particular work package can be found on the webpage here.\n\n\nScience, while generating cutting-edge knowledge, lags behind most industry settings when it comes to practical, operational aspects that aim to increase efficiency and effectiveness of the research lifecycle. For instance, while much of research done now relies heavily on software and computational work, funding agencies rarely fund software and data engineering projects, nor do many research groups hire these highly skilled technical personnel. So, the aim of Work Package 1 is to establish these skills and needs as a core component of this project and to help do “better research in less time”.\nTo accomplish this, we have established working groups, including a group dedicated to “research operations”, to fulfil this core aim, as well as developing and implementing common practices and tools that maximise collaboration and that follow some guiding principles. All groups include “tech leads” who have technical knowledge and skills and who will also be part of the research operations group, to help coordinate WP groups with these practices. We aim to onboard and train the tech leads in these practices by embedding them in some work done at SDCA, where these practices have been developing and refining over the last several years. The most relevant practices and skills that this WP1 aims to provide are in software and data engineering, iterative project management, collaborative workflows and tools.\nPertinent to these practices is understanding and assessing risk and challenges. The two biggest challenges we face with this WP1 are:\n\nThe need for highly technical personnel who have sufficient fundamental expertise to understand and apply these practices, which we hope to minimise through the training and onboarding of the tech leads.\nthe IT systems across centers that often don’t work well together, which we hope to reduce the impact of by having a dedicated research operations group.\n\nWhile this WP1 forms the foundation to all other WPs and in many ways aims to support their success, the activities of WP1 are an increasingly needed aspect of research globally. In this regard, we aim to produce tangible and usable deliverables that are independent and valuable on their own."
+  },
+  {
+    "objectID": "support.html",
+    "href": "support.html",
+    "title": "Support",
+    "section": "",
+    "text": "The project has been funded by a Steno National Collaborative Grant from the Novo Nordisk Foundation and Steno Diabetes Center Odense (SDCO)."
+  },
+  {
+    "objectID": "support.html#grants",
+    "href": "support.html#grants",
+    "title": "Support",
+    "section": "",
+    "text": "The project has been funded by a Steno National Collaborative Grant from the Novo Nordisk Foundation and Steno Diabetes Center Odense (SDCO)."
   }
 ]
