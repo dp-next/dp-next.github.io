@@ -62,6 +62,6 @@
   description: "PhD student in Aalborg contributing to develop the data collection protocol"
   responsibilities:
     - name: "Issue management"
-      href: "https://dp-next.github.io/wp1-ros/managing/roles.html#Issue-management"
+      href: "https://dp-next.github.io/guide/docs/overview/roles.html#issue-management"
     - name: "Roadmap management"
-      href: "https://dp-next.github.io/wp1-ros/managing/roles.html#Roadmap-management"
+      href: "https://dp-next.github.io/guide/docs/overview/roles.html#roadmap-management"

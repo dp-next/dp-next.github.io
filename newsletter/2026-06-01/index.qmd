@@ -29,8 +29,7 @@ Islands and Greenland in place.
 
 A draft of the publication strategy have been developed and is accessible at:
 
-[Publication
-guidelines](https://dp-next.github.io/wp1-ros/managing/publishing.html)
+[Publication guidelines](https://dp-next.github.io/guide/docs/publishing/)
 
 Please let us know if you have any comment on this before we finalize this.
 
