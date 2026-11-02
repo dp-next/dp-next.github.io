@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/outputs.html",
-    "items": []
-  },
-  {
-    "listing": "/who-we-are.html",
-    "items": []
-  },
-  {
     "listing": "/events/index.html",
     "items": [
       "/events/2026-09-24/index.html",
@@ -20,5 +12,13 @@
       "/newsletter/2025-11-01/index.html",
       "/newsletter/2026-06-01/index.html"
     ]
+  },
+  {
+    "listing": "/who-we-are.html",
+    "items": []
+  },
+  {
+    "listing": "/outputs.html",
+    "items": []
   }
 ]
