@@ -7,18 +7,18 @@
     ]
   },
   {
-    "listing": "/newsletter/index.html",
-    "items": [
-      "/newsletter/2025-11-01/index.html",
-      "/newsletter/2026-06-01/index.html"
-    ]
-  },
-  {
     "listing": "/who-we-are.html",
     "items": []
   },
   {
     "listing": "/outputs.html",
     "items": []
+  },
+  {
+    "listing": "/newsletter/index.html",
+    "items": [
+      "/newsletter/2025-11-01/index.html",
+      "/newsletter/2026-06-01/index.html"
+    ]
   }
 ]
